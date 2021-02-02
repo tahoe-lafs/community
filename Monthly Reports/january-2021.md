@@ -4,7 +4,7 @@ This report was produced by the Community Manager and covers discussions and dec
 
 It is the first file in a new folder of monthly reports to keep the Tahoe-LAFS community informed on discussions and decisions regarding the project.
 
-Because this is the first report, it important to mention that currently:
+Because this is the first report, it is important to mention that currently:
 
 + Whenever possible, titles/roles are mentioned alongside names
 + We followed a simple but transparent and public governance process, outlined in the table below

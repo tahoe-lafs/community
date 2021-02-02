@@ -4,7 +4,7 @@ This report was produced by the Community Manager and covers discussions and dec
 
 It is the first file in a new folder of monthly reports to keep the Tahoe-LAFS community informed on discussions and decisions regarding the project.
 
-Because this is the first report, I find it important to mention that currently:
+Because this is the first report, it important to mention that currently:
 
 + Whenever possible, titles/roles are mentioned alongside names
 + We followed a simple but transparent and public governance process, outlined in the table below
@@ -49,7 +49,7 @@ Upcoming items where input/assistance is requested:
 |                     | Infrastructure | Get servers for public UI/UX (GridSync)                                      | Knocking out one technical requirement will make things easier for new users                                                                                                                                  |
 |                     |                | Get DNS server                                                               | Table stakes                                                                                                                                                                                                  |
 |                     | Finance        | Set up expenses tracking                                                     | Informally handled and tracked by Community Manager (May-Lee); system should formalize                                                                                                                                  |
-|                     | Development    | Upgrade CirclesCI                                                            | I hear they take bribes                                                                                                                                                                                       |
+|                     | Development    | Upgrade CircleCI                                                            | I hear they take bribes                                                                                                                                                                                       |
 |                     |                | BASICS Testing and Release Manager hiring continues                          | Waiting on updates                                                                                                                                                                                            |
 |                     | Communications | Deploy content plan                                                          | Content plan will be published in https://github.com/tahoe-lafs/community                                                                                                                                                        |
 |                     |                | "Revive" mailing list                                                        |                                                                                                                                                                                                               |

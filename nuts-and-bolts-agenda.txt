@@ -3,3 +3,6 @@ Agenda for the next meeting. Currently scheduled for Tuesday, February 9 18:00 U
 Add items, no need to PR :) just commit!
 
 * What should we do with the tahoe-dev mailing list?
+
+* Should we use a paid CircleCI account? https://circleci.com/pricing/
+

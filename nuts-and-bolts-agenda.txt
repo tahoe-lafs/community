@@ -6,3 +6,4 @@ Add items, no need to PR :) just commit!
 
 * Should we use a paid CircleCI account? https://circleci.com/pricing/
 
+* Thoughts about a community-run Jitsi instance?

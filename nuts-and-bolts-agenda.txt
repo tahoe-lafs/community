@@ -13,3 +13,7 @@ Add items, no need to PR :) just commit!
 * Crafting a structure for the Small Grants program + meeting with the Outcomes Manager at Le Wagon Coding Bootcamp
     Thoughts about the grants program?
   
+* https://fosshost.org provides hosted video meetings (using
+  BigBlueButton, not Jitsi) for free software projects.  They also can
+  host web site and email, but not mailing lists as far as I can
+  tell.  Could we apply for an account with them?

@@ -5,5 +5,11 @@ Add items, no need to PR :) just commit!
 * What should we do with the tahoe-dev mailing list?
 
 * Should we use a paid CircleCI account? https://circleci.com/pricing/
+    If so, please recommend a product.
 
 * Thoughts about a community-run Jitsi instance?
+    Do we want this?
+
+* Crafting a structure for the Small Grants program + meeting with the Outcomes Manager at Le Wagon Coding Bootcamp
+    Thoughts about the grants program?
+  

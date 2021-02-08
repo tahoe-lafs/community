@@ -12,8 +12,15 @@ Add items, no need to PR :) just commit!
 
 * Crafting a structure for the Small Grants program + meeting with the Outcomes Manager at Le Wagon Coding Bootcamp
     Thoughts about the grants program?
-  
+
 * https://fosshost.org provides hosted video meetings (using
-  BigBlueButton, not Jitsi) for free software projects.  They also can
-  host web site and email, but not mailing lists as far as I can
-  tell.  Could we apply for an account with them?
+  BigBlueButton or Jitsi) for free software projects.  Could we apply
+  for an account with them?
+
+  They also offer web and email hosting and DNS, but not mailing lists
+  as far as I can tell.  They can offer a VPS though, so perhaps we
+  can run mailman there, although that is not ideal.  Each service
+  requires a separate application.  They ask if we're able to donate,
+  in case they're ever in a crunch.
+
+  Docs for fosshost is at https://docs.fosshost.org.

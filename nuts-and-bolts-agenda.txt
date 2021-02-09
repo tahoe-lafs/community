@@ -1,39 +1,38 @@
 Agenda for the next meeting. 
-Currently scheduled for Tuesday, February 9 18:00 UTC +1
+Currently scheduled for Friday, February 12 16:30 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
 
+* Progress and updates on:
+    Discourse, CircleCI, Fosshost
+    Design of Small Grants program
+    Transfer of Tahoe-LAFS.org billing to the organization
+
+
+_______________________________________________________________________
+Minutes of Past Meetings
+_______________________________________________________________________
+
+
+February 9, 2021
+_______________________________________________________________________
+
 * What should we do with the tahoe-dev mailing list?
+    We will try out hosting a forum on Discourse to take over the main
+    function of the old mailing list
 
 * Should we use a paid CircleCI account? https://circleci.com/pricing/
-    If so, please recommend a product.
+    We will try upgrading to a "performance" account.
 
 * Thoughts about a community-run Jitsi instance?
-    Do we want this?
+    We will apply to fosshost.org and try their Jitsi
 
 * Crafting a structure for the Small Grants program
-    Notes on meeting with the Outcomes Manager at Le Wagon Coding Bootcamp
-    Thoughts about the grants program?
+    We want to utilize resources such as Le Wagon to build a funnel
+    However, we should choose appropriate tickets/projects
+    Namely, Web/UI focused projects can be spun out
 
-* https://fosshost.org provides hosted video meetings (using
-  BigBlueButton or Jitsi) for free software projects.  Could we apply
-  for an account with them?
-
-  They also offer web and email hosting and DNS, but not mailing lists
-  as far as I can tell.  They can offer a VPS though, so perhaps we
-  can run mailman there, although that is not ideal.  Each service
-  requires a separate application.  They ask if we're able to donate,
-  in case they're ever in a crunch.
-
-  Docs for fosshost is at https://docs.fosshost.org.
-
-* We now have $250 USD/mo in "petty cash"
-    Aspiration can see all purchases/control the card
-    Should purchases be made public? Monthly?
-    Who else should get the CC info (should at least 1 other person?)
-    The limit is set higher than our current needs for 2 purposes: 
-        1. In case of annual billing for some products
-        2. One-off/event expenses
-    
+* We now have $250 USD/mo in the form of a credit card via Aspiration
+    We will now begin to get all accounts under one account

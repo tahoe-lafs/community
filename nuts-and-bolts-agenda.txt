@@ -1,6 +1,8 @@
 Agenda for the next meeting. Currently scheduled for Tuesday, February 9 18:00 UTC +1
 
-Add items, no need to PR :) just commit!
+COMMIT to add items. 
+If you don't have write access, please open a PR :)
+
 
 * What should we do with the tahoe-dev mailing list?
 

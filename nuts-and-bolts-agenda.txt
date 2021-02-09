@@ -1,4 +1,5 @@
-Agenda for the next meeting. Currently scheduled for Tuesday, February 9 18:00 UTC +1
+Agenda for the next meeting. 
+Currently scheduled for Tuesday, February 9 18:00 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
@@ -12,7 +13,8 @@ _______________________________________________________________________
 * Thoughts about a community-run Jitsi instance?
     Do we want this?
 
-* Crafting a structure for the Small Grants program + meeting with the Outcomes Manager at Le Wagon Coding Bootcamp
+* Crafting a structure for the Small Grants program
+    Notes on meeting with the Outcomes Manager at Le Wagon Coding Bootcamp
     Thoughts about the grants program?
 
 * https://fosshost.org provides hosted video meetings (using
@@ -28,9 +30,9 @@ _______________________________________________________________________
   Docs for fosshost is at https://docs.fosshost.org.
 
 * We now have $250 USD/mo in "petty cash"
-    The account is via Aspiration, so they can see all purchases/control the card
-    One other human person should have the login info etc. at some point, but not more than that(?)
-    As a ramp up to financial transparency, purchases should be made public at some interval (monthly?)
+    Aspiration can see all purchases/control the card
+    Should purchases be made public? Monthly?
+    Who else should get the CC info (should at least 1 other person?)
     The limit is set higher than our current needs for 2 purposes: 
         1. In case of annual billing for some products
         2. One-off/event expenses

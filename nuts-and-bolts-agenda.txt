@@ -2,7 +2,7 @@ Agenda for the next meeting. Currently scheduled for Tuesday, February 9 18:00 U
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
-
+_______________________________________________________________________
 
 * What should we do with the tahoe-dev mailing list?
 
@@ -26,3 +26,12 @@ If you don't have write access, please open a PR :)
   in case they're ever in a crunch.
 
   Docs for fosshost is at https://docs.fosshost.org.
+
+* We now have $250 USD/mo in "petty cash"
+    The account is via Aspiration, so they can see all purchases/control the card
+    One other human person should have the login info etc. at some point, but not more than that(?)
+    As a ramp up to financial transparency, purchases should be made public at some interval (monthly?)
+    The limit is set higher than our current needs for 2 purposes: 
+        1. In case of annual billing for some products
+        2. One-off/event expenses
+    

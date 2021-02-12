@@ -1,34 +1,48 @@
 Agenda for the next meeting. 
-Currently scheduled for Friday, February 12 16:30 UTC +1
+Currently scheduled for Tuesday, February 16 18:00 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-
-* Progress and updates on:
-    Discourse
-    CircleCI - https://app.circleci.com/settings/plan/github/tahoe-lafs/overview
-    Fosshost
-    Design of Small Grants program
-    Transfer of Tahoe-LAFS.org billing to the organization
+* Meeting with BASICS
+    After hire of Testing and Release Manager, expect the Web Developer a
+    few months after that
+    Procedures for working with new consultant
     
-* RFP for security audit for node specification protocol
 
-* Roadmap on the community side:
-    At least one summit
-    User Test Grid
-    Creating a bounties program
-    Hosting a grants program (Outreachy?)
-    Website/UX
-    Documentation
-    GitLab migration
-    GitHub presence
-    Strategy for project sustainability and organic growth
 
 _______________________________________________________________________
 Minutes of Past Meetings
 _______________________________________________________________________
 
+February 12, 2021
+_______________________________________________________________________
+* No progress on Discourse, Fosshost or Transfer of Tahoe-LAFS.org billing
+
+* Will meet with sales person at CircleCI
+
+* Small Grants program will worked on and then presented
+    
+* RFP for security audit for node specification protocol
+    First step: devs block out a week of time for completion of the
+    storage protocol spec. Sometime in the first half of March. Possible
+    participants:
+        Jean-Paul (available)
+        Meejah (will ask)
+        Sajith (available)
+        Daira (will ask)
+        Brian (will ask)
+
+* 2021 Community Roadmap - will be expanded and published
+    At least one summit
+    User Test Grid
+    Creating a bounties program
+    Hosting a grants program (Outreachy?)
+    Website/UX
+    Documentation - Two foci: Developers and Users
+    GitLab migration - may or may not be possible; alternatives
+    GitHub presence
+    Strategy for project sustainability and organic growth
 
 February 9, 2021
 _______________________________________________________________________
@@ -38,7 +52,7 @@ _______________________________________________________________________
     function of the old mailing list
 
 * Should we use a paid CircleCI account? https://circleci.com/pricing/
-    We will try upgrading to a "performance" account.
+    We will try upgrading to a "performance" account
 
 * Thoughts about a community-run Jitsi instance?
     We will apply to fosshost.org and try their Jitsi

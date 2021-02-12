@@ -6,7 +6,9 @@ If you don't have write access, please open a PR :)
 _______________________________________________________________________
 
 * Progress and updates on:
-    Discourse, CircleCI, Fosshost
+    Discourse
+    CircleCI - https://app.circleci.com/settings/plan/github/tahoe-lafs/overview
+    Fosshost
     Design of Small Grants program
     Transfer of Tahoe-LAFS.org billing to the organization
     

@@ -9,7 +9,19 @@ _______________________________________________________________________
     Discourse, CircleCI, Fosshost
     Design of Small Grants program
     Transfer of Tahoe-LAFS.org billing to the organization
+    
+* RFP for security audit for node specification protocol
 
+* Roadmap on the community side:
+    At least one summit
+    User Test Grid
+    Creating a bounties program
+    Hosting a grants program (Outreachy?)
+    Website/UX
+    Documentation
+    GitLab migration
+    GitHub presence
+    Strategy for project sustainability and organic growth
 
 _______________________________________________________________________
 Minutes of Past Meetings

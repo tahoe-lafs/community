@@ -8,7 +8,7 @@ _______________________________________________________________________
     After hire of Testing and Release Manager, expect the Web Developer a
     few months after that
     Procedures for working with new consultant
-    
+* BASICS hiring direction - Focus on Testing & Release manager or documentation?
 
 
 _______________________________________________________________________

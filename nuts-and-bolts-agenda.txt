@@ -8,7 +8,13 @@ _______________________________________________________________________
     After hire of Testing and Release Manager, expect the Web Developer a
     few months after that
     Procedures for working with new consultant
+    
 * BASICS hiring direction - Focus on Testing & Release manager or documentation?
+
+* Roadmap - how will it be created? https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3604
+    Do we have a long-term objective?
+    
+* No strong updates apart from CircleCI upgrade
 
 
 _______________________________________________________________________

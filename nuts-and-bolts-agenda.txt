@@ -4,22 +4,42 @@ Currently scheduled for Tuesday, February 16 18:00 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* Meeting with BASICS
-    After hire of Testing and Release Manager, expect the Web Developer a
-    few months after that
-    Procedures for working with new consultant
-    
-* BASICS hiring direction - Focus on Testing & Release manager or documentation?
 
-* Roadmap - how will it be created? https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3604
-    Do we have a long-term objective?
-    
-* No strong updates apart from CircleCI upgrade
+
 
 
 _______________________________________________________________________
 Minutes of Past Meetings
 _______________________________________________________________________
+February 16, 2021
+_______________________________________________________________________
+* BASICS hiring direction
+    We decided to choose a Testing and Release person
+    We will keep in touch with the other person and Jessica Rose for future
+    roles
+
+* What do we need from a Web Developer?
+    We need to do the work and decide what we like
+        Look at Dribbbl or Behance etc.
+    Whatever they give us must be maintainable somehow
+        Must use GitHub/GitLab, some kind of VCS
+    Strong preference towards designer/front end
+    Need a proper API
+    Our main site could just be a GitLab Pages
+    
+* "We should have a self-hosted GitLab"
+    Least Authority's GitLab migration took two days
+    Should we forget about GitLab.com?
+
+* Roadmap - tahoe-lafs.org/trac/tahoe-lafs/ticket/3604
+    Tahoe will possibly be ultimately a federated model
+        Python 3 Porting
+        Getting rid of Foolscap
+        Grid Manager
+        Accounting system (User IDs and Leases)
+        Web UI redesign
+        Append only feature
+        Deletion feature
 
 February 12, 2021
 _______________________________________________________________________

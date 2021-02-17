@@ -11,8 +11,8 @@ _______________________________________________________________________
 * Community Roadmap and Resources Document - please give feedback
     (link given at meeting)
 
-
-
+* I2P - Active community, txi2p Python 3 support, Foolscap i2p support
+  Should we do something?
 
 _______________________________________________________________________
 Minutes of Past Meetings

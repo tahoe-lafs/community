@@ -4,16 +4,35 @@ Currently scheduled for Friday, February 19, 2021 16:30 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* Updates: RFP scheduling, Test Grid servers, Discourse, FOSShost
+* Updates: 
+    RFP scheduling - Meejah says March 9 on would be best
+        Liz in touch with Old Guard     
+    Test Grid servers - I will need help
+    Discourse - Need credentials for Tahoe-LAFS.org BUT also not very far
+    FOSShost - applied Wednesday.
+        Description (give feedback):
+        "We are a FOSS decentralized file store that has been around for
+        over a decade. Tahoe-LAFS creates redundant copies of parts of a
+        file, encrypts them and sends them to multiple servers. This design
+        allows for data privacy and security from multiple attacks."
 
 * Confirm/deny - self-hosted GitLab instance?
+    Pete Fein got back to me and put me in touch with someone at
+    Six Feet Up (possibly will migrate as a service)
 
 * Community Roadmap and Resources Document - please give feedback
     (link given at meeting)
 
 * I2P - Active community, txi2p Python 3 support, Foolscap i2p support
-  Should we do something?
-
+    Should we do something?
+  
+* IF TIME:
+    Publicly publish budget
+        How should we show this?
+        https://tahoe-lafs.readthedocs.io/en/tahoe-lafs-1.12.1/donations.html
+        
+        
+        
 _______________________________________________________________________
 Minutes of Past Meetings
 _______________________________________________________________________

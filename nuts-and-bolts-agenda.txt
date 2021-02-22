@@ -6,23 +6,32 @@ If you don't have write access, please open a PR :)
 _______________________________________________________________________
 * Updates:
         No response from FOSSHost :( 
-        tahoe-lafs.discourse.group approved, will use the following email:                                    
-                  _            _       ____                  _ _                
-  _ __  __ _ _  _| |___ ___ __(_)__ _ / __ \ __ _ _ __  __ _(_) |  __ ___ _ __  
- | '  \/ _` | || | / -_) -_|_-< / _` / / _` / _` | '  \/ _` | | |_/ _/ _ \ '  \ 
- |_|_|_\__,_|\_, |_\___\___/__/_\__,_\ \__,_\__, |_|_|_\__,_|_|_(_)__\___/_|_|_|
-             |__/                     \____/|___/                                          
+        tahoe-lafs.discourse.group approved
+                need to work on astehtics/etc.
+       
 * Onboarding new Testing and Release Manager
-        What could that person reasonably accomplish (6 mos)?
-        What do they need to know?
+        How to best utilize person w/in 6 mos/what is reasonable?
+        What would onboarding look like?
         Who should their points of contact be?
 
-* Present: 2021 Software Roadmap
-
-* Summit 2021 - at PyCon or elsewhere?
-        Would like to ask for speakers/presentations.
-
-
+* Meeting w/Six Feet Up (Sales) - TBD
+        Quality of migration
+                in progress PRs
+                links between tickets should still work
+                links between pages should still work
+                authorship is important
+                metadata in tickets
+                what is unavoidable?
+        Timeline/transition
+        Pricing
+        
+* Summit 2021        
+        It's time to start planning
+        Agenda items?
+        PyCon (mid-May/virtual) or other time?
+        Virtual or IRL preferred (if possible ofc)
+        
+     
 
 _______________________________________________________________________
 Minutes of Past Meetings

@@ -1,62 +1,40 @@
 Agenda for the next meeting. 
-Currently scheduled for Tuesday, February 23 18:00 UTC +1
+Currently scheduled for Friday, February 26 16:30 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* Updates:
-        No response from FOSSHost :( 
-        tahoe-lafs.discourse.group approved
-                need to work on astehtics/etc.
-       
-* Onboarding new Testing and Release Manager
-        How to best utilize person w/in 6 mos/what is reasonable?
-        What would onboarding look like?
-        Who should their points of contact be?
 
-* Meeting w/Six Feet Up (Sales)
-        Tomorrow at either 9:30-10:00 or 11:30-noon
-                
-        Quality of migration
-                in progress PRs
-                links between tickets should still work
-                links between pages should still work
-                authorship is important
-                metadata in tickets
-                what is unavoidable?
-        Timeline/transition
-        Pricing
-        
-* Summit 2021        
-        It's time to start planning
-        Agenda items?
-        PyCon (mid-May/virtual) or other time?
-        Virtual or IRL preferred (if possible ofc)
-        
-* What to do with the mailing list?
 
-  - Before trying to adopt Discourse in earnest, should we give the
-    mailing list another chance?
-
-  - How about sending a "probe" to the mailing list to assess how many
-    people are actually reading it?  Can we ask our current list
-    subscribers about their preferences regarding mailing lists versus
-    discord?
-
-  - Would it be worthwhile to re-enliven the mailing list, even by a
-    modest amount?  (By sending periodic status updates, meeting
-    minutes, introductions, and the such.)
-
-* Who uses Tahoe-LAFS these days?
-
-  - We don't have much of an idea about who uses Tahoe-LAFS, and how,
-    and what do they need.  Can we gather some data using surveys?
 
 
 _______________________________________________________________________
 Minutes of Past Meetings
 
+Tuesday, February 23
 _______________________________________________________________________
+
+* Still waiting on FOSSHost; Discourse is being worked on
+       
+* Onboarding new Testing and Release Manager will be done through tickets
+
+* Summit 2021 - TBD     
+    Montreal in September
+    Propose agenda items here: 
+    https://github.com/tahoe-lafs/community/blob/main/summit-2021-suggested-agenda.txt
+        
+* Meeting w/Carol tomorrow w/Sajith & May-Lee
+
+* Mailing list is kind of broken today, because the machine hosting
+  tahoe-lafs.org does not do outbound email delivery well.  Jean-Paul
+  and Sajith will address that problem.
+
+* Who uses Tahoe-LAFS these days?
+     Users of I2P - 1800 views on a setup post on I2p forum
+     PyPi downloads
+     We will get list of projects/other user details from Liz
+     Likely too soon to do user surveys
+
 February 19, 2021
 _______________________________________________________________________
 * RFP scheduling - Meejah, Sajith, Jean-Paul will schedule among themselves
@@ -67,7 +45,7 @@ _______________________________________________________________________
 
 * A short description of Tahoe-LAFS:
     "We are a FOSS decentralized file store that has been around for
-    over a decade. Tahoe-LAFS creates redundant copies of parts of a\
+    over a decade. Tahoe-LAFS creates redundant copies of parts of a
     file, encrypts them and sends them to multiple servers. This design
     allows for data privacy and security from multiple attacks."
 

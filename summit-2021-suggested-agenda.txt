@@ -1,2 +1,7 @@
 Proposed agenda items
 Tahoe-LAFS Summit 2021
+"Montreal" "September"
+
+COMMIT to add items. 
+If you don't have write access, please open a PR :)
+_______________________________________________________________________

@@ -31,7 +31,25 @@ _______________________________________________________________________
         PyCon (mid-May/virtual) or other time?
         Virtual or IRL preferred (if possible ofc)
         
-     
+* What to do with the mailing list?
+
+  - Before trying to adopt Discourse in earnest, should we give the
+    mailing list another chance?
+
+  - How about sending a "probe" to the mailing list to assess how many
+    people are actually reading it?  Can we ask our current list
+    subscribers about their preferences regarding mailing lists versus
+    discord?
+
+  - Would it be worthwhile to re-enliven the mailing list, even by a
+    modest amount?  (By sending periodic status updates, meeting
+    minutes, introductions, and the such.)
+
+* Who uses Tahoe-LAFS these days?
+
+  - We don't have much of an idea about who uses Tahoe-LAFS, and how,
+    and what do they need.  Can we gather some data using surveys?
+
 
 _______________________________________________________________________
 Minutes of Past Meetings

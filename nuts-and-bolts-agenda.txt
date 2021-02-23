@@ -14,7 +14,9 @@ _______________________________________________________________________
         What would onboarding look like?
         Who should their points of contact be?
 
-* Meeting w/Six Feet Up (Sales) - TBD
+* Meeting w/Six Feet Up (Sales)
+        Tomorrow at either 9:30-10:00 or 11:30-noon
+                
         Quality of migration
                 in progress PRs
                 links between tickets should still work

@@ -9,10 +9,10 @@ _______________________________________________________________________
        They seem to really know Trac
        Suggested that data mapping might be needed
        We need to decide:
-              
-              Full scope for discovery phase (links, metadata, PRs etc.)
+              We want to do the discovery phase?
+              Full scope for discovery phase (links, metadata, PRs etc.)
               Should we "ticket garden"?
-              What issue tracker will we use for GitLab?       
+              What issue tracker will we use for GitLab?
               
 
 

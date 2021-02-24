@@ -4,8 +4,9 @@ Currently scheduled for Friday, February 26 16:30 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-
-
+* GitLab migration meeting w/Six Feet Up
+              
+              
 
 
 _______________________________________________________________________

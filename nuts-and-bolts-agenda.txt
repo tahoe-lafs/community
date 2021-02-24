@@ -5,8 +5,16 @@ COMMIT to add items.
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
 * GitLab migration meeting w/Six Feet Up
+       Request discovery phase timeboxed of min. 50 hours
+       They seem to really know Trac
+       Suggested that data mapping might be needed
+       We need to decide:
               
+              Full scope for discovery phase (links, metadata, PRs etc.)
+              Should we "ticket garden"?
+              What issue tracker will we use for GitLab?       
               
+
 
 
 _______________________________________________________________________

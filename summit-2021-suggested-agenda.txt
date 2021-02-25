@@ -1,7 +1,50 @@
 Proposed agenda items
 Tahoe-LAFS Summit 2021
-"Montreal" "September"
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
+* Previous Summit info: 
+    https://tahoe-lafs.org/trac/tahoe-lafs/wiki/Summit2016
+  
+* IRL or Virtual?
+    Preference is for IRL; we will plan for that
+    If it has to be virtual, that should be an easy transition
+    Also we should stream it
+
+* Location and date
+    Montreal, Canada, September 2021
+
+* Suggested agenda topics
+    Rainhill:
+      https://tahoe-lafs.org/trac/tahoe-lafs/wiki/NewCaps/Rainhill
+    Previous year wins
+    Next year's goals
+    Python 3 porting
+
+* Speakers/presentations
+    Novel implementations
+      Immutable uploader in Haskell
+    Real-world applications and use cases
+      I2P
+      Human Rights
+      Medical records/compliance
+    Topics of general interest
+    
+
+Logistics/Other (can be moved to separate doc but here for now)
+_______________________________________________________________________
+* Dietary suggestions
+    I will guess that we have 5 - 20 attendees
+    Light AM snacks, "coffee" (social aspect)
+    Autonomous Lunch
+    Group dinner
+    
+* Entertainment
+    If more than 50 ppl, I suggest after party on at least one night
+    If more than 100, I suggest small art event
+    
+* Lodging
+    Each for themself?
+    I (m-L) would  be interested in a space like a retreat center
+      sometimes you can take over a whole BnB for this purpose

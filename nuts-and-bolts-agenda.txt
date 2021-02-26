@@ -21,8 +21,13 @@ _______________________________________________________________________
     Suggestion: new domain name; tahoe-lafs.org will point to
     I have the list of users/partners/future integrations etc.
       Will try to do something with it
+      
+* We should talk about Yves' skillset
               
-
+* Monthly report items
+    Need help reporting for Development
+    New Testing and Release Manager
+    
 
 
 _______________________________________________________________________

@@ -1,38 +1,49 @@
 Agenda for the next meeting. 
-Currently scheduled for Friday, February 26 16:30 UTC +1
+Currently scheduled for Tuesday, March 2 18:00 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* GitLab migration meeting w/Six Feet Up
-  Please see email I sent out Wednesday
-    This might be out of our budget
-      They seem to really know Trac
-      Suggested that data mapping might be needed
-      We need to decide:
-        We want to do the discovery phase?
-        We want to find way to get someone in the community to do this?
-        Full scope for discovery phase (links, metadata, PRs etc.)
-        Should we "ticket garden"?
-        What issue tracker will we use for GitLab?
-
-* Meeting w/Liz 25.02.2021
-    Efforts to get Community participants for such projects
-    Suggestion: new domain name; tahoe-lafs.org will point to
-    I have the list of users/partners/future integrations etc.
-      Will try to do something with it
-      
 * We should talk about Yves' skillset
               
-* Monthly report items
-    Need help reporting for Development
-    New Testing and Release Manager
+* Monthly Report & Updates
+
+* What do we want on the website?
+  Suggest aesthetics you like:
+    https://www.gnu.org/software/guile/
+    https://www.gnu.org/software/emacs/
+    https://magit.vc/
+  Suggest landing page content
+    https://sajith.github.io/tahoe-website/
     
 
 
 _______________________________________________________________________
 Minutes of Past Meetings
 
+Friday, February 26
+_______________________________________________________________________  
+* GitLab migration meeting w/Six Feet Up
+  It is out of our budget, so we will decline
+  Sajith will examine it more closely Monday and Tuesday
+
+* Meeting w/Liz 25.02.2021
+  Stronger push to inform community of opportunities w/Tahoe
+  In case we can't get tahoe-lafs.org from Brian Warner, we should choose
+  tahoe-lafs.xyz or other suggestions (should that be taken as well)
+  Brian Warner, Daira and Zooko contacted Re: Protocol Spec
+    Told meetings were going to be 2nd week of March
+    If we can't get one of them, we will find a cryptographer
+              
+* Monthly report items
+    Need help reporting for Development
+      Python 3 Porting continues
+      Now using Coveralls.io (instead of Codecove.io)
+      Test coverage has expanded
+      Jean-Paul has replaced some ancient custom code for Windows with 
+      functions offered by pywin32 library
+      
+    
 Tuesday, February 23
 _______________________________________________________________________
 

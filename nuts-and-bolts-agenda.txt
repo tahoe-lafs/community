@@ -5,9 +5,14 @@ COMMIT to add items.
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
 * We should talk about Yves' skillset
+  "Gigs, grants and internships"
               
 * Monthly Report & Updates
-
+  CircleCI spend will be 60 USD/mo.
+  No other updates
+  Request for updates: FOSSHost
+                      Trac
+  
 * What do we want on the website?
   Suggest aesthetics you like:
     https://www.gnu.org/software/guile/

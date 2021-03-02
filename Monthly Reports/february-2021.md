@@ -19,7 +19,7 @@ In the Community:
 + Sajith (dev) prototyped a new Tahoe-LAFS landing page in Pelican
 + Tahoe-LAFS has a Discourse, hosted at: 
    https://tahoe-lafs.discourse.group/
-+ Meanwhile, Sajith and Jean-Paul are working on doing something with the Mailing List
++ Meanwhile, Sajith and Jean-Paul (dev) are working on doing something with the Mailing List
 + 2021 Summit planning begins
 + Outreach for upcoming Gigs, Grants and Internships Program begins
 
@@ -28,9 +28,9 @@ In Communications:
 
 In Development:
 + Python 3 Porting continues
-      Now using Coveralls.io (instead of Codecove.io)
-      Test coverage has expanded
-      Jean-Paul has replaced some ancient custom code for Windows with 
++ Now using Coveralls.io (instead of Codecove.io)
++ Test coverage has expanded
++ Jean-Paul has replaced some ancient custom code for Windows with 
       functions offered by pywin32 library
 + We hired a new Testing and Release Manager, via the BASICS program
 + Upgraded CI to a paid plan

@@ -38,6 +38,7 @@ _______________________________________________________________________
 * Website will be getting a redesign so consider "Must-have" features
   For reference: https://sajith.github.io/tahoe-website/
 
+FEBRUARY 2021
 Friday, February 26
 _______________________________________________________________________  
 * GitLab migration meeting w/Six Feet Up

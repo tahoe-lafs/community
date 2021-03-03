@@ -1,30 +1,42 @@
 Agenda for the next meeting. 
-Currently scheduled for Tuesday, March 2 18:00 UTC +1
+Currently scheduled for Friday, March 5 16:30 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* We should talk about Yves' skillset
-  "Gigs, grants and internships"
-              
-* Monthly Report & Updates
-  CircleCI spend will be 60 USD/mo.
-  No other updates
-  Request for updates: FOSSHost
-                      Trac
-  
-* What do we want on the website?
-  Suggest aesthetics you like:
-    https://www.gnu.org/software/guile/
-    https://www.gnu.org/software/emacs/
-    https://magit.vc/
-  Suggest landing page content
-    https://sajith.github.io/tahoe-website/
+* Updates and input
     
 
 
 _______________________________________________________________________
 Minutes of Past Meetings
+
+MARCH
+Tuesday, March 2
+_______________________________________________________________________ 
+* Search for a cryptographer begins
+  For reference: 
+  https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html
+
+* Yves' skills will be useful for fixing Tahoe instrumentation related
+  to deployment of Test Grid as well as assitance with a self-hosted GitLab
+    He uses Ansible and our preference is NixOS
+              
+* Trac migration project will be offered to the community as a gig
+  There needs to be a coordinated means of communicating when such
+  opportunities are available
+    IRC
+    Discourse
+    Mailing list
+  
+* For the upcoming Summit, think of agenda topics.
+  Meejah (dev) had the idea of clearing up the philosophy of ideas such
+  as file deletion and how it pertains to old and new code.
+    i.e., can a ever be truly guaranteed to have been deleted? is having
+    such a feature therefore misleading?
+  
+* Website will be getting a redesign so consider "Must-have" features
+  For reference: https://sajith.github.io/tahoe-website/
 
 Friday, February 26
 _______________________________________________________________________  

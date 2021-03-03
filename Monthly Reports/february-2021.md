@@ -11,7 +11,7 @@ The aesthetic has been streamlined from last month's :)
 
 ### Summary
 
-February was a month of continued organization and 
+February was a month of continued organization and transition. Groundwork was laid in the form of a roadmap for the coming year.
 
 In the Community:
 + A roadmap is forming of the Community and its goals in 2021

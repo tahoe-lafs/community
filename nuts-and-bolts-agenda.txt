@@ -1,25 +1,10 @@
 Agenda for the next meeting. 
-Currently scheduled for Friday, March 5 16:30 UTC +1
+Currently scheduled for Tuesday, March 9 2021 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* You go first
-
-* Updates and input
-    Planning audit of 
-    https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html\
-    Will people be able to meet?
-    Cryptographer recruitment
-
-* Let's talk documentaiton - what would make it better?
-
-* Let's go ahead and get a domain?
-    tahoe-lafs.xyz
-    tahoe-lafs.ai
-
-* I have started capturing project notes into .txt  files
-
+* 
 
 
 
@@ -27,6 +12,40 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 MARCH
+Friday, March 5
+_______________________________________________________________________
+* Jean-Paul (core/dev) has limited availability for the next two weeks
+
+* Sajith (core/dev) continues working on the mailing list
+    we have 308 subscribers
+
+* Pre-audit meetings postponed until sometime March - May
+    Cryptographers will be solicited via IRC, Discourse and mailing list
+    Prospective cryptographers will be required to read:
+    https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html
+    Commit to having 2, 1 hour conversations over 1 week (remote)
+    Add their perspective as another set of eyes to the protocol, including:
+    What do they think could be different about the protocol?
+    What might have been missed, in terms of possible issues? Opportunites?
+    Is there any horrendous flaw here before we get audited?
+    And generally get the protocol as honed as possible before audit
+
+* Documentation improvements suggestions
+    Less, and better written
+    For now, start with topic guides
+        Installation
+        Consuming storage
+        Providing storage
+        How to run a friend net 
+        Running hybrid local cloud grid, with a backup in the cloud
+        Integrating Tahoe-LAFS as a storage layer in your app
+
+* Community will suggest domain names, for temporary hosting
+    Should come fron decentralized/freedom-supporting world
+
+
+
+
 Tuesday, March 2
 _______________________________________________________________________ 
 * Search for a cryptographer begins

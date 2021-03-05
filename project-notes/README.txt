@@ -1,0 +1,1 @@
+Notes on current Tahoe-LAFS community projects: TODOs, logs and narrative summaries.

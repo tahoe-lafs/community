@@ -1,6 +1,7 @@
 List of Users and Affiliates (private)
-Collect user request:
-Python 3 supported txi2p for use on I2P - 1 user, IRC
-A way to seek others who want to form a grid together - 1 user, IRC
-Version Control - FOSSdem video
-Mobile integration - because 2021
+Internews has the Clean Insights methodology to use as a form of analytics
+Collect user requests:
+    Python 3 supported txi2p for use on I2P - 1 user, IRC
+    A way to seek others who want to form a grid together - 1 user, IRC
+    Version Control - FOSSdem video
+    Mobile integration - because 2021

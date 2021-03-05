@@ -1,0 +1,3 @@
+Sajith (core/dev) continues working on the mailing list
+It would be nice if we had a DevOps'ed container instead of YOLO
+    we have 308 subscribers

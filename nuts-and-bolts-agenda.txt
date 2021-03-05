@@ -39,6 +39,8 @@ _______________________________________________________________________
         How to run a friend net 
         Running hybrid local cloud grid, with a backup in the cloud
         Integrating Tahoe-LAFS as a storage layer in your app
+    As documentation is written/tested, it can reveal ways in which Tahoe can be 
+    improved, so it's a good opportunity to generate more tickets
 
 * Community will suggest domain names, for temporary hosting
     Should come fron decentralized/freedom-supporting world

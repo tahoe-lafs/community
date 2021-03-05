@@ -5,7 +5,11 @@ Add topics (descriptions must be written)
     * gigs, grants and internships 
         - Help wanted: GitLab migration
         - Help wanted: setting up a test grid/dealing w/allmydata
-        - 
+        - Help wanted: Cryptographer
+        - Grant: novel implementation or integration 
     * ISO - because someone suggested a way to find others to build a grid with
-    + tutorials
+        - Wanted: people to form a grid with
+        - Forming groups to work on grants/hackathons
+    + tutorials/stackoverflow
+        - User posted issues/processes
     + random

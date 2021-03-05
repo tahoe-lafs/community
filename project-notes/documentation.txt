@@ -1,3 +1,16 @@
+05.03.2021
+Documentation improvements suggestions
+    Less, and better written
+    For now, start with topic guides
+        Installation
+        Consuming storage
+        Providing storage
+        How to run a friend net 
+        Running hybrid local cloud grid, with a backup in the cloud
+        Integrating Tahoe-LAFS as a storage layer in your app
+    As documentation is written/tested, it can reveal ways in which Tahoe can be 
+    improved, so it's a good opportunity to generate more tickets
+    
 04.03.2021
 People with access to https://tahoe-lafs.readthedocs.io/en/latest/index.html
 Meejah, warner, May-Lee, Sajith, Jean-Paul

@@ -1,0 +1,6 @@
+Contact Chris Wood (?)
+Prefer Nix over Ansible
+Need to fix Tahoe instrumentation related to deployment
+In order to determine if Test Grid working or not 
+Also related to Allmydata.com 
+Run the latest version of Tahoe

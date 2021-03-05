@@ -1,0 +1,10 @@
+Pre-audit meetings postponed until sometime March - May
+    Cryptographers will be solicited via IRC, Discourse and mailing list
+    Prospective cryptographers will be required to read:
+    https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html
+    Commit to having 2, 1 hour conversations over 1 week (remote)
+    Add their perspective as another set of eyes to the protocol, including:
+    What do they think could be different about the protocol?
+    What might have been missed, in terms of possible issues? Opportunites?
+    Is there any horrendous flaw here before we get audited?
+    And generally get the protocol as honed as possible before audit

@@ -1,0 +1,11 @@
+Gigs 
+    Migrate from Trac to GitLab
+    Set up UI for test grid 
+Grants 
+    Implementations:
+        Haskell
+        Rust 
+        JavaScript 
+Internships (possibly more like a research internship)
+    Internship cycle: 3 x year
+    Current intern evaluates candidates and trains next intern 

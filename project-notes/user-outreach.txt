@@ -9,5 +9,4 @@ Possibly create one organizer email w/TLD for project sustainability and
 autonomy
 Think of and write useful gists (ideas?) w/general application
 Have an incident reporting process 
-
- 
+Narration of onboarding process

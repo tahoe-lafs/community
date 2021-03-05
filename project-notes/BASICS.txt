@@ -4,3 +4,28 @@ September 2021 but likely to finally wrap in March 2022.
 TODO:
 Accountability report on 5th of every month
 1 page update report every 3 months (the rubric can be used to guide this)
+
+Also advance the rubric:
+"The project provides a well-documented, secure and private channel to report
+security issues, along with a documented way of responding to them."
+"The way in which contributors can be granted more rights such as commit access 
+or decision power is clearly documented and is the same for all contributors.
+Most code contributions of reasonable quality are accepted."
+"The project has clear processes in place for managing code of conduct reports,
+including a conflict of interest policy and options for reporting to different
+individuals. The project actively works to welcome new contributors and uphold
+a friendly environment in its communications channels."
+"Documented voting rules are used to build consensus when discussion is not
+sufficient."
+"The project's leadership roster clearly states the roles and responsibilities
+of each leader."
+"The project itself contains a "help" function for users to report errors and
+seek support, native to the user interface of the project/app."
+"The project has a self-governing developer community deliberately supporting a
+broad user community. Funding opportunities to support the project have been
+identified and pursued."
+"The release process is documented and repeatable to the extent that someone new
+to the project is able to independently generate the complete set of artifacts
+required for a release."
+"The copyright ownership of everything that the project produces is clearly
+defined and documented."

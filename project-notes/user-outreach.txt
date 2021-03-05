@@ -1,3 +1,10 @@
 TODO:
 write IRC guide (sounds trivial but I think it's necessary)
 write tutorial from collected other postings
+write a PR guide for contributors
+Create list of companies with Tahoe integrations
+Plan Tahoe integrations (separate doc)
+Possibly create one organizer email w/TLD for project sustainability and 
+autonomy
+Think of and write useful gists (like Ansible for users) w/general application
+ 

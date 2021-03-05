@@ -1,0 +1,6 @@
+04.03.2021
+People with access to https://tahoe-lafs.readthedocs.io/en/latest/index.html
+Meejah, warner, May-Lee, Sajith, Jean-Paul
+
+TODO:
+What specific improvements do we want to see in the documentation?

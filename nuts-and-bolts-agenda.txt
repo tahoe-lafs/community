@@ -4,8 +4,23 @@ Currently scheduled for Friday, March 5 16:30 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
+* You go first
+
 * Updates and input
-    
+    Planning audit of 
+    https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html\
+    Will people be able to meet?
+    Cryptographer recruitment
+
+* Let's talk documentaiton - what would make it better?
+
+* Let's go ahead and get a domain?
+    tahoe-lafs.xyz
+    tahoe-lafs.ai
+
+* I have started capturing project notes into .txt  files
+
+
 
 
 _______________________________________________________________________

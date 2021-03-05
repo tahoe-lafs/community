@@ -1,0 +1,11 @@
+TODO:
+Add graphics (simultaneously add to assets-images-etc folder)
+Add admins (Meejah, Sajith, Exarkun)
+Add topics (descriptions must be written)
+    * gigs, grants and internships 
+        - Help wanted: GitLab migration
+        - Help wanted: setting up a test grid/dealing w/allmydata
+        - 
+    * ISO - because someone suggested a way to find others to build a grid with
+    + tutorials
+    + random

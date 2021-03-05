@@ -1,0 +1,3 @@
+TODO:
+write IRC guide (sounds trivial but I think it's necessary)
+write tutorial from collected other postings

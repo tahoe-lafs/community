@@ -1,0 +1,17 @@
+There needs to be two or ever three.
+One for pre-packaged versions, because people reading that will get confused by 
+the other information
+Another for self builders
+And another for installing from source tarball
+
+Getting in touch: IRC
+Link to freenode gist
+Can also read Discourse if someone has the same issue
+
+Okay let's try writing this for Ubuntu because that's what I've got 
+Installing on Ubuntu with Python 2.7
+
+make sure your system is updated
+check python version (odds are it's good; note to rewrite after port)
+make sure you have pip 
+install package

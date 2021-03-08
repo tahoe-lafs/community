@@ -1,4 +1,7 @@
 The documentation includes a document on finances which should be updated 
 somehow.
+
 Aspiration produces a USD budget for us.
+
+Historically, it was all tracked using BitCoin addresses and transactions.
 https://tahoe-lafs.readthedocs.io/en/tahoe-lafs-1.12.1/donations.html

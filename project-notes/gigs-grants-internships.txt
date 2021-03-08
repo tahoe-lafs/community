@@ -7,5 +7,39 @@ Grants
         Rust 
         JavaScript 
 Internships (possibly more like a research internship)
+    IDEAS
+    I want to start in July
     Internship cycle: 3 x year
-    Current intern evaluates candidates and trains next intern 
+    Current intern evaluates candidates and trains next intern
+    So a sample schedule:
+    Month 0 - application, evaluation and acceptance period
+        Apply via a PR on a repo(?)
+        Current intern and 2 core evaluate applicants
+    Month 1 - onboarding
+        Start public repo for the project
+        3 X week 30-45 minute stand-up w/alternating core members + current
+        intern
+        Encourage use of IRC
+        Have an intern alumni Slack channel (yep)
+        Finalize project design (should be pretty final by the time selected)
+    Month 2 -3 - golden month of introversion
+        No meetings, just weekly checkins
+        OFC can use Slack/IRC anytime
+        Encourage interns to really get into their projects
+    Month 4 - reearch + new application, evaluation and acceptance period
+        So budget about 10-15 hours to read applications
+        3 hours for selection
+        Like these are not time-boxed intervals; the best way to handle it is to
+        subtract about 1 week's worth of work from your project
+        Because you'll be busy with this task
+    Month 5 - research month and stand-ups
+        During the new intern's onboarding, you will do 3 standups in one of the
+        middle weeks
+    Month 6 - presentation in last week of month
+        First three weeks are protected; weekly meetings as usual but no other
+        duties
+        Last week prepare and give presentation
+        1 hour presentation, followed by Q & A for about 30-45 minutes
+        
+
+

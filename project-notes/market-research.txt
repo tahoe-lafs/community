@@ -5,3 +5,5 @@ Collect user requests:
     A way to seek others who want to form a grid together - 1 user, IRC
     Version Control - FOSSdem video
     Mobile integration - because 2021
+Also stuff about Grid Sync, Magic folder
+Licensing for companies building a thing

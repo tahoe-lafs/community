@@ -8,4 +8,4 @@ Would like monitoring
 Classes of uses:    we get usage/behavior data
                     other people can use it reliably
 Need to determine reasonable amount of time it can be used - one week?
-6 - 12 nodes 
+6 - 12

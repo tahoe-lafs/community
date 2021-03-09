@@ -4,13 +4,22 @@ Currently scheduled for Tuesday, March 9 18:00 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
+* Should we apply for Google Season of Docs?  Application deadline for
+  organizations is March 26.
+
+  https://developers.google.com/season-of-docs/
+  https://developers.google.com/season-of-docs/docs/timeline
+
 * I want to spin the GitLab migration into a Gig and post it on the Discourse.
     (ofc announce on IRC/mailing list)
     As a possible test case, what should we mention?
     Priority given to current contributors/community members? How determined?
     Fee structure? How much should the bounty be on this project?
     How will we be able to say someone is allowed to take on the work?
-    
+
+* Is there anything that needs to be addressed before Friday? I will also be
+    meeting w/Liz Thursday
+
 
 
 

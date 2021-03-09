@@ -9,3 +9,17 @@ Pre-audit meetings postponed until sometime March - May
     Is there any horrendous flaw here before we get audited?
     And generally get the protocol as honed as possible before audit
     
+After one outside cryptographer has joined the team:
+Finish the protocol (this will include the introducer and control protocols
+later this year)
+Draft an RFP and review with team + Liz
+    Scope properly
+Share with firms
+Have a Q & A process (GH repo) and deadline
+    Need a team to respond/choose
+Choose vendor and review spec
+    Collaborative
+Report gets written
+    Initial audit report
+    Tahoe makes changes
+    Final report published by Auditing Team

@@ -1,3 +1,8 @@
 Sajith (core/dev) continues working on the mailing list
 It would be nice if we had a DevOps'ed container instead of YOLO
+We can look into being hosted on python.org
     we have 308 subscribers
+What from the mailing list can be persisted onto the Discourse?
+Mailgun
+Fastmail
+Mailman

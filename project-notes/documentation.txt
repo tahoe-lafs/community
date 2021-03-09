@@ -20,3 +20,6 @@ What specific improvements do we want to see in the documentation?
 Might also be good to integrate some kind of CI w/Sphinx
 I have a note that we use UTF-8, should that be noted anywhere or is already?
 Developer documentation should also be worked on
+We use Sphinx and we use it for CLI not API; it was chosen because of Python
+
+Notes from Google Season of Docs should go here:

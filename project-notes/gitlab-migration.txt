@@ -1,6 +1,26 @@
-Ultimate goal is a self-hosted GitLab instance, but that would require 
-some kind of support (managed offering is 800/mo including licenses and server
-support)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Migration in Four Phases:
+1.  Migrate Tickets, Ticket History (including attachemnts, patches, comments - 
+    okay if it has to be just one long thing) from Trac to GitLab
+
+2.  Migrate CI Config from GitHub to GitLab
+
+3.  Migrate GitHub PRs to GitLab - GitLab has a button to import GH PRs; making 
+    a GitLab export version
+
+NOTE: Migration must be ended before we add an issue tracker
+
+4.  Add issue tracker on GitLab
+
+OTHER:
+We likely won't move the Wiki, but if so, it would be contents and edit history
+Don't worry about milestones
+Person should overwhelmingly use IRC
+Results/process should be published and collaborative
+********************************************************************************
+
+Ultimate goal is a self-hosted GitLab instance, but that would require some kind
+of support (managed offering is 800/mo including licenses and server support)
 Need to get issue tracker 
 Consensus reached in March was Sajith was going to look more into it, with zFEC
 as a test case

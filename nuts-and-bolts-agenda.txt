@@ -1,33 +1,34 @@
 Agenda for the next meeting. 
-Currently scheduled for Tuesday, March 9 18:00 UTC +1
+Currently scheduled for Friday, March 12 16:30 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* Should we apply for Google Season of Docs?  Application deadline for
-  organizations is March 26.
-
-  https://developers.google.com/season-of-docs/
-  https://developers.google.com/season-of-docs/docs/timeline
-
-* I want to spin the GitLab migration into a Gig and post it on the Discourse.
-    (ofc announce on IRC/mailing list)
-    As a possible test case, what should we mention?
-    Priority given to current contributors/community members? How determined?
-    Fee structure? How much should the bounty be on this project?
-    How will we be able to say someone is allowed to take on the work?
-    https://github.com/tahoe-lafs/community/blob/main/project-notes/gitlab-migration.txt
-
-* Is there anything that needs to be addressed before Friday? I will also be
-    meeting w/Liz Thursday
+* Updates: Google Season of Docs Application, GitLab migration 
 
 
 
 
-_______________________________________________________________________
+ _______________________________________________________________________
 Minutes of Past Meetings
 
 MARCH
+
+Tuesday, March 9
+_______________________________________________________________________
+* May-Lee will apply for Season of Docs and ensure we participate as far as
+    possible, according to our capacity.
+
+* GitLab migration will be given real push this week.
+    This first phase will be worth $2000 USD paid upon satisfactory completion
+    of migration of:
+        Issues(tickets)
+        Issue history, including attachemnts, patches and comments
+        Deliverable is a program that accomplishes that
+        It should take under one business week (5 days)
+    More information on the full four-phase project:
+    https://github.com/tahoe-lafs/community/blob/main/project-notes/gitlab-migration.txt
+
 Friday, March 5
 _______________________________________________________________________
 * Jean-Paul (core/dev) has limited availability for the next two weeks
@@ -60,9 +61,6 @@ _______________________________________________________________________
 
 * Community will suggest domain names, for temporary hosting
     Should come fron decentralized/freedom-supporting world
-
-
-
 
 Tuesday, March 2
 _______________________________________________________________________ 
@@ -113,7 +111,6 @@ _______________________________________________________________________
       Jean-Paul has replaced some ancient custom code for Windows with 
       functions offered by pywin32 library
       
-    
 Tuesday, February 23
 _______________________________________________________________________
 

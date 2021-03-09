@@ -1,11 +1,18 @@
+BIG QUESTION: Eligibility criteria/preferences for these roles?
+Merged PR on or before the posting of the position?
+Then contributor/other affiliate?
+Then community/local/historical?
+
 Gigs 
     Migrate from Trac to GitLab
-    Set up UI for test grid 
+    Set up UI for test grid
 Grants 
-    Implementations:
-        Haskell
+    Implementations (needs spec first)
+        Haskell (not sure how far this is)
         Rust 
         JavaScript 
+        iOS 
+        Android
 Internships (possibly more like a research internship)
     IDEAS
     I want to start in July
@@ -40,6 +47,6 @@ Internships (possibly more like a research internship)
         duties
         Last week prepare and give presentation
         1 hour presentation, followed by Q & A for about 30-45 minutes
-        
+
 
 

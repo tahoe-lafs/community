@@ -1,5 +1,6 @@
 Ultimate goal is a self-hosted GitLab instance, but that would require 
-some kind of support 
+some kind of support (managed offering is 800/mo including licenses and server
+support)
 Need to get issue tracker 
 Consensus reached in March was Sajith was going to look more into it, with zFEC
 as a test case
@@ -9,4 +10,13 @@ Otherwise, this project should be spun up into a Gig and sent to the community
 We need to come up with a budget for that 
 At this stage, this type of thing should be offered to the Discourse, mailing 
 list, and linked to the IRC 
+Should parts of the Trac be archived? As they might actually no longer be
+relevant (e.g., general speculative features older than 5 years)
+GitLab to GitLab is about 30 hours
 
+Dealing with:
+In-progress PRs 
+Links between tickets should still work 
+Links between pages should still work 
+Authorship is important 
+Custom metadata to tickets 

@@ -1,6 +1,42 @@
+Tahoe can be seen as a boring infrastructure project. 
+Aside from a landing page, it would be good to install and configure a Tahoe
+client and create a design around it.
+
 Possible asethetics:
 
 https://www.gnu.org/software/guile/
 https://www.gnu.org/software/emacs/
 
 Sample prototype:
+https://sajith.github.io/tahoe-website/
+
+Mentioned "must haves":
+Fast PR doc contributions visible on website
+Dev guide
+Demo grid
+Mailing List sign-up
+Maybe a roadmap?
+
+Skills preferred:
+WordPress is a NO. We would like to avoid a specific framework - so
+someone who would be willing to build WITHOUT Jekyll, Rails, Flask, Django,
+React, etc.
+Hakyll and Pelican are okay.
+Even if they're just really strong in CSS, HTML and JS that should be enough.
+
+We would set them up with a repo on GitHub and they could work on the
+website from there, deploying as necessary.
+So they should be comfortable with or willing to learn Git/GitHub.
+
+We prefer someone who is more focused on the front end/creating a nice design
+Can create a components library on Figma (including color scheme/layout)
+create .svg versions of Tahoe assets/create an assets folder
+CSS framework can be Bootstrap or Bulma
+Understanding of REST APIs
+Vanilla JavaScript/avoid jQuery
+
+The main task will be designing a website to act as a landing page for
+the project
+
+There may be another task where they design a user interface for file
+upload/download

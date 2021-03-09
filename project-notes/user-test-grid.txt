@@ -4,3 +4,8 @@ Need to fix Tahoe instrumentation related to deployment
 In order to determine if Test Grid working or not 
 Also related to Allmydata.com 
 Run the latest version of Tahoe
+Would like monitoring
+Classes of uses:    we get usage/behavior data
+                    other people can use it reliably
+Need to determine reasonable amount of time it can be used - one week?
+6 - 12 nodes 

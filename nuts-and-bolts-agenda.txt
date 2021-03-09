@@ -4,8 +4,12 @@ Currently scheduled for Tuesday, March 9 18:00 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* 
 
+* Should we apply for Google Season of Docs?  Application deadline for
+  organizations is March 26.
+
+  https://developers.google.com/season-of-docs/
+  https://developers.google.com/season-of-docs/docs/timeline
 
 
 _______________________________________________________________________

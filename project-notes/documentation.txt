@@ -18,3 +18,5 @@ Meejah, warner, May-Lee, Sajith, Jean-Paul
 TODO:
 What specific improvements do we want to see in the documentation?
 Might also be good to integrate some kind of CI w/Sphinx
+I have a note that we use UTF-8, should that be noted anywhere or is already?
+Developer documentation should also be worked on

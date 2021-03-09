@@ -16,6 +16,7 @@ _______________________________________________________________________
     Priority given to current contributors/community members? How determined?
     Fee structure? How much should the bounty be on this project?
     How will we be able to say someone is allowed to take on the work?
+    https://github.com/tahoe-lafs/community/blob/main/project-notes/gitlab-migration.txt
 
 * Is there anything that needs to be addressed before Friday? I will also be
     meeting w/Liz Thursday

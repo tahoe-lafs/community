@@ -1,0 +1,80 @@
+Admin Guide 
+https://developers.google.com/season-of-docs/docs/admin-guide
+
+TIMELINE
+https://developers.google.com/season-of-docs/docs/timeline
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Program announcement                    | February 9, 2021                                                                                         |
+|                                         | Season of Docs program announced                                                                         |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Organization applications               | February 9, 2021 at 18:00 UTC                                                                            |
+|                                         | Organizations can begin submitting applications to Google                                                |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+|                                         | March 26, 2021 at 18:00 UTC                                                                              |
+|                                         | Deadline for organization applications                                                                   |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+|                                         | March 26 - April 15, 2021                                                                                |
+|                                         | Google program administrators review organization applications                                           |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Organizations announced                 | April 16, 2021 at 18:00 UTC                                                                              |
+|                                         | Google publishes the list of accepted organizations                                                      |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Doc development                         | April 16, 2021                                                                                           |
+|                                         | Doc development can officially begin                                                                     |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Technical writer hiring                 | May 17, 2021                                                                                             |
+|                                         | Technical writer hiring deadline                                                                         |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Monthly Evaluations                     | June 16, 2021                                                                                            |
+|                                         | Organization administrators begin to submit monthly evaluations to report on the status of their project |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Final project evaluation and case study | November 16 - 30, 2021 at 18:00 UTC                                                                      |
+|                                         | Organization administrators submit their case study and final project evaluation                         |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Results announced                       | December 14, 2021                                                                                        |
+|                                         | Google publishes the 2021 Season of Docs case studies and aggregate project data                         |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Followup surveys                        | May 2, 2022                                                                                              |
+|                                         | Organizations begin to participate in post-program followup surveys                                      |
++-----------------------------------------+----------------------------------------------------------------------------------------------------------+
+
+Organization administrator responsibilities
+https://developers.google.com/season-of-docs/docs/admin-responsibilities
+
+The organization administrators taking part in Season of Docs have certain responsibilities towards their open source organization and towards Google.
+
+This document describes the responsibilities that apply across all participating open source organizations. Individual organizations may have additional roles and responsibilities. Talk to your organization's administrative team for more information.
+
+Organization administrator responsibilities
+These are the responsibilities of the administrators within the open source organizations.
+
+Your responsibilities towards Google
+Define organization participation, organization selection criteria, and organization-specific operating procedures
+Submit the organization application and be the organization’s representative
+Serve as communication liaison with Google
+Respond to any inquiries from Google within 72 hours
+Report violations of the Participant Agreement (for example, harassment, plagiarism, fraud)
+Ensure all deadlines are met (for example, evaluations, survey responses)
+Perform administrative tasks regarding the Program for the Organization, including completing the application process to receive funds through Open Collective; responding to surveys from the Google Program Administrators; producing the Project Proposal Page, the Final Project Report and the Case Study; and completing Followup Reports
+Provide and maintain an adequate Project Proposal Page
+Oversee the overall progress of the Organization and the Project throughout the Program
+
+Your responsibilities towards your community
+Define organization participation and procedure
+Communicate expectations before the program starts
+Communicate technical writer selection, continued participation, and dismissal policy
+Describe how Participant Agreement violations and failure will be handled
+Continuously evaluate community interaction with technical writers
+Recognize conflicts of interest, interpersonal issues, and step in if necessary
+Let your community know when more help is needed
+Ensure adequate and appropriate responsiveness to technical writers, particularly near holidays
+
+Your responsibilities towards your technical writers
+Let technical writers know how, when, and why to contact the organization administrator
+Ensure technical writers are introduced welcomed to the community
+Communicate organization-specific requirements (for example, time, coding, communication, licensing)
+Communicate organization-specific expectations (for example, behavior, best practices, visibility)
+Work with the technical writer to set deadlines and deliverables
+Monitor communications and ensure inappropriate behavior is addressed
+Ensure technical writers understand their responsibilities and are given adequate notice of any problems
+Ensure technical writers are paid for their work on the schedule and in the amounts agreed to by the organization

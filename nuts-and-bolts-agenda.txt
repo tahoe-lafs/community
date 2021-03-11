@@ -7,6 +7,49 @@ _______________________________________________________________________
 * Updates: Google Season of Docs Application, GitLab migration 
 
 
+* Plans for txi2p maintenance
+
+  We have a txi2p-tahoe published at PyPI, which seems to work.  We
+  will need A Plan for its continued maintenance.
+
+  - It seems to fair to assume that str4d has no interest in
+    maintaining the project anymore.  Therefore we need A Plan.
+
+  - Where should we keep the fork?  Options are:
+
+    - https://gitlab.com/tahoe-lafs/txi2p-tahoe
+    - https://github.com/tahoe-lafs/txi2p-tahoe
+    - https://github.com/LeastAuthority/txi2p
+    - https://github.com/sajith/txi2p-tahoe
+    - We don't know, do what you like
+
+  - Testing and maintenance plans
+
+    - Who will take up maintenance?  Who will do code reviews?
+
+    - Some (possibly minor) cleanups are needed:
+
+      - CI configuration is for Travis.  Seems that travis-ci.com
+        (surprisingly!)  seems to work just fine, for now anyway.
+        Should we move it elsewhere?
+
+      - Should we expand the CI test matrix to include more platforms?
+        (Currently it's just Linux on Travis.)
+
+      - Should we continue to test with unsupported Python (3.5) and
+        really old Twisted (< 20.3 for Python 2.7) versions?  (In
+        tox.ini, there's Twisted 10.2 through 21.2, and current, and
+        trunk.)
+
+      - Some dependencies are in pyproject.toml, some are in
+        setup.py.  What to do about that?
+
+      - Probably should switch CI badge, coverage badge (uses
+        coveralls), project homepage, etc.
+
+      - Other minor issues: Travis CI does not catch some errors
+        (failures with old versions of Twisted); pypy2 needs cleanup;
+        plugins module is under-tested, etc.
 
 
  _______________________________________________________________________

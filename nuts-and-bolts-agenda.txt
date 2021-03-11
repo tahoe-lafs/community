@@ -23,6 +23,11 @@ _______________________________________________________________________
     - https://github.com/sajith/txi2p-tahoe
     - We don't know, do what you like
 
+  - txi2p's readthedocs.org project maintainer also is just str4d.  Do
+    we need to do anything there?
+
+     - https://readthedocs.org/projects/txi2p/
+
   - Testing and maintenance plans
 
     - Who will take up maintenance?  Who will do code reviews?

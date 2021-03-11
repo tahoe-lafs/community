@@ -23,6 +23,8 @@ _______________________________________________________________________
     - https://github.com/sajith/txi2p-tahoe
     - We don't know, do what you like
 
+  - What about the foolscap?  Do we need txi2p back in foolscap?
+
   - txi2p's readthedocs.org project maintainer also is just str4d.  Do
     we need to do anything there?
 

@@ -4,8 +4,19 @@ Currently scheduled for Friday, March 12 16:30 UTC +1
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* Updates: Google Season of Docs Application, GitLab migration 
-
+* No updates/ongoing: Google Season of Docs Application, GitLab migration
+ 
+* I would like to register a domain name
+  https://www.hexonet.net/domaincheck?domain=tahoe-lafs.ngo#/query=tahoe-lafs.ngo
+  
+* Should we apply? OTF usability lab https://apply.opentech.fund/usability-lab/
+    Learnings could be shared with dependents
+    Services to request: 
+      General Usability/UX Consultation or Coaching
+      Usability Audit/Testing
+      User Research/Study
+      User Experience Design
+      Style Guide Development
 
 * Plans for txi2p maintenance
 

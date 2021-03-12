@@ -45,11 +45,13 @@ _______________________________________________________________________
 
     - Who will take up maintenance?  Who will do code reviews?
 
-    - Some (possibly minor) cleanups are needed:
+    - Some (possibly minor) cleanups are needed.  The list below is
+      mainly for the records, and we don't have to go through the
+      whole list today.  They really belong to an issue tracker.
 
-      - CI configuration is for Travis.  Seems that travis-ci.com
-        (surprisingly!)  seems to work just fine, for now anyway.
-        Should we move it elsewhere?
+      - CI configuration is for Travis.  Seems that travis-ci.com (not
+        travis-ci.org) works just fine, for now anyway.  Should we
+        move it elsewhere?
 
       - Should we expand the CI test matrix to include more platforms?
         (Currently it's just Linux on Travis.)

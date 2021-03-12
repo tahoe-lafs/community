@@ -1,0 +1,6 @@
+Starting the application, I'm noticing I don't want to keep using my personal
+email for Tahoe stuff.
+There needs to be two email addresses.
+One is community and the other is a person's name.
+
+In the meantime, I will work on the proposal

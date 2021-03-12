@@ -1,28 +1,41 @@
 # Tahoe-LAFS Google Season of Docs Project Proposal
 https://developers.google.com/season-of-docs/docs/org-proposal-template
 
-Creating the organization proposal
-bookmark_border
-Current phase:
-Organization applications open. See timeline.
-
-Use this guide as a template to create your organization's project proposal.
-
-PROPOSAL TITLE - organization name
-Your proposal title should be short and specific. “Update ORGNAME Contributor Guide” is a good proposal title. “Documentation Improvements” is too vague; “Update Sections 5,7,23,99 of Contributor Guide, Create FAQ, and Create Style Guide” is too long.
+Create Tutorials for New Users - Tahoe-LAFS
 
 About your organization
 In this section, tell us about your organization or project in a few short paragraphs. What problem does your project solve? Who are your users and contributors? How long has your organization or project been in existence? Give some context to help us understand why funding your proposal would create a positive impact in open source and the world.
 
 GloriousPickle (current version 1.2.3, first release in 2009) is an MIT-licensed library for easily calculating the perfect ratio of salt, sugar, vinegar, and spices for every possible pickleable vegetable, in quantities ranging from a single solitary baby cucumber to container-shiploads of radishes. Our contributors are pickle enthusiasts from all around the world, and our users are home chefs, restaurant chefs, and people working in logistics for large food-processing companies and organizations. Our largest user is an organization that helps food banks turn short-shelf-life vegetables into stable jars of pickles, helping feed hungry people in many communities and reducing food waste. In addition, our users send us optional metrics about their use of GloriousPickle, which we use to produce the PickleSet, a large dataset for creating new pickle recipes through machine learning.
 
-About your project
 Your project’s problem
-Tell us about the problem your project will help solve. Why is it important to your organization or project to solve this problem?
 
-Users want to be able to add information about new spices and other ingredients (especially ingredients from non-European cuisines) to the GloriousPickle tool. Unfortunately, the process for adding this information is not documented well, which means potential contributors have to open an issue in the project to get help (or they just give up altogether). The process also assumes that contributors are already familiar with our pull request process and with GitHub, although many of our users are not professional developers.
+Our project has two groups, users and contributors.
 
-The more ingredient information we have, the more useful GloriousPickle is to all of our users!
+We want to create new documentation targeted towards new users.
+
+The project was started around 2007. The longevity of the project,
+in combination with the small but steady number of core contributors
+has led to a context-heavy environment.
+Additionally, most of our core users were originally contributors.
+Because of this history, new users might not easily find their way around the project,
+or might feel intimidated.
+
+Tahoe-LAFS was envisioned as way to encrypt data and provide a means of securely
+storing data.
+One use case of our project is organizations providing services to NGOs
+who are at surveillance risk.
+We are strongly motivated to make sure that Tahoe-LAFS achieves wider adoption
+in the coming years in the face of increasing political instability globally.
+
+Tahoe-LAFS is FOSS, and because of its ethos of platform agnosticism,
+it remains an excellent and lightweight solution,
+particularly in regions of the world where market and infrastructure conditions
+create restrictons on user choice.
+
+By creating these tutorials, you will help users,
+including those in surveillance states,
+use and disemminate tools that keep their data secure and private.
 
 Your project’s scope
 Tell us about what documentation your organization will create, update, or improve. If some work is deliberately not being done, include that information as well. Include a time estimate, and whether you have already identified organization volunteers and a technical writer to work with your project.

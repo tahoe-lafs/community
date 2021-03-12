@@ -59,6 +59,11 @@ _______________________________________________________________________
         plugins module is under-tested, etc.
 
 
+* Twisted io_uring / async disk I/O
+  - we may want to get involved
+  - https://twistedmatrix.com/pipermail/twisted-python/2021-March/065545.html
+  - https://github.com/twisted/twisted/pull/1546
+  
  _______________________________________________________________________
 Minutes of Past Meetings
 

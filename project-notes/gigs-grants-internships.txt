@@ -13,7 +13,20 @@ Grants
         JavaScript 
         iOS 
         Android
-Internships (possibly more like a research internship)
+Code Steward Internship
+    Inspired by Nadia Eghbal (Working in Public, Stripe, 2020)
+        60% of code is about maintenance, not creation 
+        Intrinsic motivation leads to the creation of code
+        Extrinsic motivation (i.e., renumeration) usually required for maintenance
+        Google rewrites its codebase every 3 or so years
+            Helps reduce complexity
+            Helps modernize or remove unnecessary code
+            Helps new developers take more ownership in the code base 
+    "Code Steward" is a new term to describe "Project Maintainer"
+    Trained position with clearly defined duties 
+    Learning opportunity OR a way for past contributor to get involved 
+
+Research internship idea - too complicated; shelve till 2022
     IDEAS
     I want to start in July
     Internship cycle: 3 x year
@@ -47,6 +60,3 @@ Internships (possibly more like a research internship)
         duties
         Last week prepare and give presentation
         1 hour presentation, followed by Q & A for about 30-45 minutes
-
-
-

@@ -1,86 +1,45 @@
 Agenda for the next meeting. 
-Currently scheduled for Friday, March 12 16:30 UTC +1
+Currently scheduled for Tuesday, March 16 18:00 UTC +1
 
 COMMIT to add items. 
 If you don't have write access, please open a PR :)
 _______________________________________________________________________
-* No updates/ongoing: Google Season of Docs Application, GitLab migration
- 
-* I would like to register a domain name
-  https://www.hexonet.net/domaincheck?domain=tahoe-lafs.ngo#/query=tahoe-lafs.ngo
-  
-* Should we apply? OTF usability lab https://apply.opentech.fund/usability-lab/
-    Learnings could be shared with dependents
-    Services to request: 
-      General Usability/UX Consultation or Coaching
-      Usability Audit/Testing
-      User Research/Study
-      User Experience Design
-      Style Guide Development
-
-* Plans for txi2p maintenance
-
-  We have a txi2p-tahoe published at PyPI, which seems to work.  We
-  will need A Plan for its continued maintenance.
-
-  - It seems to fair to assume that str4d has no interest in
-    maintaining the project anymore.  Therefore we need A Plan.
-
-  - Where should we keep the fork?  Options are:
-
-    - https://gitlab.com/tahoe-lafs/txi2p-tahoe
-    - https://github.com/tahoe-lafs/txi2p-tahoe
-    - https://github.com/LeastAuthority/txi2p
-    - https://github.com/sajith/txi2p-tahoe
-    - We don't know, do what you like
-
-  - What about the foolscap?  Do we need txi2p back in foolscap?
-
-  - txi2p's readthedocs.org project maintainer also is just str4d.  Do
-    we need to do anything there?
-
-     - https://readthedocs.org/projects/txi2p/
-
-  - Testing and maintenance plans
-
-    - Who will take up maintenance?  Who will do code reviews?
-
-    - Some (possibly minor) cleanups are needed.  The list below is
-      mainly for the records, and we don't have to go through the
-      whole list today.  They really belong to an issue tracker.
-
-      - CI configuration is for Travis.  Seems that travis-ci.com (not
-        travis-ci.org) works just fine, for now anyway.  Should we
-        move it elsewhere?
-
-      - Should we expand the CI test matrix to include more platforms?
-        (Currently it's just Linux on Travis.)
-
-      - Should we continue to test with unsupported Python (3.5) and
-        really old Twisted (< 20.3 for Python 2.7) versions?  (In
-        tox.ini, there's Twisted 10.2 through 21.2, and current, and
-        trunk.)
-
-      - Some dependencies are in pyproject.toml, some are in
-        setup.py.  What to do about that?
-
-      - Probably should switch CI badge, coverage badge (uses
-        coveralls), project homepage, etc.
-
-      - Other minor issues: Travis CI does not catch some errors
-        (failures with old versions of Twisted); pypy2 needs cleanup;
-        plugins module is under-tested, etc.
+* FOSShost approved - thank you Sajith! We should donate. $10/mo?
 
 
-* Twisted io_uring / async disk I/O
-  - we may want to get involved
-  - https://twistedmatrix.com/pipermail/twisted-python/2021-March/065545.html
-  - https://github.com/twisted/twisted/pull/1546
-  
+
+
  _______________________________________________________________________
+
+
 Minutes of Past Meetings
 
 MARCH
+
+Tuesday, March 9
+_______________________________________________________________________
+
+* We will apply for OTF Usability Lab https://apply.opentech.fund/usability-lab/
+    We are most interested in a usability audit/Testing
+    Possibly this process will also illuminate aspects of User Research and UX
+    design
+    We'll be in touch with members of Least Authority, who did something similar
+    for Magic Folder, to get guidance
+
+* Plans for txi2p maintenance
+    Notes added to ticket https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3633
+
+* Twisted io_uring / async disk I/O
+  - https://twistedmatrix.com/pipermail/twisted-python/2021-March/065545.html
+  - https://github.com/twisted/twisted/pull/1546
+  Jean-Paul will keep an eye out for developments and inform us
+  Because what ends up in Twisted will affect Tahoe, it's important that we
+  join the discussion
+  The Tahoe code in this area will have to be read and understood a bit better
+    https://github.com/tahoe-lafs/tahoe-lafs/blob/master/src/allmydata/storage/server.py
+
+* Someone has a Docker Hub account https://hub.docker.com/r/pataquets/tahoe-lafs
+  We should get in touch with them and see what's up
 
 Tuesday, March 9
 _______________________________________________________________________

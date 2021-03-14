@@ -1,8 +1,11 @@
-Agenda for the next meeting. 
-Currently scheduled for Tuesday, March 16 18:00 UTC +1
+Agenda and minutes of meetings
 
-COMMIT to add items. 
-If you don't have write access, please open a PR :)
+https://tahoe-lafs.fossho.st/NutsAndBolts
+Tuesdays at 18:00 UTC +1 and Fridays at 16:30 UTC +1
+
+Next meeting: Tuesday, March 16 18:00 UTC +1
+
+AGENDA
 _______________________________________________________________________
 * FOSShost approved - thank you Sajith! We should donate. $10/mo?
 

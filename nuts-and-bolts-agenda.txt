@@ -8,8 +8,12 @@ Next meeting: Tuesday, March 16 18:00 UTC +1
 AGENDA
 _______________________________________________________________________
 * FOSShost approved - thank you Sajith! We should donate. $10/mo?
-
-
+* Status of Tahoe-LAFS 1.15.0
+  * is it stuck on something?
+* Release/Testing Task List
+  * do we have ideas for what to point new hire at when they arrive?
+* Great Black Swamp protocol pre-pre-review
+  * anyone looking at this?
 
 
 

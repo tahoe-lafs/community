@@ -3,7 +3,7 @@ Merged PR on or before the posting of the position?
 Then contributor/other affiliate?
 Then community/local/historical?
 
-Gigs 
+Projects 
     Migrate from Trac to GitLab
     Set up UI for test grid
 Grants 

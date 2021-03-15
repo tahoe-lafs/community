@@ -11,6 +11,7 @@ _______________________________________________________________________
 * Status of Tahoe-LAFS 1.15.0
   * is it stuck on something?
 * Release/Testing Task List
+  * forwarded email from Gina
   * do we have ideas for what to point new hire at when they arrive?
 * Great Black Swamp protocol pre-pre-review
   * anyone looking at this?

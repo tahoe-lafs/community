@@ -1,5 +1,5 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Migration in Four Phases:
+Migration in Four Phases (budget is 1k - 2k phase)
 1.  Migrate Tickets, Ticket History (including attachemnts, patches, comments - 
     okay if it has to be just one long thing) from Trac to GitLab
 
@@ -16,8 +16,11 @@ OTHER:
 We likely won't move the Wiki, but if so, it would be contents and edit history
 Don't worry about milestones
 Person should overwhelmingly use IRC
-Results/process should be published and collaborative
+Work should be done in a public repo and published 
 ********************************************************************************
+
+Posted on 14.03.2021
+https://tahoe-lafs.discourse.group/t/migrate-trac-to-gitlab-phase-1/12
 
 Ultimate goal is a self-hosted GitLab instance, but that would require some kind
 of support (managed offering is 800/mo including licenses and server support)
@@ -26,7 +29,6 @@ Consensus reached in March was Sajith was going to look more into it, with zFEC
 as a test case
 Jean-Paul has suggested using the GitLab export format from the Trac DB
 (presumably an artifact) vs. the GitLab API
-Otherwise, this project should be spun up into a Gig and sent to the community 
 We need to come up with a budget for that 
 At this stage, this type of thing should be offered to the Discourse, mailing 
 list, and linked to the IRC 

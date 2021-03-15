@@ -12,6 +12,17 @@ _______________________________________________________________________
 
 
 
+
+
+
+* Assigning work and creating roles
+    Talk about this now; implement later
+    Thinking about an internship for a code maintainer. Thoughts?
+    Get away from hourlies if we can scope a project tightly?
+
+
+
+
  _______________________________________________________________________
 
 
@@ -102,7 +113,7 @@ _______________________________________________________________________
   to deployment of Test Grid as well as assitance with a self-hosted GitLab
     He uses Ansible and our preference is NixOS
               
-* Trac migration project will be offered to the community as a gig
+* Trac migration project will be offered to the community as a project
   There needs to be a coordinated means of communicating when such
   opportunities are available
     IRC

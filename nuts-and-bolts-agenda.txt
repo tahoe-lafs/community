@@ -14,11 +14,6 @@ _______________________________________________________________________
   * do we have ideas for what to point new hire at when they arrive?
 * Great Black Swamp protocol pre-pre-review
   * anyone looking at this?
-
-
-
-
-
 * Assigning work and creating roles
     Talk about this now; implement later
     Thinking about an internship for a code maintainer. Thoughts?

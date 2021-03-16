@@ -1,0 +1,39 @@
+The Specialist will be expected to work approximately 20 hours per week
+contributing to activities such as the following:
+
+Process Improvement
+
+Support improvements in the release process, including:
+Developing a new release processes to match new infrastructure
+Developing documentation detailing the release process
+Automating the release process
+Support improvements in the test suite, particularly to increase speed of testing
+Conduct code reviews and other testing techniques as determined by the open source team
+Perform other tasks as required by the open source tool team
+ 
+
+Improve Onboarding of New Contributors
+
+Develop onboarding process and quick-start guide for new contributors
+Help establish baseline metrics for community health
+Review, organize, and curate old issues to make them accessible
+for external contributors to resolve
+Help triage Issues with emphasis on community contributions
+ 
+
+Documentation Improvements
+
+Conduct an audit of existing documentation available for contributors on wiki
+and website
+Write new and improve existing documentation
+Document team roles and responsibilities and decision-making process publicly
+ 
+
+During your kickoff meeting, we ask that you cover the following topics:
+
+Overview of Tahoe-LAFS, ensuring that T & R has everything they need to learn the tool
+Agreement upon method and frequency of communications (Signal, a forum you may manage, etc.)
+Schedule at minimum weekly check-in meetings to monitor progress and troubleshoot
+(these can be dialed back after the working relationship is better established)
+Working draft of goals/deliverables you hope for T & R to complete during their 
+6 months with you, to be updated as things progress

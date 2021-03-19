@@ -3,33 +3,45 @@ Agenda and minutes of meetings
 https://tahoe-lafs.fossho.st/NutsAndBolts
 Tuesdays and Fridays
 
-Next meeting: Friday, March 19 15:30 UTC +1
+Next meeting: Tuesday, March 23 16:00 UTC +1
 
 AGENDA
 _______________________________________________________________________
-* Review: meeting tonight with Testing and Release Manager 19:00 UTC +1
-    Intros and welcome (take about a minute and say who you are and what you do
-    for Tahoe)
-    Things we can talk about
-        Ask about working style/current workflows
-        Preferred tools?
-        Ask about IRC
-        Reminder: Trac account
-        Assign first task - he may have already read it
-    I'll send an email with the boring admin stuff & summary after
-    Someone needs to be available for a 30 minute technical check-in
-    I can schedule a weekly checkin but it would likely be conversational
-* Status of Tahoe-LAFS 1.15.0
-    Update? Did we discuss this Tuesday?
-* GBS Questions
-* Also how long are meetings?
+* New items first
+* Stale items/revists/updates last
 
- _______________________________________________________________________
+_______________________________________________________________________
 
 
 Minutes of Past Meetings
 
 MARCH
+
+Friday, March 19
+_______________________________________________________________________
+
+* Kick-off with Testing and Release Manager
+    Emphasize use of IRC
+    Reminder to make a Trac account
+    First task: Try to install Tahoe, then go through the release checklist
+    Sajith (dev) will be available for 30 minutes a week for four weeks to
+    check-in
+    May-Lee (community) will be available once weekly for four weeks to check in
+* Status of Tahoe-LAFS 1.15.0
+    Will be addressed asynchronously with Meejah (dev)
+* GBS discussion
+    Why the design chooses to use RESTful structure and our faith in SHA256
+    What is the motivation behind replacing Foolscap with an HTTP-based RPC
+        Performance issues - Foolscap is slow due to its complexity
+        Community - Foolscap has a smaller community and therefore fewer 
+        implementations, less development
+        Complexity - although Foolscap offers some potentially valuable features,
+        its complexity makes it hard to test and maintain
+* Possible summit item: 100-year cryptography and building Tahoe on top of other
+    cryptographic primitives
+* Meetings are officially 45 minutes long (more than 30, less than 60)
+
+Tuesday, March 16
 _______________________________________________________________________
 
 * We will donate $10/mo to FOSSHost
@@ -52,7 +64,7 @@ _______________________________________________________________________
     Storage plugins system
 
 
-Tuesday, March 9
+Friday, March 12
 _______________________________________________________________________
 
 * We will apply for OTF Usability Lab https://apply.opentech.fund/usability-lab/

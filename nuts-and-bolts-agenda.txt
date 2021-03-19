@@ -3,25 +3,26 @@ Agenda and minutes of meetings
 https://tahoe-lafs.fossho.st/NutsAndBolts
 Tuesdays and Fridays
 
-Next meeting: Tuesday, March 16 16:00 UTC +1
+Next meeting: Friday, March 19 15:30 UTC +1
 
 AGENDA
 _______________________________________________________________________
-* FOSShost approved - thank you Sajith! We should donate. $10/mo?
+* Review: meeting tonight with Testing and Release Manager 19:00 UTC +1
+    Intros and welcome (take about a minute and say who you are and what you do
+    for Tahoe)
+    Things we can talk about
+        Ask about working style/current workflows
+        Preferred tools?
+        Ask about IRC
+        Reminder: Trac account
+        Assign first task - he may have already read it
+    I'll send an email with the boring admin stuff & summary after
+    Someone needs to be available for a 30 minute technical check-in
+    I can schedule a weekly checkin but it would likely be conversational
 * Status of Tahoe-LAFS 1.15.0
-  * is it stuck on something?
-* Release/Testing Task List
-  * forwarded email from Internews
-  * do we have ideas for what to point new hire at when they arrive?
-* Great Black Swamp protocol pre-pre-review
-  * anyone looking at this?
-* Assigning work and creating roles
-    Talk about this now; implement later
-    Thinking about an internship for a code maintainer. Thoughts?
-    Get away from hourlies if we can scope a project tightly?
-
-
-
+    Update? Did we discuss this Tuesday?
+* GBS Questions
+* Also how long are meetings?
 
  _______________________________________________________________________
 
@@ -29,6 +30,27 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 MARCH
+_______________________________________________________________________
+
+* We will donate $10/mo to FOSSHost
+* Release/Testing Task List
+    We will schedule the closest we can get to an all-hands
+    First two weeks will be him trying out the release process outlined here:
+    https://tahoe-lafs.readthedocs.io/en/latest/release-checklist.html
+    And caputuring his experience
+* Great Black Swamp protocol pre-pre-review
+    Needs to be improved as much as possible before sent to an auditing team
+* New possible future role for code maintainer
+    Can be structured like a fellowship (i.e., monthly stipend vs. hourly)
+    Would be a great way to retain expertise of current or past contributors
+    More self-directed rather than a concrete list of tasks
+    Could take learnings from T & R Manager to design program
+* Specifically scoped projects should get away from hourly rates
+* Incoming 2021: Least Authority might have some feature requests
+    Improved mutable
+    Append only
+    Storage plugins system
+
 
 Tuesday, March 9
 _______________________________________________________________________

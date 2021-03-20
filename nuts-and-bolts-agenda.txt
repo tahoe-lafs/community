@@ -8,7 +8,10 @@ Next meeting: Tuesday, March 23 16:00 UTC +1
 AGENDA
 _______________________________________________________________________
 * New items first
-* Stale items/revists/updates last
+* Updates:
+    Season of Docs
+    I2P/Tor integration/testing
+
 
 _______________________________________________________________________
 

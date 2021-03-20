@@ -1,3 +1,5 @@
+In conjunction with BASICS:
+
 The Specialist will be expected to work approximately 20 hours per week
 contributing to activities such as the following:
 
@@ -37,3 +39,39 @@ Schedule at minimum weekly check-in meetings to monitor progress and troubleshoo
 (these can be dialed back after the working relationship is better established)
 Working draft of goals/deliverables you hope for T & R to complete during their 
 6 months with you, to be updated as things progress
+
+Draft Schedule for Six months
+
+Month One
+Onboard: IRC, Trac and Kick-off Meeting
+Meet once per week with Senior Engineer
+Meet once per week (briefly) with Community Manager
+Team meetings optional
+Set up Test Grid, report findings (about 1 - 2 weeks)
+Attempt to follow Release Checklist, report findings (about 1 - 2 weeks)
+AFTER WEEK 2:
+Draft 6 month plan
+T & R can read NutsAndBolts minutes for ideas of projects they would like to
+work on
+Accountability report
+
+Month Two
+If working relationship is stable, 1-on-1 meetings can become optional
+Accountability report
+
+Month Three
+Accountability report
+1 page update report using the BASICS rubric
+
+Month Four 
+Accountability report
+
+Month Five 
+Going on progress so far, come to a good stopping point (or plan for continuation)
+with projects
+Accountability report
+
+Month Six
+Accountability report
+1 page update report using the BASICS rubric
+Continuation plan based on interest and performance of Testing and Release Manager

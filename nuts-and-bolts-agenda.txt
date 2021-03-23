@@ -1,15 +1,15 @@
 Agenda and minutes of meetings
 
-https://tahoe-lafs.fossho.st/NutsAndBolts
+URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Tuesday, March 23 16:00 UTC +1
+Next meeting: Friday, March 26 16:30 UTC +1
 
 AGENDA
 _______________________________________________________________________
+* Week recap/updates
 
-
-
+* Central Europe does their time change next week
 
 _______________________________________________________________________
 
@@ -24,34 +24,51 @@ _______________________________________________________________________
 * Onboarding estimate
     Complexity and uniqueness of stacks determine onboarding time 
     For reference, large companies like Uber/Google are approx. 6 months
-    Tahoe is about 3 - 6 months, with some areas remaining murky
+    Tahoe is about 3 - 6 months, with some areas remaining murky for years
     Understand this idea for recruitment/retention 
 * FOR REFERENCE: Org Chart and role descriptions
     https://github.com/tahoe-lafs/community/tree/main/roles
-* Feature requests:
+* Feature requests
     The bottleneck on feature requests is capable Tahoe developers
     Code fellowship and other initiatives can create these new devs, as current
     devs are already generally at capacity
-    Aspiration can sometimes fund, if it's a part of our objectives anyway
+    Aspiration can sometimes fund, if it's already a part of objectives/budget
     Otherwise, the requesting organization should have a renumeration strategy 
     It helps if the requesting organization has a Tahoe dev on their team
-* Season of Docs
-    
-    I2P/Tor integration/testing
-    GBS RFP - scope ideas needed
-        Codebases? Foolscap/Tahoe-LAFS or just the GBS doc?
+* Season of Docs Update Notes
+    A 2nd volunteer in addition to Community Manager will be sourced, and paid
+    a stipend.
+    Project proposal, milestones and metrics have been chosen
+    https://github.com/tahoe-lafs/community/blob/main/project-notes/season-of-docs-2021/season-of-docs-notes.txt
+* I2P/Tor integration/testing
+    "Good unit tests solve 98% of your problems"
+    i2p and Tor unit tests leave much to be desired
+    removing Mock from i2p unit tests
+    the possibility exists now to greatly improve txi2p testing
+* GBS RFP
+    Will run draft by experienced RFP readers at LA
+    Scope:
+        Tahoe-LAFS codebase 
+        GBS doc 
+        https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html
+        URL doc
+        https://tahoe-lafs.readthedocs.io/en/latest/specifications/url.html?highlight=url
+        Foolscap security properties (not codebase)
         Peer authentication
-            Certificate discussion?
+            Certificate expiration time and other parameters
+            Use of SPKI to provide certificate authentication properties
         Message authentication
         Message secrecy
-        Transition process from Foolscap to GBS
+        Transition process from Foolscap to GBS with eye to vulnerabilities
         Possible configuration of TLS parameters offering forward secrecy
         Potential current exploitable active vulnerabilities
         Potential security gaps in user interaction
         Security assumptions, potential future weaknesses in design and implementation
         Strength of existing security controls and potential improvements that could be made
         etc.
-
+        Comparison of the Storage Protocol vs. HTTP TLS
+            Because GBS copies Foolscap as closely as possible, it might inherit
+            security flaws
 
 Friday, March 19
 _______________________________________________________________________

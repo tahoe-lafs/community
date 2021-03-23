@@ -21,6 +21,12 @@ _______________________________________________________________________
     Previous year wins
     Next year's goals
     Python 3 porting
+    100-year cryptography and building Tahoe on top of other
+    cryptographic primitives
+        New features?
+            Improved mutable
+            Append only
+            Storage plugins system
 
 * Speakers/presentations
     Novel implementations

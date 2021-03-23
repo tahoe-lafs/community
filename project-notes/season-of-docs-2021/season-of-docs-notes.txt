@@ -1,0 +1,9 @@
+ Get a specific email for this.
+
+ 
+ Installation
+        Consuming storage
+        Providing storage
+        How to run a friend net 
+        Running hybrid local cloud grid, with a backup in the cloud
+        Integrating Tahoe-LAFS as a storage layer in your app

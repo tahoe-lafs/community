@@ -21,3 +21,6 @@ Might also be good to integrate some kind of CI w/Sphinx
 I have a note that we use UTF-8, should that be noted anywhere or is already?
 Developer documentation should also be worked on
 We use Sphinx and we use it for CLI not API; it was chosen because of Python
+What could a person who is with us for 6 hrs/weekly for 6 months reasonably be 
+expected to accomplish? I am guessing the onboarding process lasts about 3
+months

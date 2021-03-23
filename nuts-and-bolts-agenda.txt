@@ -7,33 +7,36 @@ Next meeting: Tuesday, March 23 16:00 UTC +1
 
 AGENDA
 _______________________________________________________________________
-* FOR REFERENCE: Testing and Release Manager notes & 'roles' folder/org chart
-    https://github.com/tahoe-lafs/community/blob/main/roles/testing-and-release-manager.txt
-    "The release process is documented and repeatable to the extent that
-    someone new to the project is able to independently generate
-    the complete set of artifacts required for a release."
-* How do we handle feature requests?
-* Updates:
-    Season of Docs
-    2nd person needed (can't find it but I saw 
-    it https://developers.google.com/season-of-docs/docs/admin-responsibilities)
-        Approx. 6 hrs/week for 6 months
-        I will ask for $9,000 USD for the writer
-        $1,000 USD for 2 X $500 volunteer stipends (1 every 3 mos)
-        What can realistically be expected?
-            Milestone 1 - Match existing documentation with goals of first set of topic
-            guides
-                 Installation
-                 Consuming storage
-                 Providing storage
-            Milestone 2 - Write, illustrate and test this documentation
-            Milestone 3 - Match existing documentation with goals of second set of topics
-                How to run a friend net 
-                Running hybrid local cloud grid, with a backup in the cloud
-                Integrating Tahoe-LAFS as a storage layer in your app
-            Milestone 4 - Write, illustrate and test this documentation
-            Milestone 5 - Go through the documentation that was not used to produce the 
-            topic guides and organize for relevance
+
+
+
+
+_______________________________________________________________________
+
+
+Minutes of Past Meetings
+
+MARCH
+
+Tuesday, March 23
+_______________________________________________________________________
+
+* Onboarding estimate
+    Complexity and uniqueness of stacks determine onboarding time 
+    For reference, large companies like Uber/Google are approx. 6 months
+    Tahoe is about 3 - 6 months, with some areas remaining murky
+    Understand this idea for recruitment/retention 
+* FOR REFERENCE: Org Chart and role descriptions
+    https://github.com/tahoe-lafs/community/tree/main/roles
+* Feature requests:
+    The bottleneck on feature requests is capable Tahoe developers
+    Code fellowship and other initiatives can create these new devs, as current
+    devs are already generally at capacity
+    Aspiration can sometimes fund, if it's a part of our objectives anyway
+    Otherwise, the requesting organization should have a renumeration strategy 
+    It helps if the requesting organization has a Tahoe dev on their team
+* Season of Docs
+    
     I2P/Tor integration/testing
     GBS RFP - scope ideas needed
         Codebases? Foolscap/Tahoe-LAFS or just the GBS doc?
@@ -49,15 +52,6 @@ _______________________________________________________________________
         Strength of existing security controls and potential improvements that could be made
         etc.
 
-
-
-
-_______________________________________________________________________
-
-
-Minutes of Past Meetings
-
-MARCH
 
 Friday, March 19
 _______________________________________________________________________

@@ -1,9 +1,31 @@
  Get a specific email for this.
 
- 
+
  Installation
         Consuming storage
         Providing storage
         How to run a friend net 
         Running hybrid local cloud grid, with a backup in the cloud
         Integrating Tahoe-LAFS as a storage layer in your app
+
+    2nd person needed (can't find it but I saw 
+    it https://developers.google.com/season-of-docs/docs/admin-responsibilities)
+        Approx. 6 hrs/week for 6 months
+        I will ask for $9,000 USD for the writer
+        $1,000 USD for 2 X $500 volunteer stipends (1 every 3 mos)
+        What can realistically be expected?
+            Milestone 1 - Match existing documentation with goals of first set of topic
+            guides
+                 Installation
+                 Consuming storage
+                 Providing storage
+            Milestone 2 - Write, illustrate and test this documentation
+            Milestone 3 - Match existing documentation with goals of second set of topics
+                How to run a friend net 
+                Running hybrid local cloud grid, with a backup in the cloud
+                Integrating Tahoe-LAFS as a storage layer in your app
+            Milestone 4 - Write, illustrate and test this documentation
+            Milestone 5 - Go through the documentation that was not used to produce the 
+            topic guides and organize for relevance
+
+            

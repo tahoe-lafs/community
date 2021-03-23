@@ -1,11 +1,31 @@
-BIG QUESTION: Eligibility criteria/preferences for these roles?
-Merged PR on or before the posting of the position?
-Then contributor/other affiliate?
-Then community/local/historical?
+General Hiring preferences:
+
+We prioritize hiring people who have longevity within the community
+and a will to grow their skills. In particular, we favor:
+
+Anyone who has a merged PR request on or before the date of posting
+
+Someone who interacts regularly with the community
+(e.g, someone who attends meetings or makes PRs on our community repo
+or participates in our IRC channel)
+
+Individuals who have been recommended by a Tahoe-LAFS community member
+
+Publish results
+Please read our Code of Conduct and understand that we foster an open
+and welcoming community.
+
+Note that we cannot send money to Cuba, Iran, North Korea or Syria,
+due to U.S. sanctions. We also cannot send money to anyone on the OFAC
+“Specially Designated Nationals” list. If you are located in the U.S.,
+you must be authorized to work in the U.S.
+
+You must be willing to participate in IRC or a Slack channel
 
 Projects 
     Migrate from Trac to GitLab
     Set up UI for test grid
+
 Grants 
     Implementations (needs spec first)
         Haskell (not sure how far this is)
@@ -13,6 +33,7 @@ Grants
         JavaScript 
         iOS 
         Android
+
 Code Steward Internship
     Inspired by Nadia Eghbal (Working in Public, Stripe, 2020)
         60% of code is about maintenance, not creation 
@@ -27,6 +48,8 @@ Code Steward Internship
     Learning opportunity OR a way for past contributor to get involved 
 
 Research internship idea - too complicated; shelve till 2022
+    Inspired by Costello, who earned enough money to study math at UNC Chapel
+    Hill and wants to do a Crypytography internship 
     IDEAS
     I want to start in July
     Internship cycle: 3 x year

@@ -7,4 +7,8 @@ Historically, it was all tracked using BitCoin addresses and transactions.
 https://tahoe-lafs.readthedocs.io/en/tahoe-lafs-1.12.1/donations.html
 
 We have $250/mo in the form of a credit card.
-Currently we are spending $90 on CI and about $2 on server hosting
+$2 on server hosting
+
+$90/mo on CircleCI
+
+TODO: donate to FOSSHost; $10/mo 

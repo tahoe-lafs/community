@@ -1,0 +1,11 @@
+List of unsupported projects and what we're doing about them:
+
+Possible workflow:
+Announce on IRC and mailing list
+Add to a category on Discourse
+People should understand that they should only use official channels for 
+downloads etc?
+
+https://github.com/pataquets/docker-tahoe-lafs-node
+
+https://hub.docker.com/r/dockertahoe/tahoe-lafs

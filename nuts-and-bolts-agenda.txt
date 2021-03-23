@@ -9,8 +9,10 @@ AGENDA
 _______________________________________________________________________
 * New items first
 * Updates:
-    Season of Docs
+    Season of Docs - budget, ideas, 2nd person needed (can't find it but I saw 
+    it https://developers.google.com/season-of-docs/docs/admin-responsibilities)
     I2P/Tor integration/testing
+    GBS
 
 
 _______________________________________________________________________

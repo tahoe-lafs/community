@@ -42,6 +42,10 @@ Working draft of goals/deliverables you hope for T & R to complete during their
 
 Draft Schedule for Six months
 
+"The release process is documented and repeatable to the extent that someone new
+to the project is able to independently generate the complete set of artifacts
+required for a release."
+
 Month One
 Onboard: IRC, Trac and Kick-off Meeting
 Meet once per week with Senior Engineer

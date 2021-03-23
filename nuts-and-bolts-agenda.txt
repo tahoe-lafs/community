@@ -7,12 +7,31 @@ Next meeting: Tuesday, March 23 16:00 UTC +1
 
 AGENDA
 _______________________________________________________________________
-* New items first
+* Testing and Release Manager notes & 'roles' folder/org chart
+    https://github.com/tahoe-lafs/community/blob/main/roles/testing-and-release-manager.txt
+    "The release process is documented and repeatable to the extent that
+    someone new to the project is able to independently generate
+    the complete set of artifacts required for a release."
+* How do we handle feature requests?
 * Updates:
     Season of Docs - budget, ideas, 2nd person needed (can't find it but I saw 
     it https://developers.google.com/season-of-docs/docs/admin-responsibilities)
     I2P/Tor integration/testing
-    GBS
+    GBS RFP - scope ideas needed
+        Codebases? Foolscap/Tahoe-LAFS or just the GBS doc?
+        Peer authentication
+            Certificate discussion?
+        Message authentication
+        Message secrecy
+        Transition process from Foolscap to GBS
+        Possible configuration of TLS parameters offering forward secrecy
+        Potential current exploitable active vulnerabilities
+        Potential security gaps in user interaction
+        Security assumptions, potential future weaknesses in design and implementation
+        Strength of existing security controls and potential improvements that could be made
+        etc.
+
+
 
 
 _______________________________________________________________________

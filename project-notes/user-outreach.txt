@@ -1,10 +1,11 @@
 TODO:
-Get new and successful contributor
-write IRC guide (sounds trivial but I think it's necessary)
-Create list of companies with Tahoe integrations
-Plan Tahoe integrations (separate doc)
-Possibly create one organizer email w/TLD for project sustainability and 
+[ ]  Get new and successful contributor
+[x]  write IRC guide (sounds trivial but I think it's necessary)
+[ ]  Create list of companies with Tahoe integrations
+[ ]  Plan Tahoe integrations (separate doc)
+[ ]  Possibly create one organizer email w/TLD for project sustainability and 
 autonomy
-Think of and write useful gists (ideas?) w/general application
-Have an incident reporting process 
-Narration of onboarding process
+[ ]  Think of and write useful gists (ideas?) w/general application
+[ ]  Have an incident reporting process 
+[ ]  Narration of onboarding process
+[ ]  Give small interactive workshops - "How to contribute to Open Source"

@@ -7,7 +7,16 @@ Next meeting: Friday, March 26 16:30 UTC +1
 
 AGENDA
 _______________________________________________________________________
-* Week recap/updates
+* Call for Items: Monthly report due on Wednesday so either today or Tuesday
+    Did I miss anything?
+    Further development on GBS protocol
+    Porting is really progressing, yay!
+    txi2p situation
+
+* I get the impression if something significant is mentioned on the IRC, it's 
+    captured somehow? 
+    I feel like this is the main way we hear anything from our users and how we
+    steer some decisions/initiatives
 
 * Central Europe does their time change next week
 

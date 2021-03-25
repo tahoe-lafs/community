@@ -14,6 +14,7 @@
         I will ask for $9,000 USD for the writer
         $1,000 USD for 2 X $500 volunteer stipends (1 every 3 mos)
         What can realistically be expected?
+            Milestone 0 - 
             Milestone 1 - Match existing documentation with goals of first set of topic
             guides
                  Installation

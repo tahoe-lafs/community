@@ -1,240 +1,91 @@
-# Tahoe-LAFS Google Season of Docs Project Proposal
-https://developers.google.com/season-of-docs/docs/org-proposal-template
 
-Create Tutorials for New Users - Tahoe-LAFS
+## Create Topic Guides for New Users - Tahoe-LAFS
 
-About your organization
-In this section, tell us about your organization or project in a few short paragraphs. What problem does your project solve? Who are your users and contributors? How long has your organization or project been in existence? Give some context to help us understand why funding your proposal would create a positive impact in open source and the world.
-
-GloriousPickle (current version 1.2.3, first release in 2009) is an MIT-licensed library for easily calculating the perfect ratio of salt, sugar, vinegar, and spices for every possible pickleable vegetable, in quantities ranging from a single solitary baby cucumber to container-shiploads of radishes. Our contributors are pickle enthusiasts from all around the world, and our users are home chefs, restaurant chefs, and people working in logistics for large food-processing companies and organizations. Our largest user is an organization that helps food banks turn short-shelf-life vegetables into stable jars of pickles, helping feed hungry people in many communities and reducing food waste. In addition, our users send us optional metrics about their use of GloriousPickle, which we use to produce the PickleSet, a large dataset for creating new pickle recipes through machine learning.
-
-Your project’s problem
-
-Our project has two groups, users and contributors.
-
-We want to create new documentation targeted towards new users.
-
-The project was started around 2007. The longevity of the project,
-in combination with the small but steady number of core contributors
-has led to a context-heavy environment.
-Additionally, most of our core users were originally contributors.
-Because of this history, new users might not easily find their way around the project,
-or might feel intimidated.
-
-Tahoe-LAFS was envisioned as way to encrypt data and provide a means of securely
-storing data.
-One use case of our project is organizations providing services to NGOs
-who are at surveillance risk.
-We are strongly motivated to make sure that Tahoe-LAFS achieves wider adoption
-in the coming years in the face of increasing political instability globally.
-
-Tahoe-LAFS is FOSS, and because of its ethos of platform agnosticism,
-it remains an excellent and lightweight solution,
-particularly in regions of the world where market and infrastructure conditions
-create restrictons on user choice.
-
-By creating these tutorials, you will help users,
-including those in surveillance states,
-use and disemminate tools that keep their data secure and private.
-
-Your project’s scope
-Tell us about what documentation your organization will create, update, or improve. If some work is deliberately not being done, include that information as well. Include a time estimate, and whether you have already identified organization volunteers and a technical writer to work with your project.
-
-The GloriousPickle project (code-named PicklePlus) will:
-
-Audit the existing documentation and create a friction log of the current documentation for the three top use cases (adding a new ingredient, adding a variant ingredient, and updating or correcting information about an ingredient).
-Using the friction log as a guide for understanding the gaps in the documentation, create updated documentation for the top use cases.
-Create a quick “cheat sheet” to help contributors new to pull requests and GitHub to help them be able to use our process.
-Incorporate feedback from documentation testers (volunteers in the project) and the wider GloriousPickle community.
-Work with the release team to update the documentation on the GloriousPickle site, and to create a process for keeping the documentation in sync with the update tool going forward.
-Work that is out-of-scope for this project:
-
-This project will not create a process for cross-linking between different spellings or names for the same ingredient.
-This project will not create any GitHub tutorials; instead, the cheat sheet will link to existing material that is relevant and helpful.
-We have two strong technical writing candidates for this project, and we estimate that this work will take three months to complete. The GloriousPickle PickleDocs SIG and @GloriousPicklePat (the core maintainer of the ingredient-adding API) have committed to supporting the project.
-
-Measuring your project’s success
-How will you know that your new documentation has helped solve your problem? What metrics will you use, and how will you track them?
-
-GloriousPickle receives an average of ten pull requests a quarter to add or update new ingredients (tagged ‘ingredient’). The majority of these pull requests (>60%) are from previous contributors. We believe that this improved documentation will result in more pull requests and more pull requests from new contributors. Since most of our active contributors began by adding ingredients, we also think improving this documentation will result in more active contributors overall.
-
-We will track two metrics (number of ingredient-related pull requests and number of pull requests from new contributors) monthly after the documentation is published. We will also track the number of contributors who have made more than three contributions overall, starting quarterly after the documentation is published.
-
-We would consider the project successful if, after publication of the new documentation:
-
-The number of ingredient-related pull requests increases by 20%
-The number of pull requests from new contributors increases by 15%
-The number of contributors who have made >3 contributions increases by 10% (beginning the quarter after the documentation is published)
-Project budget
-General guidelines
-You can include your budget in your proposal, or as a separate link. If your budget is fewer than ten items, we recommend including it in your proposal.
-All budgets should be in US dollars. We expect grants to range from US$5000 to US$15000; if your project is outside of that range, please provide additional information to justify your budget.
-We expect the bulk of your budget (60-70% minimum) to be allocated to the technical writer working on your project. We recommend budgeting on a per-project basis wherever possible.
-We expect open source projects to use open source tools whenever possible; if your project absolutely requires funds for proprietary software licenses or support, please include a justification for the amount.
-Other possible expenses include:
-Design work to create branding, logos, templates, or other design assets for your documentation site
-Minimal amounts (<US$200) for project swag (t-shirts or stickers for your participants). If you use the Season of Docs logo, it must be accompanied by your project or organization logo or name. Your swag may not use the name Google.
-Minimal stipends for volunteers who take on considerable mentorship or guidance roles in the project (we recommend no more than $500 per volunteer, please)
-Downstream donations to other open source projects should be no more than 10% of your budget total.
-Include other budget items as needed, along with justification for the amount sought. Expense justifications should highlight how the expenditure will contribute to the success of the project as a whole.
-Sample budget
-Budget item	Amount	Running Total	Notes/justifications
-Technical writer audit, update, test, and publish new documentation of ingredient-adding process for GloriousPickle	5000.00	5000.00	
-Volunteer stipends	500	6500.00	3 volunteer stipends x 500 each
-Project t-shirts (10 t-shirts)	150.00	6650.00	
-Giant inflatable unicorn (15 foot version)	99.99	6749.99	We will give the inflatable unicorn to the team that answers the technical writer’s questions the fastest during the project development period
-TOTAL		6749.99	
-Additional information
-Include here any additional information that is relevant to your proposal.
-
-Previous experience with technical writers or documentation: If you or any of your mentors have worked with technical writers before, or have developed documentation, mention this in your application. Describe the documentation that you produced and the ways in which you worked with the technical writer. For example, describe any review processes that you used, or how the technical writer's skills were useful to your project. Explain how this previous experience may help you to work with a technical writer in Season of Docs.
-
-Previous participation in Season of Docs, Google Summer of Code or others: If you or any of your mentors have taken part in Google Summer of Code or a similar program, mention this in your application. Describe your achievements in that program. Explain how this experience may influence the way you work in Season of Docs.
-
-### PROPOSAL TITLE - organization name
-
-_Your proposal title should be short and specific. “Update ORGNAME Contributor Guide” is a good proposal title. “Documentation Improvements” is too vague; “Update Sections 5,7,23,99 of Contributor Guide, Create FAQ, and Create Style Guide” is too long._
-
-
-### About your organization
+### About Tahoe-LAFS
 
 _In this section, tell us about your organization or project in a few short paragraphs. What problem does your project solve? Who are your users and contributors? How long has your organization or project been in existence? Give some context to help us understand why funding your proposal would create a positive impact in open source and the world._
 
+#### We have been around since 2007.
+Tahoe-LAFS has been in existence since 2007 by a group of contributors who were extremely technically savvy. The world has changed since then, and the average new user would have more access to technology and familiarity, but at the same time might be lacking in the ability to implement Tahoe-LAFS.
 
-### About your project
+We believe having new documentation will allow more people to make use of Tahoe-LAFS' encryption capabilities and build their own projects on top of it. For this project, we are heavily focused on making sure the first three guides are as user-friendly and welcoming as possible, as we feel that the current user base would have no issues following our current documentation. The second set of guides does not currently exist.
 
+## Project Scope and Milestones
+Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the project to provide for a reasonable learning curve. The scope of the project will be six topic guides of increasing technical difficulty. These topic guides will be written in two phases. The first phase is meant to familiarize a technical writer with Tahoe-LAFS' most basic operations, and the second phase is more challenging, requiring not just technical skill but also the Tahoe-LAFS knowledge gained in the first phase.
 
-#### Your project’s problem
+### Phase 1
 
-_Tell us about the problem your project will help solve. Why is it important to your organization or project to solve this problem?_
+#### Milestone 1 (approx. 4-6 weeks)
 
+ - Audit existing documentation against the goals of the first set of
+   guides, being in close communication with Tahoe-LAFS' mentor
+ - Write first set of guides, on the three most basic Tahoe-LAFS
+   functions, including screenshots when appropriate:
+	 - Installation
+	 - Consuming Storage
+	 - Providing Storage
 
-#### Your project’s scope
+#### Milestone 2 and first checkpoint (approx. 1-2 weeks)
 
-_Tell us about what documentation your organization will create, update, or improve. If some work is deliberately not being done, include that information as well. Include a time estimate, and whether you have already identified organization volunteers and a technical writer to work with your project._
+ - Guides will be tested for completeness and accuracy by Tahoe-LAFS
+   community members
+ - Rewrites/edits
 
+#### Milestone 3 (approx. 6-8 weeks)
 
-#### Measuring your project’s success
+ - Audit existing documentation with goals of second set of topics
+ - Write second set of guides, on more sophisticated Tahoe-LAFS
+   functions, including screenshots when appropriate
 
-_How will you know that your new documentation has helped solve your problem? What metrics will you use, and how will you track them?_
+	 - How to run a friend net
+	 - Running hybrid local cloud grid, with a backup in the cloud
+	 - Integrating Tahoe-LAFS as a storage layer in your app
 
+#### Milestone 4 and second checkpoint (approx. 1-2 weeks)
 
-### Project budget
+ - Guides will be tested for completeness and accuracy by Tahoe-LAFS
+   community members
+ - Rewrites/edits
+#### Milestone 5 (approx. 1-2 weeks)
+			
+ - Go through the documentation that was not used to produce the topic
+   guides and organize for relevance
 
-#### General guidelines
+#### Milestone 6 (approx. 1-2 weeks)
 
-*   You can include your budget in your proposal, or as a separate link. If your budget is fewer than ten items, we recommend including it in your proposal.
-*   All budgets should be in US dollars. We expect grants to range from US$5000 to US$15000; if your project is outside of that range, please provide additional information to justify your budget.
-*   We expect the bulk of your budget (60-70% minimum) to be allocated to the technical writer working on your project. We recommend budgeting on a per-project basis wherever possible.
-*   We expect open source projects to use open source tools whenever possible; if your project absolutely requires funds for proprietary software licenses or support, please include a justification for the amount.
-*   Other possible expenses include:
-    *   Design work to create branding, logos, templates, or other design assets for your documentation site
-    *   Minimal amounts (&lt;US$200) for project swag (t-shirts or stickers for your participants). If you use the Season of Docs logo, it must be accompanied by your project or organization logo or name. Your swag may **not** use the name Google.
-    *   Minimal stipends for volunteers who take on considerable mentorship or guidance roles in the project (we recommend no more than $500 per volunteer, please)
-    *   Downstream donations to other open source projects should be no more than 10% of your budget total.
-*   Include other budget items as needed, along with justification for the amount sought. Expense justifications should highlight how the expenditure will contribute to the success of the project as a whole.
+ - Collect project learnings
+ - Create a roadmap for future projects
 
+### How we’ll measure success
+We'll measure success along the following criteria:
 
-#### Sample budget
+ - Feedback from reviewers at Milestone 2
 
-Budget item | Amount | Running Total | Notes/justifications
-------------|--------|---------------|---------------------
-Technical writer audit, update, test, and publish new documentation of ingredient-adding process for GloriousPickle | 5000.00 | 5000.00
-Volunteer stipends  | 500 | 6500.00 | 3 volunteer stipends x 500 each
-Project t-shirts (10 t-shirts) | 150.00 | 6650.00 
-Giant inflatable unicorn (15 foot version) | 99.99 | 6749.99 | We will give the inflatable unicorn to the team that answers the technical writer’s questions the fastest during the project development period
-TOTAL |  | 6749.99 |
+	
 
-#### Additional information
+ - Feedback from reviewers at Milestone 4
+ - Milestone 6 produces a Road Map for the next round of documentation
+   projects
+ - Views on our Discourse
 
-_Include here any additional information that is relevant to your proposal._
-
-* **Previous experience with technical writers or documentation:**
-  If you or any of your mentors have worked with technical writers before, or
-  have developed documentation, mention this in your application. Describe
-  the documentation that you produced and the ways in which you worked with the
-  technical writer. For example, describe any review processes that you used, or
-  how the technical writer's skills were useful to your project.
-  Explain how this previous experience may help you to work
-  with a technical writer in Season of Docs.
-
-* **Previous participation in Season of Docs, Google Summer of Code or
-  others:**
-  If you or any of your mentors have taken part in
-  [Google Summer of Code](https://g.co/gsoc) or a similar program, mention
-  this in your application. Describe your achievements in that program. Explain
-  how this experience may influence the way you work in Season of Docs.
-
-  ### PROPOSAL TITLE - organization name
-
-_Your proposal title should be short and specific. “Update ORGNAME Contributor Guide” is a good proposal title. “Documentation Improvements” is too vague; “Update Sections 5,7,23,99 of Contributor Guide, Create FAQ, and Create Style Guide” is too long._
-
-
-### About your organization
-
-_In this section, tell us about your organization or project in a few short paragraphs. What problem does your project solve? Who are your users and contributors? How long has your organization or project been in existence? Give some context to help us understand why funding your proposal would create a positive impact in open source and the world._
-
-
-### About your project
-
-
-#### Your project’s problem
-
-_Tell us about the problem your project will help solve. Why is it important to your organization or project to solve this problem?_
-
-
-#### Your project’s scope
-
-_Tell us about what documentation your organization will create, update, or improve. If some work is deliberately not being done, include that information as well. Include a time estimate, and whether you have already identified organization volunteers and a technical writer to work with your project._
-
-
-#### Measuring your project’s success
-
-_How will you know that your new documentation has helped solve your problem? What metrics will you use, and how will you track them?_
-
-
-### Project budget
-
-#### General guidelines
-
-*   You can include your budget in your proposal, or as a separate link. If your budget is fewer than ten items, we recommend including it in your proposal.
-*   All budgets should be in US dollars. We expect grants to range from US$5000 to US$15000; if your project is outside of that range, please provide additional information to justify your budget.
-*   We expect the bulk of your budget (60-70% minimum) to be allocated to the technical writer working on your project. We recommend budgeting on a per-project basis wherever possible.
-*   We expect open source projects to use open source tools whenever possible; if your project absolutely requires funds for proprietary software licenses or support, please include a justification for the amount.
-*   Other possible expenses include:
-    *   Design work to create branding, logos, templates, or other design assets for your documentation site
-    *   Minimal amounts (&lt;US$200) for project swag (t-shirts or stickers for your participants). If you use the Season of Docs logo, it must be accompanied by your project or organization logo or name. Your swag may **not** use the name Google.
-    *   Minimal stipends for volunteers who take on considerable mentorship or guidance roles in the project (we recommend no more than $500 per volunteer, please)
-    *   Downstream donations to other open source projects should be no more than 10% of your budget total.
-*   Include other budget items as needed, along with justification for the amount sought. Expense justifications should highlight how the expenditure will contribute to the success of the project as a whole.
-
-
-#### Sample budget
+##  Proposed Budget
+The bulk of our budget would go to our technical writer, with stipends to be given to volunteers from the community who provide exemplary support, particularly in Milestones 2 & 4.
 
 Budget item | Amount | Running Total | Notes/justifications
 ------------|--------|---------------|---------------------
-Technical writer audit, update, test, and publish new documentation of ingredient-adding process for GloriousPickle | 5000.00 | 5000.00
-Volunteer stipends  | 500 | 6500.00 | 3 volunteer stipends x 500 each
-Project t-shirts (10 t-shirts) | 150.00 | 6650.00 
-Giant inflatable unicorn (15 foot version) | 99.99 | 6749.99 | We will give the inflatable unicorn to the team that answers the technical writer’s questions the fastest during the project development period
-TOTAL |  | 6749.99 |
+Technical writer audit, update, test, and publish new topic guides for Tahoe-LAFS | 9,000.00 | 9000.00
+Volunteer stipends  | 1000 | 10,000.00 | 2 volunteer stipends x 500 each
+TOTAL |  | 10,000.00 |
+## Skills needed
 
+Ability to communicate issues and questions as they arise, via IRC or Slack.
+The tech writer taking on this project should feel comfortable with reading and reviewing programming language documentation, and feel confident about what makes for great docs.
+
+Specific knowledge about and experience with auditing an existing body of documentation would be excellent, of course.
+
+**Prior expertise or even familiarity with Perl is  _not_  necessary.**  In fact, an outsider's viewpoint would prove advantageous to this project, better able to catch oddities too-easily overlooked by those who have marinated in this documentation for many years.
+
+But if you do happen to already know Perl, that's good too!
 #### Additional information
 
-_Include here any additional information that is relevant to your proposal._
-
-* **Previous experience with technical writers or documentation:**
-  If you or any of your mentors have worked with technical writers before, or
-  have developed documentation, mention this in your application. Describe
-  the documentation that you produced and the ways in which you worked with the
-  technical writer. For example, describe any review processes that you used, or
-  how the technical writer's skills were useful to your project.
-  Explain how this previous experience may help you to work
-  with a technical writer in Season of Docs.
-
-* **Previous participation in Season of Docs, Google Summer of Code or
-  others:**
-  If you or any of your mentors have taken part in
-  [Google Summer of Code](https://g.co/gsoc) or a similar program, mention
-  this in your application. Describe your achievements in that program. Explain
-  how this experience may influence the way you work in Season of Docs.
+Grounds for termination: The writer will be terminated if they have been found not to have produced functioning documentation at Milestone 2 (about 6-8 weeks into the project). We consider non-functioning documentation to be documentation that does not result in the deployment of a decentralized filesystem where users can consume and provide storage. Additionally, writers are expected to follow our [Code of Conduct](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/CODE_OF_CONDUCT.md) as well as communicate any issues they may be facing in a timely manner.

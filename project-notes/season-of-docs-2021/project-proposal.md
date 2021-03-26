@@ -1,25 +1,44 @@
 
 ## Create Topic Guides for New Users - Tahoe-LAFS
 
-### About Tahoe-LAFS
+### About Tahoe-LAFS and the Solution We Need
+Founded in 2007, Tahoe-LAFS is the first FOSS that allows for secure, truly
+private storage, independent of provider. It does this by creating encrypted,
+redundant pieces of files, known as _shares_, and distributes those shares to
+separate storage nodes. 
+Because the shares are redundant, data is _secure_ from multiple attacks to
+servers.
+Because shares must be reassembled and decrypted to retrieve the data, data is
+_private_.
 
-Privacy by design.
-
-#### We have been around since 2007.
-Tahoe-LAFS has been in existence since 2007, founded by a group of contributors who were extremely technically savvy.
-We are now in 2021 and we are still in use, proving that privacy never goes out of style.
-Tahoe-LAFS' use cases include encrypted file storage for journalists under surveillance and secure file storage for individuals.
-However,  of potential new users with global access who could benefit from privacy-preserving FOSS that is available 
-Additionally, these new users, once introduced to Tahoe-LAFS, would see its benefit and begin hacking on it. It can be added to the storage layer of apps.
-We believe having new documentation will allow more people to make use of Tahoe-LAFS' encryption capabilities and build their own projects on top of it.
+So what's the problem? Tahoe-LAFS' documentation has been written piecemeal over
+the course of its history. This creates a slightly disjointed, sometimes out-of-date
+feel for much of our documentation.
+We need documentation that can reach users in 2021 who would benefit from Tahoe-LAFS'
+privacy-preserving capabilities.
 For this project, we are heavily focused on making sure the first three guides are as user-friendly and welcoming as possible,
 as we feel that the current user base would have no issues following our current documentation.
-The second set of guides does not currently exist.
+The second set of guides does not currently exist and would be of interest to
+those seeking to make more of Tahoe-LAFS' capabilities, as well as to integrate it
+into their own projects.
+
+### The Impact of Your Work
+Tahoe-LAFS is already being used in a variety of projects to safeguard
+individual privacy, from human rights defenders under surveillance to products
+used to mitigate the impact of cyber attacks. The guides you write should allow
+anyone worldwide to find a safe, trusted solution to secure file storage,
+independent of any provider. We suspect that Tahoe-LAFS would be hugely useful
+to new users in regions where individuals might face threats to their privacy
+and consequences from those threats ranging from imprisonment and torture 
+to social exclusion.
 
 ## Project Scope and Milestones
-Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the project to provide for a reasonable learning curve.
-The scope of the project will be six topic guides of increasing technical difficulty. These topic guides will be written in two phases.
-The first phase is meant to familiarize a technical writer with Tahoe-LAFS' most basic operations, and the second phase is more challenging,
+Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the
+project to provide for a reasonable learning curve.
+The scope of the project will be six topic guides of increasing technical difficulty.
+These topic guides will be written in two phases.
+The first phase is meant to familiarize a technical writer with Tahoe-LAFS' most basic operations,
+and the second phase is more challenging,
 requiring not just technical skill but also the Tahoe-LAFS knowledge gained in the first phase.
 
 ### Phase 1
@@ -66,13 +85,18 @@ requiring not just technical skill but also the Tahoe-LAFS knowledge gained in t
  - Create a roadmap for future projects
 
 ### How we’ll measure success
-We'll measure success along the following criteria:
+The purpose of this project is primarily to provide guides to potential new
+users. We also would use this project as the beginning of formally instituting
+a role for a technical writer in our organization.
 
- - Feedback from reviewers at Milestone 2
- - Feedback from reviewers at Milestone 4
- - Milestone 6 produces a Road Map for the next round of documentation
-   projects
- - Views on our Discourse
+Our success criteria are as follows:
+
+ - Positive feedback from reviewers at Milestone 2
+ - Positive feedback from reviewers at Milestone 4
+ - A Road Map for the next round of documentation
+   projects after Milestone 6
+ - Views on our Discourse for these guides would be at least 20% of total views
+ on the site
 
 ##  Proposed Budget
 The bulk of our budget would go to our technical writer, with stipends to be given to volunteers from the community 
@@ -102,3 +126,4 @@ We know our writers are skilled and capable, but sometimes issues or roadblocks 
 So we expect our writers to communicate with us in a timely manner.
 Long absences or unresponsiveness might result in termination of the relationship. 
 Additionally, writers are expected to follow our [Code of Conduct](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/CODE_OF_CONDUCT.md).
+[More information here](https://github.com/tahoe-lafs/community/blob/main/project-notes/season-of-docs-2021/for-contributors.md)

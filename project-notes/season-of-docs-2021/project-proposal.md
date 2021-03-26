@@ -91,7 +91,8 @@ requiring not just technical skill but also the Tahoe-LAFS knowledge gained in t
 
 ### How we’ll measure success
 The purpose of this project is primarily to provide guides to potential new
-users. We also would use this project as the beginning of formally instituting
+users. 
+We would also use this project to test the feasibility of creating
 a role for a technical writer in our organization.
 
 Our success criteria are as follows:

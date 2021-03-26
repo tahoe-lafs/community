@@ -16,8 +16,9 @@ the course of its history. This creates a slightly disjointed, sometimes out-of-
 feel for much of our documentation.
 We need documentation that can reach users in 2021 who would benefit from Tahoe-LAFS'
 privacy-preserving capabilities.
-For this project, we are heavily focused on making sure the first three guides are as user-friendly and welcoming as possible,
-as we feel that the current user base would have no issues following our current documentation.
+For this project, we are heavily focused on making sure the first three guides are as user-friendly
+and welcoming as possible to new users.
+We feel that the current user base would have no issues following our existing documentation.
 The second set of guides does not currently exist and would be of interest to
 those seeking to make more of Tahoe-LAFS' capabilities, as well as to integrate it
 into their own projects.

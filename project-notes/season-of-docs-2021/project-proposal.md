@@ -2,7 +2,8 @@
 ## Create Topic Guides for New Users - Tahoe-LAFS
 
 ### About Tahoe-LAFS and the Solution We Need
-Founded in 2007, Tahoe-LAFS is the first FOSS that allows for secure, truly
+Founded in 2007, [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs)
+is the first FOSS that allows for secure, truly
 private storage, independent of provider. It does this by creating encrypted,
 redundant pieces of files, known as _shares_, and distributes those shares to
 separate storage nodes. 
@@ -16,26 +17,27 @@ the course of its history. This creates a slightly disjointed, sometimes out-of-
 feel for much of our documentation.
 We need documentation that can reach users in 2021 who would benefit from Tahoe-LAFS'
 privacy-preserving capabilities.
-For this project, we are heavily focused on making sure the first three guides are as user-friendly
-and welcoming as possible to new users.
-We feel that the current user base would have no issues following our existing documentation.
+For this project, a set of six user guides will be written, each covering a specific topic
+or usage of Tahoe-LAFS.
+We will be focusing heavily on making sure the first three guides are rewritten to be
+as user-friendly and welcoming as possible to new users.
 The second set of guides does not currently exist and would be of interest to
-those seeking to make more of Tahoe-LAFS' capabilities, as well as to integrate it
+those seeking to make more of Tahoe-LAFS' capabilities, as well as integrate it
 into their own projects.
 
 ### The Impact of Your Work
 Tahoe-LAFS is already being used in a variety of projects to safeguard
 individual privacy, from human rights defenders under surveillance to products
-used to mitigate the impact of cyber attacks. The guides you write should allow
-anyone worldwide to find a safe, trusted solution to secure file storage,
+used to mitigate the impact of cyber attacks. The guides you write would allow
+anyone worldwide to install and use a safe, trusted solution to secure file storage,
 independent of any provider. We suspect that Tahoe-LAFS would be hugely useful
 to new users in regions where individuals might face threats to their privacy
-and consequences from those threats ranging from imprisonment and torture 
-to social exclusion.
+and consequences from those threats ranging from social exclusion 
+to imprisonment and torture.
 
 ## Project Scope and Milestones
 Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the
-project to provide for a reasonable learning curve.
+project to provide a reasonable learning curve to our writer.
 The scope of the project will be six topic guides of increasing technical difficulty.
 These topic guides will be written in two phases.
 The first phase is meant to familiarize a technical writer with Tahoe-LAFS' most basic operations,
@@ -89,7 +91,8 @@ requiring not just technical skill but also the Tahoe-LAFS knowledge gained in t
 
 ### How we’ll measure success
 The purpose of this project is primarily to provide guides to potential new
-users. We also would use this project as the beginning of formally instituting
+users. 
+We would also use this project to test the feasibility of creating
 a role for a technical writer in our organization.
 
 Our success criteria are as follows:

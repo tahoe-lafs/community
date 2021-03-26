@@ -11,7 +11,10 @@ _______________________________________________________________________
     Did I miss anything?
     Further development on GBS protocol
     Porting is really progressing, yay!
-    txi2p situation
+    txi2p situation and more testing
+    Jitsi Hosting
+    Testing and Release Manager hiring and onboarding
+    Apply to Google Season of Docs
 
 * I get the impression if something significant is mentioned on the IRC, it's 
     captured somehow? 

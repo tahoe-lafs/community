@@ -2,12 +2,14 @@
 
 [Project proposal here](https://github.com/tahoe-lafs/community/edit/main/project-notes/season-of-docs-2021/project-proposal.md)
 
-[Documentation repo]()
+[Documentation repo](https://github.com/tahoe-lafs/tahoe-lafs/tree/master/docs)
 
-[Freenode web app]()
+[Getting onto IRC](https://gist.github.com/May-Lee/7d71020360e478802ead69a5f9eb55ac)
 
-[Documentation on Read the Docs]()
+[Documentation on Read the Docs](https://tahoe-lafs.readthedocs.io/en/latest/index.html)
 
-[Main Website]()
+[Tahoe-LAFS Website](https://tahoe-lafs.org/trac/tahoe-lafs)
 
-[Other information]()
+Contact person: May-Lee Sia (she/her)
+
+tahoe dot lafs dot community at gmail dot com

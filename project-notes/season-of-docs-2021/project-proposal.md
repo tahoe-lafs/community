@@ -16,8 +16,9 @@ the course of its history. This creates a slightly disjointed, sometimes out-of-
 feel for much of our documentation.
 We need documentation that can reach users in 2021 who would benefit from Tahoe-LAFS'
 privacy-preserving capabilities.
-For this project, we are heavily focused on making sure the first three guides are as user-friendly and welcoming as possible,
-as we feel that the current user base would have no issues following our current documentation.
+For this project, we are heavily focused on making sure the first three guides are as user-friendly
+and welcoming as possible to new users.
+We feel that the current user base would have no issues following our existing documentation.
 The second set of guides does not currently exist and would be of interest to
 those seeking to make more of Tahoe-LAFS' capabilities, as well as to integrate it
 into their own projects.
@@ -58,6 +59,8 @@ requiring not just technical skill but also the Tahoe-LAFS knowledge gained in t
  - Guides will be tested for completeness and accuracy by Tahoe-LAFS
    community members
  - Rewrites/edits
+
+### Phase 2
 
 #### Milestone 3 (approx. 6-8 weeks)
 
@@ -126,4 +129,5 @@ We know our writers are skilled and capable, but sometimes issues or roadblocks 
 So we expect our writers to communicate with us in a timely manner.
 Long absences or unresponsiveness might result in termination of the relationship. 
 Additionally, writers are expected to follow our [Code of Conduct](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/CODE_OF_CONDUCT.md).
+
 [More information here](https://github.com/tahoe-lafs/community/blob/main/project-notes/season-of-docs-2021/for-contributors.md)

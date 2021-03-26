@@ -3,7 +3,7 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Friday, March 26 16:30 UTC +1
+Next meeting: Friday, March 26 15:30 UTC +1
 
 AGENDA
 _______________________________________________________________________
@@ -17,6 +17,9 @@ _______________________________________________________________________
     captured somehow? 
     I feel like this is the main way we hear anything from our users and how we
     steer some decisions/initiatives
+
+* GSoD and question about Tahoe "homework"
+    https://github.com/tahoe-lafs/community/edit/main/project-notes/season-of-docs-2021/project-proposal.md
 
 * Central Europe does their time change next week
 

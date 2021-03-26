@@ -60,6 +60,8 @@ requiring not just technical skill but also the Tahoe-LAFS knowledge gained in t
    community members
  - Rewrites/edits
 
+### Phase 2
+
 #### Milestone 3 (approx. 6-8 weeks)
 
  - Audit existing documentation with goals of second set of topics
@@ -127,4 +129,5 @@ We know our writers are skilled and capable, but sometimes issues or roadblocks 
 So we expect our writers to communicate with us in a timely manner.
 Long absences or unresponsiveness might result in termination of the relationship. 
 Additionally, writers are expected to follow our [Code of Conduct](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/CODE_OF_CONDUCT.md).
+
 [More information here](https://github.com/tahoe-lafs/community/blob/main/project-notes/season-of-docs-2021/for-contributors.md)

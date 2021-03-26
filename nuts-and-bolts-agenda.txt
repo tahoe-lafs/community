@@ -3,30 +3,15 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Friday, March 26 15:30 UTC +1
+Next meeting: Tuesday, March 30 time TBD
 
 AGENDA
 _______________________________________________________________________
-* Call for Items: Monthly report due on Wednesday so either today or Tuesday
-    Did I miss anything?
-    Further development on GBS protocol
-    Porting is really progressing, yay!
-    txi2p situation and more testing
-    Jitsi Hosting
-    Testing and Release Manager hiring and onboarding
-    Apply to Google Season of Docs
 
-* I get the impression if something significant is mentioned on the IRC, it's 
-    captured somehow? 
-    I feel like this is the main way we hear anything from our users and how we
-    steer some decisions/initiatives
+* When do we want to do our ticket triage party?
+    BYOB
 
-* GSoD and question about Tahoe "homework"
-    https://github.com/tahoe-lafs/community/edit/main/project-notes/season-of-docs-2021/project-proposal.md
 
-* Central Europe does their time change next week
-
-* Should we adopt a tool for formal (or at least structured) HTTP API (eg GBS) specification
 
 _______________________________________________________________________
 
@@ -34,6 +19,37 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 MARCH
+
+Friday, March 26
+_______________________________________________________________________
+
+* Monthly report items
+    Further development on GBS protocol
+    Port is likely at 80%(!)
+    txi2p situation and more testing
+    Jitsi Hosting
+    Testing and Release Manager hiring and onboarding
+    Apply to Google Season of Docs
+
+* Important stuff is usually captured in the form of tickets
+    Future plans to consolidate knowledge into Discourse
+    Suggestion to look at tickets and triage weekly (after reaching steady
+    state)
+
+* Google Season of Docs entered (fingers crossed!)
+    https://github.com/tahoe-lafs/community/edit/main/project-notes/season-of-docs-2021/project-proposal.md
+
+* Institutional memory in terms of other grants and events needs to be collected
+    This could be published on the website
+    Serve as a reference for other things we can apply for or participate in
+
+* Asynchronously decide on new meeting times, with an emphasis on including
+    meejah (core/dev)
+
+* Should we adopt a tool for formal (or at least structured) HTTP API (eg GBS) specification
+    Not at this time; maybe later
+    Web API should be gotten rid of and documentation cleand up. That will be a 
+    giant project
 
 Tuesday, March 23
 _______________________________________________________________________

@@ -26,6 +26,8 @@ _______________________________________________________________________
 
 * Central Europe does their time change next week
 
+* Should we adopt a tool for formal (or at least structured) HTTP API (eg GBS) specification
+
 _______________________________________________________________________
 
 

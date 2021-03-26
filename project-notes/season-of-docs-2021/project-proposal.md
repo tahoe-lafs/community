@@ -3,7 +3,7 @@
 
 ### About Tahoe-LAFS
 
-_In this section, tell us about your organization or project in a few short paragraphs. What problem does your project solve? Who are your users and contributors? How long has your organization or project been in existence? Give some context to help us understand why funding your proposal would create a positive impact in open source and the world._
+Privacy by design.
 
 #### We have been around since 2007.
 Tahoe-LAFS has been in existence since 2007 by a group of contributors who were extremely technically savvy. The world has changed since then, and the average new user would have more access to technology and familiarity, but at the same time might be lacking in the ability to implement Tahoe-LAFS.
@@ -36,7 +36,6 @@ Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the pr
  - Audit existing documentation with goals of second set of topics
  - Write second set of guides, on more sophisticated Tahoe-LAFS
    functions, including screenshots when appropriate
-
 	 - How to run a friend net
 	 - Running hybrid local cloud grid, with a backup in the cloud
 	 - Integrating Tahoe-LAFS as a storage layer in your app
@@ -46,6 +45,7 @@ Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the pr
  - Guides will be tested for completeness and accuracy by Tahoe-LAFS
    community members
  - Rewrites/edits
+
 #### Milestone 5 (approx. 1-2 weeks)
 			
  - Go through the documentation that was not used to produce the topic
@@ -60,16 +60,14 @@ Tahoe-LAFS can appear a bit arcane to the outsider, and we have organized the pr
 We'll measure success along the following criteria:
 
  - Feedback from reviewers at Milestone 2
-
-	
-
  - Feedback from reviewers at Milestone 4
  - Milestone 6 produces a Road Map for the next round of documentation
    projects
  - Views on our Discourse
 
 ##  Proposed Budget
-The bulk of our budget would go to our technical writer, with stipends to be given to volunteers from the community who provide exemplary support, particularly in Milestones 2 & 4.
+The bulk of our budget would go to our technical writer, with stipends to be given to volunteers from the community 
+who provide exemplary support, particularly in Milestones 2 & 4.
 
 Budget item | Amount | Running Total | Notes/justifications
 ------------|--------|---------------|---------------------
@@ -79,13 +77,14 @@ TOTAL |  | 10,000.00 |
 ## Skills needed
 
 Ability to communicate issues and questions as they arise, via IRC or Slack.
+
 The tech writer taking on this project should feel comfortable with reading and reviewing programming language documentation, and feel confident about what makes for great docs.
 
 Specific knowledge about and experience with auditing an existing body of documentation would be excellent, of course.
 
-**Prior expertise or even familiarity with Perl is  _not_  necessary.**  In fact, an outsider's viewpoint would prove advantageous to this project, better able to catch oddities too-easily overlooked by those who have marinated in this documentation for many years.
-
-But if you do happen to already know Perl, that's good too!
 #### Additional information
 
-Grounds for termination: The writer will be terminated if they have been found not to have produced functioning documentation at Milestone 2 (about 6-8 weeks into the project). We consider non-functioning documentation to be documentation that does not result in the deployment of a decentralized filesystem where users can consume and provide storage. Additionally, writers are expected to follow our [Code of Conduct](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/CODE_OF_CONDUCT.md) as well as communicate any issues they may be facing in a timely manner.
+We know our writers are skilled and capable, but sometimes issues or roadblocks might arise. 
+So we expect our writers to communicate with us in a timely manner.
+Long absences or unresponsiveness might result in termination of the relationship. 
+Additionally, writers are expected to follow our [Code of Conduct](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/CODE_OF_CONDUCT.md).

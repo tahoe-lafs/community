@@ -9,7 +9,8 @@ AGENDA
 _______________________________________________________________________
 
 * When do we want to do our ticket triage party?
-    BYOB
+  * BYOB
+  * Example ticket list (March 2021 tickets): https://tahoe-lafs.org/trac/tahoe-lafs/query?status=assigned&status=closed&status=new&status=reopened&time=2021-03-01..2021-03-31&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=component&desc=1&order=id
 
 * CM plans this week include include completing RFP draft, working on Road
 Map, do people have time for 1-on-1s; what would work? 

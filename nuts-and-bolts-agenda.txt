@@ -3,19 +3,14 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Tuesday, March 30 19:00 CEST
+Next meeting: Friday, April 2 16:30 CEST 
 
 AGENDA
 _______________________________________________________________________
 
-* When do we want to do our ticket triage party?
-  * BYOB
-  * Example ticket list (March 2021 tickets): https://tahoe-lafs.org/trac/tahoe-lafs/query?status=assigned&status=closed&status=new&status=reopened&time=2021-03-01..2021-03-31&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=component&desc=1&order=id
+* Updates
 
-* CM plans this week include include completing RFP draft, working on Road
-Map, do people have time for 1-on-1s; what would work? 
-
-
+* Tuesday: Let's talk tickets
 
 
 _______________________________________________________________________
@@ -24,6 +19,32 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 MARCH
+
+Tuesday, March 30
+_______________________________________________________________________
+
+* We had a super productive discussion that came out of the concept of "ticket
+triaging", introduced by Jean-Paul (core dev) at the last meeting 
+  * meejah (core dev) has volunteered for the first edition of Ticket Triage - yay!
+  * The ticket triage process will be captured and put into the Dev Guide 
+    One person is assigned per week to look at the tickets that were filed in the 
+    previous week and tries to place the tickets with owners and milestones.
+    They will also collect tickets that might warrant further discussion to 
+    present at the next meeting. Yay governance!
+    Example ticket list (March 2021 tickets): https://tahoe-lafs.org/trac/tahoe-lafs/query?status=assigned&status=closed&status=new&status=reopened&time=2021-03-01..2021-03-31&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=component&desc=1&order=id
+  * Reorganized milestones on the Trac Roadmap
+    https://tahoe-lafs.org/trac/tahoe-lafs/roadmap
+  * Also discussed:
+    The recreational nature of Tahoe-LAFS participation
+    Are there benefits to giving up freedom? 
+    Should there be some form of project leader?
+    Discussion about meeting agenda items having concrete outputs/state changes
+  
+* Monthly 1-on-1s with Community Manager
+    These will take place informally to provide check-ins/vents/suggestions
+
+
+
 
 Friday, March 26
 _______________________________________________________________________

@@ -3,35 +3,43 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Friday, April 2 16:30 CEST 
+Next meeting: Tuesday, April 6 2021 at 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
+ 
+* Let's talk tickets! 
 
-* Updates
-    * New Monthly Report: 
-    https://github.com/tahoe-lafs/community/blob/main/Monthly%20Reports/march-2021.md
-    * Web Developer hiring 
-        * 7 candidates
-        * 1, 2-hour (max.) take home assignment
-            * I suggest a design done in HTML/CSS that they post on their GH/other 
-            repo that is a clone of https://sajith.github.io/tahoe-website/
-            and aesthetically inspired by:    
-            https://www.gnu.org/software/guile/
-            https://www.gnu.org/software/emacs/
-            https://magit.vc/
-
-* Ongoing - status updates?
-  * Release 1.15
-  * Testing/release engineer ramp up
-  * Test grid
-  
-* Tuesday: Let's talk tickets
+* Update: Release 1.15
 
 _______________________________________________________________________
 
 
 Minutes of Past Meetings
+
+APRIL 
+
+Friday, April 2 
+_______________________________________________________________________
+
+* New Monthly Report: 
+    https://github.com/tahoe-lafs/community/blob/main/Monthly%20Reports/march-2021.md
+
+* Web Developer hiring 
+    We have designed a test, appended to 
+        https://github.com/tahoe-lafs/community/blob/main/project-notes/website.txt
+    A repo has been created to receive the candidate's contributions 
+        https://github.com/tahoe-lafs/web-design
+
+* Ajibola (Testing and Release Manager) update 
+
+* Test grid
+    Ajibola and community member could work together to do this
+    We have the servers 
+    We could plan this for the next 1 - 2 months 
+* Applying for funding - discussion ideas 
+    Should Tahoe start to provide funding, rather than apply for it?
+    Could another strategy be to match awarded funds?
 
 MARCH
 

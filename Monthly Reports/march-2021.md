@@ -39,7 +39,7 @@ In Development:
 + Security audit preparation begins (GBS protocol/Foolscap removal)
 
 Finance:
-+ Renumeration strategies were determined for project/one-off work vs. ongoing roles
++ Remuneration strategies were determined for project/one-off work vs. ongoing roles
 
 Upcoming items in April:
 + Hiring and onboarding of Web Developer

@@ -40,3 +40,26 @@ the project
 
 There may be another task where they design a user interface for file
 upload/download
+
+Take-home test:
+
+1)   Fork https://github.com/tahoe-lafs/web-design and create a branch, adding 
+their project as a folder with CSS and HTML files. They should build their project 
+in a stepwise manner (DO NOT ADD COMPLETED FILES) and open a PR when they're ready.     
+What we're looking for here: How does the person build code, based on their commit
+history? How well do they collaborate on GitHub?
+2)  Create a static webpage that uses https://sajith.github.io/tahoe-website/ 
+as an example of the links and information we would like the example website to contain.     
+They can use any layout, and we happen to like the aesthetics at these sites:
+            https://www.gnu.org/software/guile/
+            https://www.gnu.org/software/emacs/
+            https://magit.vc/    
+What we're looking for here: Is the organization of information clear on the 
+website? Do they have sufficient design ability?
+3)  Make sure the website is accessible, maintainable and mobile-friendly.    
+What we're looking for here: A website that takes into consideration accessibility 
+issues, such as text contrast. The code should be clear to understand, navigate 
+and modify for an engineer with no web design experience. The CSS should contain 
+some suite of media queries.
+NOTE: This test is NOT meant to be a redesign of our website. We understand the 
+limitations of what can be created in 2 hours.

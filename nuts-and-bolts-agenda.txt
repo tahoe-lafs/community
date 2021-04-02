@@ -21,9 +21,12 @@ _______________________________________________________________________
             https://www.gnu.org/software/emacs/
             https://magit.vc/
 
+* Ongoing - status updates?
+  * Release 1.15
+  * Testing/release engineer ramp up
+  * Test grid
+  
 * Tuesday: Let's talk tickets
-
-
 
 _______________________________________________________________________
 

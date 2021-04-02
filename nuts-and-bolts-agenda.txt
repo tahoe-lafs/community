@@ -9,8 +9,20 @@ AGENDA
 _______________________________________________________________________
 
 * Updates
+    * New Monthly Report: 
+    https://github.com/tahoe-lafs/community/blob/main/Monthly%20Reports/march-2021.md
+    * Web Developer hiring 
+        * 7 candidates
+        * 1, 2-hour (max.) take home assignment
+            * I suggest a design done in HTML/CSS that they post on their GH/other 
+            repo that is a clone of https://sajith.github.io/tahoe-website/
+            and aesthetically inspired by:    
+            https://www.gnu.org/software/guile/
+            https://www.gnu.org/software/emacs/
+            https://magit.vc/
 
 * Tuesday: Let's talk tickets
+
 
 
 _______________________________________________________________________

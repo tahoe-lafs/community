@@ -32,7 +32,7 @@ thanks to Sajith's (core/dev) persistence
 + Webdesign discussions continued
 
 In Development:
-+ Testing and Release Manager hiring and onboarding
++ Testing and Release Manager hiring and onboarding - welcome Ajibola! (he/him)
 + Port is likely at 80%(!)
 + txi2p was forked and released in order to support Python 3 and our i2p community
 + Testing coverage for integration of i2p and Tor was improved

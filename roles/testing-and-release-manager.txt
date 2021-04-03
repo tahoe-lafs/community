@@ -79,3 +79,15 @@ Month Six
 Accountability report
 1 page update report using the BASICS rubric
 Continuation plan based on interest and performance of Testing and Release Manager
+
+02.04.2021 - Possible objectives over the next 5 months:
+
+Tentative plans for the next 5+ months:
+        1) Improve onboarding, using his own experience as a reflection point
+            Has already noticed missing or broken paths/libraries needing update  
+        2) Create or improve documentation for set-up, usage, installation
+        3) Test and releasing work 
+            Improve unit testing 
+            Improve integration tests; perhaps look into i2p/Tor 
+            Automation of processes in GitHub Actions/CI 
+            

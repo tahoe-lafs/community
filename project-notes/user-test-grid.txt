@@ -9,3 +9,10 @@ Classes of uses:    we get usage/behavior data
                     other people can use it reliably
 Need to determine reasonable amount of time it can be used - one week?
 6 - 12
+
+Test grid discussion revisit 
+    Ajibola and community member could collaborate on this
+    Suggested: make sure there is a roadmap before beginning 
+    It would be 1) setting up Tahoe and 2) Server infrastructure ops 
+    We have the servers 
+    We could plan this to take place within the next 1 - 2 months 

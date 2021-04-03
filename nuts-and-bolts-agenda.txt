@@ -10,7 +10,7 @@ _______________________________________________________________________
  
 * Let's talk tickets! 
 
-* Update: Release 1.15
+* Update: Release 1.15 w/ Release Manager (meejah)
 
 _______________________________________________________________________
 
@@ -32,13 +32,28 @@ _______________________________________________________________________
         https://github.com/tahoe-lafs/web-design
 
 * Ajibola (Testing and Release Manager) update 
+    * This week's objectives will be going through the Release Checklist with 
+    Sajith (core/dev). 
+        Continuing w/documentation, playing w/Tahoe grid and server 
+        
+    * Tentative plans for the next 5+ months:
+        1) Improve onboarding, using his own experience as a reflection point
+            Has already noticed missing or broken paths/libraries needing update  
+        2) Create or improve documentation for set-up, usage, installation
+        3) Test and releasing work 
+            Improve unit testing 
+            Improve integration tests; perhaps look into i2p/Tor 
+            Automation of processes in GitHub Actions/CI 
 
-* Test grid
-    Ajibola and community member could work together to do this
+* Test grid discussion revisit 
+    Ajibola and community member could collaborate on this
+    Suggested: make sure there is a roadmap before beginning 
+    It would be 1) setting up Tahoe and 2) Server infrastructure ops 
     We have the servers 
-    We could plan this for the next 1 - 2 months 
+    We could plan this to take place within the next 1 - 2 months 
+
 * Applying for funding - discussion ideas 
-    Should Tahoe start to provide funding, rather than apply for it?
+    Should Tahoe-LAFS start to provide funding, rather than apply for it?
     Could another strategy be to match awarded funds?
 
 MARCH

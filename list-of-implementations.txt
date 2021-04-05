@@ -5,3 +5,4 @@ https://bigasterisk.com/tahoe-playground/
 Haskell
 
 https://gitlab.com/exarkun/chk.hs/-/tree/master
+https://github.com/LeastAuthority/haskell-tahoe-lafs-storage-server

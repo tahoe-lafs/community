@@ -12,6 +12,17 @@ _______________________________________________________________________
 
 * Update: Release 1.15 w/ Release Manager (meejah)
 
+* Update: RFP
+    Protocol preparation - yay!
+    https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html
+    RFP Draft 
+    https://github.com/tahoe-lafs/community/blob/main/security/security-audits-2021/new-storage-node-audit-RFP.md
+
+* A reminder: last meeting we designed a take-home asessment for the new Web Dev 
+    That can be found here:
+    https://github.com/tahoe-lafs/web-design
+
+
 _______________________________________________________________________
 
 

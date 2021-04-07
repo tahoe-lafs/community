@@ -3,25 +3,12 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Tuesday, April 6 2021 at 19:00 UTC +2/CEST 
+Next meeting: Friday, April 9 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
- 
-* Let's talk tickets! 
 
-* Update: Release 1.15 w/ Release Manager (meejah)
-
-* Update: RFP
-    Protocol preparation - yay!
-    https://tahoe-lafs.readthedocs.io/en/latest/proposed/http-storage-node-protocol.html
-    RFP Draft 
-    https://github.com/tahoe-lafs/community/blob/main/security/security-audits-2021/new-storage-node-audit-RFP.md
-
-* A reminder: last meeting we designed a take-home asessment for the new Web Dev 
-    That can be found here:
-    https://github.com/tahoe-lafs/web-design
-
+* 
 
 _______________________________________________________________________
 
@@ -29,6 +16,29 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 APRIL 
+
+Tuesday, April 6
+_______________________________________________________________________
+
+* Web Dev take-home assesment/evaluation
+    Making people do unpaid work without at least offering feedback is bad
+        We will offer candidates the option to receive this feedback
+    To avoid a subjective decision, a points system with criteria was designed
+        Will be kept sekrit for now 
+
+* Update: Release 1.15 w/ Release Manager (meejah)
+    Was actually released; announced on mailing list
+
+* Which brings us to the mailing list . . . 
+    . . . 
+    . . .
+        
+* Communicating with Ajibola (Testing and Release Manager)
+    We want to hear more from him, possibly on a daily basis 
+    Should use IRC/Slack and have meejah (core dev) and Jean-Paul's (core dev)
+    emails
+    Ideally, the release process should be a deterministic build 
+
 
 Friday, April 2 
 _______________________________________________________________________

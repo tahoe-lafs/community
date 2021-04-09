@@ -13,6 +13,8 @@ _______________________________________________________________________
 
 * What do we do with the mailing lists?
 
+  - There are four: https://tahoe-lafs.org/cgi-bin/mailman/listinfo
+
   - Sajith has sent an email to info@osuosl.org, to see if they can
     advise us about fixing our mailing routing problems, or help with
     migrating to their infrastructure.

@@ -11,6 +11,19 @@ _______________________________________________________________________
 * Liz (Board) meeting
     Interesting discussion: Tahoe's ecosystem
 
+* What do we do with the mailing lists?
+
+  - Sajith has sent an email to info@osuosl.org, to see if they can
+    advise us about fixing our mailing routing problems, or help with
+    migrating to their infrastructure.
+
+  - Probably interesting: tahoe-lafs-weekly-news was alive until 2017
+    March or so.  Should we revive it, or consider it of historical
+    interest only?
+  
+    https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TahoeLAFSWeeklyNews
+    https://tahoe-lafs.org/cgi-bin/mailman/listinfo/tahoe-lafs-weekly-news
+
 _______________________________________________________________________
 
 

@@ -3,28 +3,15 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting: Friday, April 9 16:30 UTC +2/CEST 
+Next meeting:  Tuesday, April 13 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 
-* Liz (Board) meeting
-    Interesting discussion: Tahoe's ecosystem
+* Submissions for Web Dev role have come in
+    Not complete; BASICS will follow up 
 
-* What do we do with the mailing lists?
 
-  - There are four: https://tahoe-lafs.org/cgi-bin/mailman/listinfo
-
-  - Sajith has sent an email to info@osuosl.org, to see if they can
-    advise us about fixing our mailing routing problems, or help with
-    migrating to their infrastructure.
-
-  - Probably interesting: tahoe-lafs-weekly-news was alive until 2017
-    March or so.  Should we revive it, or consider it of historical
-    interest only?
-  
-    https://tahoe-lafs.org/trac/tahoe-lafs/wiki/TahoeLAFSWeeklyNews
-    https://tahoe-lafs.org/cgi-bin/mailman/listinfo/tahoe-lafs-weekly-news
 
 _______________________________________________________________________
 
@@ -32,6 +19,27 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 APRIL 
+
+Friday, April 9
+_______________________________________________________________________
+
+* Discussion on Tahoe-LAFS' broader strategy
+    Possible future plans
+    Current design issues 
+    Other projects and how they relate
+    project-notes/broader-strategy.txt 
+
+* What do we do with the mailing lists?
+    Sajith has sent an email to info@osuosl.org, to see if they can
+    advise us about fixing our mailing routing problems, or help with
+    migrating to their infrastructure.
+    We are also going to end-of-life the mailing list 
+
+* Sub-topic - podcasts!
+    Car Talk 
+    Sajith pinged Dustyweb to do a "Tahoe Then and Now Podcast"
+    Next step unclear
+
 
 Tuesday, April 6
 _______________________________________________________________________

@@ -6,3 +6,5 @@ What from the mailing list can be persisted onto the Discourse?
 Mailgun
 Fastmail
 Mailman
+
+What is the form of the mailing list data and how do I get it onto Discourse

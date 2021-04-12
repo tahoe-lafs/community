@@ -13,7 +13,6 @@ Support improvements in the test suite, particularly to increase speed of testin
 Conduct code reviews and other testing techniques as determined by the open source team
 Perform other tasks as required by the open source tool team
  
-
 Improve Onboarding of New Contributors
 
 Develop onboarding process and quick-start guide for new contributors
@@ -22,7 +21,6 @@ Review, organize, and curate old issues to make them accessible
 for external contributors to resolve
 Help triage Issues with emphasis on community contributions
  
-
 Documentation Improvements
 
 Conduct an audit of existing documentation available for contributors on wiki
@@ -30,7 +28,6 @@ and website
 Write new and improve existing documentation
 Document team roles and responsibilities and decision-making process publicly
  
-
 During your kickoff meeting, we ask that you cover the following topics:
 
 Overview of Tahoe-LAFS, ensuring that T & R has everything they need to learn the tool
@@ -82,7 +79,6 @@ Continuation plan based on interest and performance of Testing and Release Manag
 
 02.04.2021 - Possible objectives over the next 5 months:
 
-Tentative plans for the next 5+ months:
         1) Improve onboarding, using his own experience as a reflection point
             Has already noticed missing or broken paths/libraries needing update  
         2) Create or improve documentation for set-up, usage, installation
@@ -91,3 +87,11 @@ Tentative plans for the next 5+ months:
             Improve integration tests; perhaps look into i2p/Tor 
             Automation of processes in GitHub Actions/CI 
             
+Other things to keep in mind:
+
+    Shoot for a deterministic build (go through it and spit out some artifact)
+    Everything except the Git tag; not the signing
+    Sign Git
+    Sign artifacts
+    upload to PiPy 
+    upload to Tahoe-LAFS

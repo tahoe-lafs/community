@@ -1,0 +1,70 @@
+Tahoe-LAFS has a 15 + year history
+Multiple waves of core members 
+Predates cryptocurrency
+But has strong privacy-preserving/FOSS DNA 
+"The times have changed"
+
+For the past year, it's been occupied with a Python 3 port. This porting effort 
+may have distracted focus from a broader strategy, particularly after the port.
+
+We know that after the port is complete, Tahoe-LAFS should be be security audited.
+
+It's definitely good to handle things like maturing the CI pipeline and keeping it 
+working, but is that all?
+
+Not having a clear plan or broader strategy creates design tensions.
+
+CLI would help our 1% of users who use Linux
+iOS is kind of a walled garden
+Android is a dystopia
+
+There's some efforts scattered around and some big question marks.
+For example, why is there a web interface at all? It's in HTML but it should be 
+HTTP. But they're both bad. The web interface needs to be recreated and the HTTP 
+needs to be new also.
+
+Research from Private Storage suggests mobile development
+1) Aforementioned issues with iOS/Android ecosystems
+2) Some efforts include a Kotlin implementation (Least Authority)
+3) Also possible are Rust compiled to WASM
+4) JavaScript would be a good start 
+5) Haskell mobile (less well-formed, but high developer interest)
+
+"Who is Tahoe for?"
+Right now, it seems that it's for whoever asks.
+But we should ask about our foci, perhaps:
+Devs 
+Web Developers
+Tech Savvy 
+
+As a FOSS, wouldn't it be great to have it for the largest possible audience 
+worldwide, especially in regions that are emerging technologically?
+Quincy Larson (Freecodecamp) mentions their project is growing the fastest in 
+China, India, Nigeria 
+
+Who would we consider to be in our ecosystem?
+What unites us with other projects?
+IPFS/Filecoin
+STORJ
+
+There are also a number of other projects we are or could integrate with
+
+Keywords
+Capability-based
+Security/Privacy
+Uses erasure coding?
+Straight-up encryption?
+Responsible/Secure
+
+What can we suggest/recommend? Not as alternatives, but that will “play well”? 
+(Here ZCash fits, and was used in the Least Authority P4/Private Storage product)
+
+Curious about Restic
+How do they run things, what's their approach/vibe?
+https://github.com/restic/restic
+Duplicati mentioned as a backup
+https://tahoe-lafs.org/trac/tahoe-lafs/ticket/2919
+
+Conclusions:
+Any of these implementations would require an existing contributor with interest
+Or finding a new contributor who had specific expertise 

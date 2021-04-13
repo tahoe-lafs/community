@@ -27,7 +27,7 @@ _______________________________________________________________________
     Possible future plans
     Current design issues 
     Other projects and how they relate
-    project-notes/broader-strategy.txt 
+    https://github.com/tahoe-lafs/community/blob/main/project-notes/broader-strategy.txt
 
 * What do we do with the mailing lists?
     Sajith has sent an email to info@osuosl.org, to see if they can

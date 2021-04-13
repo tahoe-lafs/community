@@ -3,13 +3,12 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting:  Tuesday, April 13 19:00 UTC +2/CEST 
+Next meeting:  Friday, April 16 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 
-* Submissions for Web Dev role have come in
-    Not complete; BASICS will follow up 
+* Updates    
 
 
 
@@ -19,6 +18,22 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 APRIL 
+
+Tuesday, April 13
+_______________________________________________________________________
+
+* Mailing list 
+    Sajith (core dev) has reached out to OSU OSL and we will pay them a donation 
+    of $10/mo if they can help us 
+    We'll try to announce end-of-life for tahoe-announce and tahoe-weekly-news 
+
+* Hard deadline for Web Dev role submission is 18:00 UTC Friday
+    PRs will be merged and then everyone can look at the submissions
+    Evaluation spreadsheet on CryptPad
+   
+* Tahoe-LAFS will be moving sensitive, internal documents from Google Drive to 
+    Cryptpad.fr 
+   
 
 Friday, April 9
 _______________________________________________________________________

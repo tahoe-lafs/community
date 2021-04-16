@@ -3,27 +3,37 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting:  Friday, April 16 16:30 UTC +2/CEST 
+Next meeting:  Tuesday, April 20, 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 
-* Web Dev hiring
-    BASICS wants to schedule interviews
-    I've merged the submissions
-        https://github.com/tahoe-lafs/web-design
-    How much time do people need to evaluate the candidates? 
+* Update: Unsuccessful Season of Docs application :(
+    How's the port going?
 
-* Ticket triage Tuesday? 
+* Discussion if needed on Web Devs 
 
-
-
+* Ticket triage discussion (if there are tickets to discuss)
 _______________________________________________________________________
 
 
 Minutes of Past Meetings
 
 APRIL 
+
+Friday, April 16
+_______________________________________________________________________
+
+* Web Dev hiring
+    Review submissions and fill out evaluation on Cryptpad
+        https://github.com/tahoe-lafs/web-design
+    Should be done by Tuesday so we can discuss if needed
+
+* Ticket triage scheduled for Tuesday 
+
+* Ajibola (Testing and Release) begins designing automated release process 
+    Discussion of using a script and which parts are automatable
+        Isolation of manual parts: branching, PR, review, GPG signing 
 
 Tuesday, April 13
 _______________________________________________________________________

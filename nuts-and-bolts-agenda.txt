@@ -11,6 +11,7 @@ _______________________________________________________________________
 * Web Dev hiring
     BASICS wants to schedule interviews
     I've merged the submissions
+        https://github.com/tahoe-lafs/web-design
     How much time do people need to evaluate the candidates? 
 
 * Ticket triage Tuesday? 

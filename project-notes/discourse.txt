@@ -1,5 +1,6 @@
 TODO:
-Add graphics (simultaneously add to assets-images-etc folder)
+Add graphics (simultaneously add to assets-images-etc folder
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3677#comment:2
 Add admins (Meejah, Sajith, Exarkun)
 Add topics (descriptions must be written)
     * gigs, grants and internships 

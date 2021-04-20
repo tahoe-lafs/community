@@ -33,7 +33,30 @@ _______________________________________________________________________
 
 * Ajibola (Testing and Release) begins designing automated release process 
     Discussion of using a script and which parts are automatable
-        Isolation of manual parts: branching, PR, review, GPG signing 
+        Isolation of manual parts: branching, PR, review, GPG signing
+
+* Mailing list: we have some updates from OSU OSL, and we have one
+  action item regarding DNS.  Who will follow up with Warner?
+
+* Mailing list: anything to follow up, on Swamy Kevala's questions?
+
+  https://tahoe-lafs.org/pipermail/tahoe-dev/2021-April/010012.html
+
+* Discourse: are we ready to announce it on IRC (also in /topic),
+  mailing list, and other places (Twitter?  README?  Other mailing
+  lists or groups?)
+
+* Discourse: can we enable GitHub auth, and maybe GitLab auth?
+
+  Delegating auth to GitHub/GitLab might save us from at least some of
+  the potential spam problem.  https://llvm.discourse.group/ has
+  GitHub login, for example.
+
+  Seems that we need to do some work in order to enable GitHub
+  auth. Some instructions are here:
+
+  https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
+
 
 Tuesday, April 13
 _______________________________________________________________________

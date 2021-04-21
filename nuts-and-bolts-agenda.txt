@@ -3,20 +3,12 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting:  Tuesday, April 20, 19:00 UTC +2/CEST 
+Next meeting:  Friday, April 23, 14:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 
-* Update: Unsuccessful Season of Docs application :(
-    How's the port going?
-
-* Discussion if needed on Web Devs 
-
-* Ticket triage discussion (if there are tickets to discuss)
-
-* Mailing list: we have some updates from OSU OSL, and we have one
-  action item regarding DNS.  Who will follow up with Warner?
+Items from Tuesday, that might be addressed Friday:
 
 * Mailing list: anything to follow up, on Swamy Kevala's questions?
 
@@ -43,6 +35,27 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 APRIL 
+
+Tuesday, April 20
+_______________________________________________________________________
+
+* Season of Docs unsuccessful
+    We are better prepared to apply another time or do our own project
+    Sajith (core dev) has also been making moves here:
+    https://github.com/tahoe-lafs/tahoe-lafs/pull/1030
+
+* Web Dev evaluation:
+    Jean-Paul (core dev) and May-Lee (community manager) to interview 3 candidates
+    Bigger questions: How do we evaluate future candidates?
+        Questions and criteria should be decided beforehand
+        Most at the meeting did not agree with using take-home evaluation
+        Voting could have gone more smoothly; better tool/clearer workflow
+        No mechanism to break ties; fallback "squishy feelings"
+
+* Ticket triage goes to Sajith for April 
+
+* OSU OSL needs some settings but also we are back to figuring out what to do 
+    about the domain tahoe-lafs.org
 
 Friday, April 16
 _______________________________________________________________________

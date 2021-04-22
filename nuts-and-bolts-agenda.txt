@@ -8,6 +8,9 @@ Next meeting:  Friday, April 23, 14:30 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 
+* We must finalize a list of questions for next week's Web Dev interviews
+  Additionally, what would we want the person to accomplish (20hrs wk/3 mos)
+
 Items from Tuesday, that might be addressed Friday:
 
 * Mailing list: anything to follow up, on Swamy Kevala's questions?

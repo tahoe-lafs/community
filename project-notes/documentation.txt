@@ -1,3 +1,12 @@
+22.04.2021
+A more realistic onboarding process lasts 3 - 6 months
+
+Here's some places we can look:
+
+https://www.linode.com/docs/guides/tahoe-lafs-on-debian-9/
+
+https://www.digitalocean.com/community/tutorials/tahoe-lafs
+
 05.03.2021
 Documentation improvements suggestions
     Less, and better written

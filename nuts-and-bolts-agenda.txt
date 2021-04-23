@@ -51,11 +51,11 @@ _______________________________________________________________________
     Stretch goal: Improve web front end 
 
 * https://tahoe-lafs.org/pipermail/tahoe-dev/2021-April/010012.html
-    Jean-Paul (core dev0) to be in contact with technical limitations 
+    Jean-Paul (core dev) to be in contact with technical limitations 
     Tahoe-LAFS can't do what they want it to do
     However, some good discussion points raised:
         Share limit, share search, share placement, mobile phone failure profile, 
-        data availability, scalability, security of friendnets, nat traversal
+        data availability, scalability, security of friendnets, NAT traversal
 
 * We have two meetings a week and Tuesday's has all the Core team
     Tuesdays we'll prioritize governance decisions 

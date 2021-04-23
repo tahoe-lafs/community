@@ -10,6 +10,7 @@ _______________________________________________________________________
 
 * We must finalize a list of questions for next week's Web Dev interviews
   Additionally, what would we want the person to accomplish (20hrs wk/3 mos)
+  Questions in Cryptpad 
 
 Items from Tuesday, that might be addressed Friday:
 
@@ -32,6 +33,10 @@ Items from Tuesday, that might be addressed Friday:
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 
+* Idea: Generally, Tuesdays for governance and Fridays for bikeshed/inspo
+    Easier to reach quorum on Tuesday
+    Friday I would love to host a lightning talk and Q & A from the ecosystem 
+    
 _______________________________________________________________________
 
 

@@ -3,7 +3,7 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays and Fridays
 
-Next meeting:  Friday, April 23, 14:30 UTC +2/CEST 
+Next meeting:  Friday, April 23, 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
@@ -36,7 +36,7 @@ Items from Tuesday, that might be addressed Friday:
 * Idea: Generally, Tuesdays for governance and Fridays for bikeshed/inspo
     Easier to reach quorum on Tuesday
     Friday I would love to host a lightning talk and Q & A from the ecosystem 
-    
+
 _______________________________________________________________________
 
 

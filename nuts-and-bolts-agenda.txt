@@ -1,26 +1,22 @@
 Agenda and minutes of meetings
 
 URL TBD via IRC
-Tuesdays and Fridays
+Tuesdays we focus on Governance/decisions
+Fridays is bikeshed, inspo and presentations
 
 Next meeting:  Friday, April 23, 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 
-* We must finalize a list of questions for next week's Web Dev interviews
-  Additionally, what would we want the person to accomplish (20hrs wk/3 mos)
-  Questions in Cryptpad 
+GOVERNANCE
 
-Items from Tuesday, that might be addressed Friday:
+* Quorum or something similar (we're a small community let's be real)
 
-* Mailing list: anything to follow up, on Swamy Kevala's questions?
+* Should we forget about supporting Python 2.7 for Windows?
+    If so, what will be the process there?
 
-  https://tahoe-lafs.org/pipermail/tahoe-dev/2021-April/010012.html
-
-* Discourse: are we ready to announce it on IRC (also in /topic),
-  mailing list, and other places (Twitter?  README?  Other mailing
-  lists or groups?)
+OTHER 
 
 * Discourse: can we enable GitHub auth, and maybe GitLab auth?
 
@@ -33,9 +29,6 @@ Items from Tuesday, that might be addressed Friday:
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 
-* Idea: Generally, Tuesdays for governance and Fridays for bikeshed/inspo
-    Easier to reach quorum on Tuesday
-    Friday I would love to host a lightning talk and Q & A from the ecosystem 
 
 _______________________________________________________________________
 
@@ -43,6 +36,31 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 APRIL 
+
+Friday, April 23
+_______________________________________________________________________
+
+* Ajibola update (Testing and Release Manager)
+    He is encouraged to jot down the narrative of his experience weekly
+    Looking for ways to automate the release process, but can't be fully automated 
+    Commended for his resilience tbh
+
+* Decision on Web Developer's priorities over 3 months:
+    A new static web presence with relevant links (news, etc.)
+    Some asset management strategy for existing assets (not new assets)
+    Stretch goal: Improve web front end 
+
+* https://tahoe-lafs.org/pipermail/tahoe-dev/2021-April/010012.html
+    Jean-Paul (core dev0) to be in contact with technical limitations 
+    Tahoe-LAFS can't do what they want it to do
+    However, some good discussion points raised:
+        Share limit, share search, share placement, mobile phone failure profile, 
+        data availability, scalability, security of friendnets, nat traversal
+
+* We have two meetings a week and Tuesday's has all the Core team
+    Tuesdays we'll prioritize governance decisions 
+    Friday we'll play more loosey goosey and do some bikeshedding and presentations
+
 
 Tuesday, April 20
 _______________________________________________________________________

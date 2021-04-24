@@ -4,7 +4,7 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays is bikeshed, inspo and presentations
 
-Next meeting:  Friday, April 23, 16:30 UTC +2/CEST 
+Next meeting:  Tuesday, April 27 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________

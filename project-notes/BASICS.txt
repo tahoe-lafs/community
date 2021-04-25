@@ -36,5 +36,6 @@ identified and pursued."
 to the project is able to independently generate the complete set of artifacts
 required for a release."
 
-"The copyright ownership of everything that the project produces is clearly
-defined and documented."
+"Committers are bound by an Individual Contributor Agreement that defines which 
+code they are allowed to commit and how they need to identify code that is not 
+their own."

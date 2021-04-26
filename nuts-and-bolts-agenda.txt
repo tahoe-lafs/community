@@ -16,6 +16,9 @@ GOVERNANCE
 * Should we forget about supporting Python 2.7 for Windows?
     If so, what will be the process there?
 
+* Dates: First Lightning Talk May 7 16:30 UTC +2/CEST
+         Scribe needed May 18
+         
 OTHER 
 
 * Discourse: can we enable GitHub auth, and maybe GitLab auth?

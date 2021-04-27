@@ -32,6 +32,26 @@ OTHER
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 
+TICKETS
+
+* Windows install of VC compiler for Python 2.7 is failing in CI
+  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3681
+  PR (open): https://github.com/tahoe-lafs/tahoe-lafs/pull/1047
+
+* Test release
+  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3680
+  This is for Ajibola's practice
+
+* Port allmydata.test.cli.test_cp to Python 3
+  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3680
+  PR (open): https://github.com/tahoe-lafs/tahoe-lafs/pull/1046
+
+* Port allmydata.test.cli.test_check to Python 3
+  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3678
+  PR (open): https://github.com/tahoe-lafs/tahoe-lafs/pull/1045
+
+* Blast from the past: discuss and select from logo designs (2010)
+  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1185
 
 _______________________________________________________________________
 

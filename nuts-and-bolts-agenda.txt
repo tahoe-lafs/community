@@ -4,21 +4,14 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays is bikeshed, inspo and presentations
 
-Next meeting:  Tuesday, April 27 19:00 UTC +2/CEST 
+Next meeting:  Friday, April 30 16:30  UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 
-GOVERNANCE
+BIKESHED/INSPO
 
-* Quorum or something similar (we're a small community let's be real)
 
-* Should we forget about supporting Python 2.7 for Windows?
-    If so, what will be the process there?
-
-* Dates: First Lightning Talk May 7 16:30 UTC +2/CEST
-         Scribe needed May 18
-         
 OTHER 
 
 * Discourse: can we enable GitHub auth, and maybe GitLab auth?
@@ -32,33 +25,53 @@ OTHER
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 
-TICKETS
-
-* Windows install of VC compiler for Python 2.7 is failing in CI
-  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3681
-  PR (open): https://github.com/tahoe-lafs/tahoe-lafs/pull/1047
-
-* Test release
-  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3680
-  This is for Ajibola's practice
-
-* Port allmydata.test.cli.test_cp to Python 3
-  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3680
-  PR (open): https://github.com/tahoe-lafs/tahoe-lafs/pull/1046
-
-* Port allmydata.test.cli.test_check to Python 3
-  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3678
-  PR (open): https://github.com/tahoe-lafs/tahoe-lafs/pull/1045
-
-* Blast from the past: discuss and select from logo designs (2010)
-  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1185
-
 _______________________________________________________________________
 
 
 Minutes of Past Meetings
 
 APRIL 
+
+Tuesday, April 27
+_______________________________________________________________________
+GOVERNANCE
+
+* Discussion on reaching consensus within the project
+    Decided against quorum right now because there are only 3 - 4 people to check in on
+    Small community allows for quicker moves
+    Rough consensus is basically working so we just need to keep improving 
+    documentation and directing attention
+    Project Leader Role could help with consensus
+    Have some formalized agreements for more contentious areas
+
+* Side discussion:
+    How do contributors enter and advance in the project?
+    At what point do you become a Core Developer?
+        Core Devs have the power to commit to the repo
+        A checklist: EX: "knows that they need help and knows who to ask"
+    Meejah (Core Dev) suggestion: form of snippets library or summary (a Gist?)
+    Other onboarding issues - May-Lee (Community Manager) has some working docs 
+    in the Cryptpad
+
+* Should we forget about supporting Python 2.7 for Windows?
+    We will use 32 bit windows to keep the CI running until the Python 3 port is complete
+    https://github.com/tahoe-lafs/tahoe-lafs/pull/1047
+    Side discussion: Separation of Client and Server (need to be separated)
+
+TICKETS
+
+* Blast from the past: discuss and select from logo designs (2010)
+  Ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1185
+
+OTHER
+
+* First Lightning Talk May 7 16:30 UTC +2/CEST
+  Scribe needed May 18
+
+* Update: mailing list  
+    Sajith (CORE DEV) is in close communication with Warner/Liz (Board) and OSU
+    OSL to continue working on a good outcome for the mailing list.
+    
 
 Friday, April 23
 _______________________________________________________________________

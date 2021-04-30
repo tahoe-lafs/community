@@ -10,7 +10,9 @@ AGENDA
 _______________________________________________________________________
 
 BIKESHED/INSPO
-
+* SnakeDev meeting
+* Stuff - Documentation
+* Request for lint 
 
 OTHER 
 
@@ -24,6 +26,12 @@ OTHER
   auth. Some instructions are here:
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
+
+TUESDAY 
+
+* Web Deve Interviews are finished; we will finalize on Tuesday
+    https://cryptpad.fr/pad/#/3/pad/edit/6b9f42b79772c44ff2871e4e51c510fe/
+
 
 _______________________________________________________________________
 

@@ -4,17 +4,25 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays is bikeshed, inspo and presentations
 
-Next meeting:  Friday, April 30 16:30  UTC +2/CEST 
+Next meeting:  Tuesday, May 04 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
+GOVERNANCE
+* Web Deve Interviews are finished. We will discuss and vote.
+    https://cryptpad.fr/pad/#/3/pad/edit/6b9f42b79772c44ff2871e4e51c510fe/
 
-BIKESHED/INSPO
-* SnakeDev meeting
-* Stuff - Documentation
-* Request for lint 
+* I forgot when the next Ticket Triage is, but look: Milestones!
+    https://tahoe-lafs.org/trac/tahoe-lafs/roadmap
+    Also I did this on my own, so we can change things for sure!
+
+* Documentation: Do we have a shared vision?
+
+* Porting update w/Snake Devs from April 30
 
 OTHER 
+* Lightning Talk May 7 16:30 UTC +2/CEST
+    Hernán Romero of https://pantherscore.com/
 
 * Discourse: can we enable GitHub auth, and maybe GitLab auth?
 
@@ -27,11 +35,6 @@ OTHER
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 
-TUESDAY 
-
-* Web Deve Interviews are finished; we will finalize on Tuesday
-    https://cryptpad.fr/pad/#/3/pad/edit/6b9f42b79772c44ff2871e4e51c510fe/
-
 
 _______________________________________________________________________
 
@@ -39,6 +42,20 @@ _______________________________________________________________________
 Minutes of Past Meetings
 
 APRIL 
+
+Friday, April 30
+_______________________________________________________________________
+BIKESHED
+* SnakeDev meeting  
+    Liz (Board), May-Lee (community manager), Jean-Paul (core dev) and Itamar 
+    (contributor) met with Pete Fein from SnakeDevs to chat about Python 3 porting
+    progress and next steps.
+
+* Documentation 
+    There's no right way to do it
+    BUT we need a shared vision that is written down somewhere and will act as a 
+    metric of progress
+
 
 Tuesday, April 27
 _______________________________________________________________________

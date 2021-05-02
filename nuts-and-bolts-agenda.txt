@@ -9,7 +9,7 @@ Next meeting:  Tuesday, May 04 19:00 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 GOVERNANCE
-* Web Deve Interviews are finished. We will discuss and vote.
+* Web Dev Interviews are finished. We will discuss and vote.
     https://cryptpad.fr/pad/#/3/pad/edit/6b9f42b79772c44ff2871e4e51c510fe/
 
 * I forgot when the next Ticket Triage is, but look: Milestones!

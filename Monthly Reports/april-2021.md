@@ -35,7 +35,7 @@ Communications:
 + We will try to stay off Google and other such products
 + Application rejected from Google Season of Docs
 + Sajith (core dev) and meejah (core dev) suggest documentation improvements,
-including reorganizing the man page and creating a CONTRIBUTORS.md file
+including reorganizing the manual's main page and creating a CONTRIBUTORS.md file
 + Sajith continues to solve our mailing list issues
 
 Development:

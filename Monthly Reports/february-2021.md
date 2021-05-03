@@ -53,4 +53,3 @@ Ongoing Q2:
 + Updating User documentation
 + Updating Developer documentation
 + Python 3 porting continues
-

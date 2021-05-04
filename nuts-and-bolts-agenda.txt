@@ -17,8 +17,10 @@ GOVERNANCE
     Also I did this on my own, so we can change things for sure!
 
 * Documentation: Do we have a shared vision?
+    https://github.com/tahoe-lafs/tahoe-lafs/pull/1030
 
 * Porting update w/Snake Devs from April 30
+    https://cryptpad.fr/pad/#/3/pad/edit/d8ef321adac26e89092171ce9c4bb5a1/
 
 OTHER 
 * Lightning Talk May 7 16:30 UTC +2/CEST

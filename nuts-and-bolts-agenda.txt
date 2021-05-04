@@ -38,6 +38,60 @@ OTHER
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 
 * Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
+
+LAST WEEK'S TICKETS
+
+  * #3690 Document new API
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3690
+    
+  * #3682 Add CONTRIBUTORS.md file to Docs
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3682
+    [PR in progress] https://github.com/tahoe-lafs/tahoe-lafs/pull/1049
+    
+  * #3688 Complete RfP for GBS security audit
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3688
+    
+  * #3689 Complete GBS Security Audit
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3689
+
+Interesting tickets from Python 3 porting work
+
+  * #3685 Integration test for upgrading from Python 2 to Python 3
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3685
+  
+  * #3684 Integration test for Python 2/3 and 3/2 client/server interop
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3684
+  
+  * #3686 Restore I2P support in Tahoe-LAFS on Python 3
+    "Sub-tasks will probably require adding it back to Foolscap and releasing Foolscap."
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3686
+
+"Nitty-gritty" tickets from Python 3 porting work
+
+  * #3683 Builders for Python 3.7, 3.8, 3.9, pypy3 (across different OS versions)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3683
+    
+  * #3687 Port more of allmydata.test.cli to Python 3
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3687
+    [Merged PR] https://github.com/tahoe-lafs/tahoe-lafs/pull/1050
+  
+  * #3691 Port more of allmydata.test.cli to Python 3
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3683
+    [Approved PR] https://github.com/tahoe-lafs/tahoe-lafs/pull/1051
+  
+  * #3692 Finish porting allmydata.test.cli to Python 3
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3692
+  
+"Blast from the past" tickets
+
+  * #107 command-line: progress indicators
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/107
+    (Sounds like a useful thing to have. It never happened for some reason.)
+  
+  * #169 tcp hole-punching! 
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/169
+    (There's some new discussion, and some new interest)
+
 _______________________________________________________________________
 
 

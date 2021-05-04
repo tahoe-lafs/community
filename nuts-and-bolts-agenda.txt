@@ -39,6 +39,9 @@ OTHER
 
 * Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
 
+* Maling list: waiting on Brian Warner
+
+
 LAST WEEK'S TICKETS
 
   * #3690 Document new API

@@ -2,29 +2,31 @@ Agenda and minutes of meetings
 
 URL TBD via IRC
 Tuesdays we focus on Governance/decisions
-Fridays is bikeshed, inspo and presentations
+Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, May 04 19:00 UTC +2/CEST 
+Next meeting:  Friday, May 7 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
-GOVERNANCE
-* Web Dev Interviews are finished. We will discuss and vote.
-    https://cryptpad.fr/pad/#/3/pad/edit/6b9f42b79772c44ff2871e4e51c510fe/
-
-* I forgot when the next Ticket Triage is, but look: Milestones!
-    https://tahoe-lafs.org/trac/tahoe-lafs/roadmap
-    Also I did this on my own, so we can change things for sure!
-
-* Documentation: Do we have a shared vision?
-    https://github.com/tahoe-lafs/tahoe-lafs/pull/1030
-
-* Porting update w/Snake Devs from April 30
-    https://cryptpad.fr/pad/#/3/pad/edit/d8ef321adac26e89092171ce9c4bb5a1/
-
-OTHER 
-* Lightning Talk May 7 16:30 UTC +2/CEST
+PRESENTATION
+* Lightning Talk May 7 at 17:00 UTC +2/CEST; please be in room by 16:58
     Hernán Romero of https://pantherscore.com/
+
+INSPO 
+* Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
+
+ANTI-ANTI-PATTERNING 
+* "Blast from the past" tickets
+  #107 command-line: progress indicators
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/107
+    (Sounds like a useful thing to have. It never happened for some reason.)
+  
+  #169 tcp hole-punching! 
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/169
+    (There's some new discussion, and some new interest)
+
+* And other tickets (should review Tuesday, May 11?)
+    https://cryptpad.fr/pad/#/3/pad/edit/cc552a5d391161f38895ad5b2f4ca001/
 
 * Discourse: can we enable GitHub auth, and maybe GitLab auth?
 
@@ -36,72 +38,39 @@ OTHER
   auth. Some instructions are here:
 
   https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
-
-* Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
-
-* Maling list: waiting on Brian Warner
-
-
-LAST WEEK'S TICKETS
-
-  * #3690 Document new API
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3690
-    
-  * #3682 Add CONTRIBUTORS.md file to Docs
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3682
-    [PR in progress] https://github.com/tahoe-lafs/tahoe-lafs/pull/1049
-    
-  * #3688 Complete RfP for GBS security audit
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3688
-    
-  * #3689 Complete GBS Security Audit
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3689
-
-Interesting tickets from Python 3 porting work
-
-  * #3685 Integration test for upgrading from Python 2 to Python 3
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3685
-  
-  * #3684 Integration test for Python 2/3 and 3/2 client/server interop
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3684
-  
-  * #3686 Restore I2P support in Tahoe-LAFS on Python 3
-    "Sub-tasks will probably require adding it back to Foolscap and releasing Foolscap."
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3686
-
-"Nitty-gritty" tickets from Python 3 porting work
-
-  * #3683 Builders for Python 3.7, 3.8, 3.9, pypy3 (across different OS versions)
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3683
-    
-  * #3687 Port more of allmydata.test.cli to Python 3
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3687
-    [Merged PR] https://github.com/tahoe-lafs/tahoe-lafs/pull/1050
-  
-  * #3691 Port more of allmydata.test.cli to Python 3
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3683
-    [Approved PR] https://github.com/tahoe-lafs/tahoe-lafs/pull/1051
-  
-  * #3692 Finish porting allmydata.test.cli to Python 3
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3692
-  
-"Blast from the past" tickets
-
-  * #107 command-line: progress indicators
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/107
-    (Sounds like a useful thing to have. It never happened for some reason.)
-  
-  * #169 tcp hole-punching! 
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/169
-    (There's some new discussion, and some new interest)
-
 _______________________________________________________________________
 
 
 Minutes of Past Meetings
 
-APRIL 
+MAY 
+Tuesday, May 4
+_______________________________________________________________________
+GOVERNANCE
+* New Web Dev chosen for the next three months via the Internews/BASICS program
 
+* Python 3 porting discussion
+    Ajibola (testing and release manager) to create Release Automation Plan
+    "Kitchen sink"-style Security Audit RfP to go out ASAP (to prevent blocking
+    implementation)
+    Create a list of distros and get into them 
+    Decide if we want to drop any platforms
+    https://app.circleci.com/pipelines/github/tahoe-lafs/tahoe-lafs/2376/workflows/a3f39a12-ae32-4e85-8695-b9264340628b
+    Discussion: How do we express errors more productively?
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3695
+
+* Reorganizing Trac Roadmap
+    https://tahoe-lafs.org/trac/tahoe-lafs/roadmap
+    For the time being, avoid due dates on milestones unless foreseeably clear
+    Lowercase anything "undecided" (list is sorted with ASCII)
+    For the future: Which items should take priority?
+
+* Gitlab migration
+    Sajith (core dev) ready to hand over findings and next steps
+
+* Update: mailing list: waiting on Brian Warner
+
+APRIL 
 Friday, April 30
 _______________________________________________________________________
 BIKESHED

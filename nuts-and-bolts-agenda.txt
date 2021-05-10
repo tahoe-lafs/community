@@ -4,18 +4,27 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Friday, May 7 16:30 UTC +2/CEST 
+Next meeting:  Tuesday, May 11 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
-PRESENTATION
-* Lightning Talk May 7 at 17:00 UTC +2/CEST; please be in room by 16:58
-    Hernán Romero of https://pantherscore.com/
+GOVERNANCE
+* May-Lee (community manager) working on Discourse/OAuth with Sajith (core dev)
 
-INSPO 
+* FossHost contacted about Jitsi issue
+
+* Next Lightning Talk May 21: Jason Snell/EEG Music demo/Talk: privacy and security issues
+of brain interface devices (collaborated with Liz/Least Authority)
+     https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
+    He has also suggested another presenter from Starts in Motion
+    Request for feedback - content requests/presentation tooling
+
+* Liz (Board) receptive to podcast idea
+
+INSPO - can we talk about this for like 10 minutes plz?
 * Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
 
-ANTI-ANTI-PATTERNING 
+TICKETS
 * "Blast from the past" tickets
   #107 command-line: progress indicators
     https://tahoe-lafs.org/trac/tahoe-lafs/ticket/107
@@ -25,25 +34,36 @@ ANTI-ANTI-PATTERNING
     https://tahoe-lafs.org/trac/tahoe-lafs/ticket/169
     (There's some new discussion, and some new interest)
 
-* And other tickets (should review Tuesday, May 11?)
+* And other tickets from last week.
     https://cryptpad.fr/pad/#/3/pad/edit/cc552a5d391161f38895ad5b2f4ca001/
-
-* Discourse: can we enable GitHub auth, and maybe GitLab auth?
-
-  Delegating auth to GitHub/GitLab might save us from at least some of
-  the potential spam problem.  https://llvm.discourse.group/ has
-  GitHub login, for example.
-
-  Seems that we need to do some work in order to enable GitHub
-  auth. Some instructions are here:
-
-  https://meta.discourse.org/t/configuring-github-login-for-discourse/13745
 _______________________________________________________________________
-
 
 Minutes of Past Meetings
 
 MAY 
+Friday, May 7
+_______________________________________________________________________
+PRESENTATION
+* Pantherscore.com w/Hernán Romero (currently Product Manager at Yoti)
+    Project now in Beta; started in October 2020
+    Uses NLP to weight specific privacy policy clauses and assigns and generates a score
+    Other strategies: examines SDKs, past breaches, Firefox's TL;DR
+    Goal: show the worst offenders, promote good products (Jitsi, Signal), make
+    security accessible, vs. technical, dry or "scary"; "making privacy convenient"
+    Other key takeaways:
+        80% of consumers worried about security; 20% take minimum action 
+        Still a lot of discrepancies between policies and intentions/practices 
+        Communities can fill in the gaps by providing conversation around issues
+        GDPR and issues of portability/deletion should be considered bare minimum
+
+DISCUSSION - stale PRs up for review
+* (thank you to meejah (core dev) and Jean-Paul (core dev) for engaging on this)
+    Make PRs smaller, easier to review, easier to move on from
+        Smaller could mean thinking about how the feature could be split up into 
+        smaller branches of minimally executable implementations
+    Scheduling - things get lost in the cracks; so circling back for sync appts 
+    General organizational issue with dispersed attention/unclear priorities 
+
 Tuesday, May 4
 _______________________________________________________________________
 GOVERNANCE

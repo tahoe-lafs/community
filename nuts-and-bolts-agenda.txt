@@ -13,6 +13,9 @@ GOVERNANCE
     Python 3 porting milestone: ALL UNIT TESTS PASS ON PYTHON 3
     (don't get too excited; we're still porting ;)
 
+* Release 1.15.1 does not seem complete internally
+  * master looks like pre-1.15
+
 * Next Lightning Talk May 21: Jason Snell/EEG Music demo/Talk: privacy and security issues
 of brain interface devices (collaborated with Liz/Least Authority)
      https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/

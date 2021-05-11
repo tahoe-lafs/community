@@ -9,9 +9,9 @@ Next meeting:  Tuesday, May 11 19:00 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 GOVERNANCE
-* May-Lee (community manager) working on Discourse/OAuth with Sajith (core dev)
-
-* FossHost contacted about Jitsi issue
+* SHOUT OUT TO ITAMAR 
+    Python 3 porting milestone: ALL UNIT TESTS PASS ON PYTHON 3
+    (don't get too excited; we're still porting ;)
 
 * Next Lightning Talk May 21: Jason Snell/EEG Music demo/Talk: privacy and security issues
 of brain interface devices (collaborated with Liz/Least Authority)
@@ -19,10 +19,10 @@ of brain interface devices (collaborated with Liz/Least Authority)
     He has also suggested another presenter from Starts in Motion
     Request for feedback - content requests/presentation tooling
 
-* Liz (Board) receptive to podcast idea
-
-INSPO - can we talk about this for like 10 minutes plz?
-* Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
+* Other updates:
+    Liz (Board) receptive to podcast idea
+    May-Lee (community manager) working on Discourse/OAuth with Sajith (core dev)
+    FossHost contacted about Jitsi issue
 
 TICKETS
 * "Blast from the past" tickets
@@ -36,6 +36,9 @@ TICKETS
 
 * And other tickets from last week.
     https://cryptpad.fr/pad/#/3/pad/edit/cc552a5d391161f38895ad5b2f4ca001/
+
+INSPO - can we talk about this for like 5 minutes plz?
+* Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
 _______________________________________________________________________
 
 Minutes of Past Meetings

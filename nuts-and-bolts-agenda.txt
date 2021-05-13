@@ -4,49 +4,50 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, May 11 19:00 UTC +2/CEST 
+Next meeting:  Friday, May 14 16:30 UTC +2/CEST 
 
 AGENDA
+_______________________________________________________________________
+REMINDER: Need a volunteer to run Tuesday, May 18's meeting
+
+INSPO AND ANTI-ANTI-PATTERNING 
+  NICE. A lot of good work got done this week, healthy PRs and good channel
+  convos :)
+  Also do we have a new/returning contributor?
+
+  Other things we can talk about: 
+  https://inqlab.net/projects/eris/
+  Conferences we want to participate with (PyCon, Fossdem, Haskell Love)
+  How badly do we want an IRL summit/do people want actual travel?
+  Types of presentations we'd like to see 
+  Also sad boring stuff, if it's important to the project
+_______________________________________________________________________
+
+Minutes of Past Meetings
+
+MAY 
+
+Tuesday, May 11
 _______________________________________________________________________
 GOVERNANCE
 * SHOUT OUT TO ITAMAR 
     Python 3 porting milestone: ALL UNIT TESTS PASS ON PYTHON 3
     (don't get too excited; we're still porting ;)
 
-* Release 1.15.1 does not seem complete internally
-  * master looks like pre-1.15
+* Release 1.15.1 completed internally; brought up to date
 
 * Next Lightning Talk May 21: Jason Snell/EEG Music demo/Talk: privacy and security issues
-of brain interface devices (collaborated with Liz/Least Authority)
-     https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
-    He has also suggested another presenter from Starts in Motion
-    Request for feedback - content requests/presentation tooling
+  of brain interface devices (collaborated with Michelle Leddon, Julia Scott-Stevenson as 
+  part of the Assembly of Privacy Doxographers and Liz/Least Authority)
+  https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
 
-* Other updates:
+* UPDATES:
     Liz (Board) receptive to podcast idea
     May-Lee (community manager) working on Discourse/OAuth with Sajith (core dev)
-    FossHost contacted about Jitsi issue
+    Jitsi issue being worked on
 
-TICKETS
-* "Blast from the past" tickets
-  #107 command-line: progress indicators
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/107
-    (Sounds like a useful thing to have. It never happened for some reason.)
-  
-  #169 tcp hole-punching! 
-    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/169
-    (There's some new discussion, and some new interest)
+* We came to a difficult conclusion
 
-* And other tickets from last week.
-    https://cryptpad.fr/pad/#/3/pad/edit/cc552a5d391161f38895ad5b2f4ca001/
-
-INSPO - can we talk about this for like 5 minutes plz?
-* Tahoe-LAFS adjacent effort - https://inqlab.net/projects/eris/
-_______________________________________________________________________
-
-Minutes of Past Meetings
-
-MAY 
 Friday, May 7
 _______________________________________________________________________
 PRESENTATION

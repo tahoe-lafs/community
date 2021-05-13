@@ -64,6 +64,8 @@ How do they run things, what's their approach/vibe?
 https://github.com/restic/restic
 Duplicati mentioned as a backup
 https://tahoe-lafs.org/trac/tahoe-lafs/ticket/2919
+Tahoe-adjacent project:
+https://inqlab.net/projects/eris/
 
 Conclusions:
 Any of these implementations would require an existing contributor with interest

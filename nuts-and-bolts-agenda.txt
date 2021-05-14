@@ -8,6 +8,10 @@ Next meeting:  Friday, May 14 16:30 UTC +2/CEST
 
 AGENDA
 _______________________________________________________________________
+SHOUT OUT TO ITAMAR (AGAIN):
+all integration tests now pass on python 3 too
+(at this point you should just assume all code has to be python 3 compatible)
+
 REMINDER: Need a volunteer to run Tuesday, May 18's meeting
   Since May-Lee (Community Manager) won't be there, this would be a good
   opportunity to do a governance discusion RE: stuff on the tech side

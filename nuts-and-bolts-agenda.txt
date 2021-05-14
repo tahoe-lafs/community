@@ -9,7 +9,18 @@ Next meeting:  Friday, May 14 16:30 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 REMINDER: Need a volunteer to run Tuesday, May 18's meeting
+  Since May-Lee (Community Manager) won't be there, this would be a good
+  opportunity to do a governance discusion RE: stuff on the tech side
+    Roadmap for the rest of 2021
+    Possibilities for 2022
+    Integrations: IPFS, Spideroak, etc.
 
+UPDATE: BASICS/Internews has ended the contract with the Testing and Release
+Manager upon our request
+  TODO: Have a retrospective on the experience, prepare for new round of hiring
+  What worked? What didn't? Where could we be more specific?
+  (can also be moved to Tuesday governance)
+  
 INSPO AND ANTI-ANTI-PATTERNING 
   NICE. A lot of good work got done this week, healthy PRs and good channel
   convos :)
@@ -20,7 +31,6 @@ INSPO AND ANTI-ANTI-PATTERNING
   Conferences we want to participate with (PyCon, Fossdem, Haskell Love)
   How badly do we want an IRL summit/do people want actual travel?
   Types of presentations we'd like to see 
-  Also sad boring stuff, if it's important to the project
 _______________________________________________________________________
 
 Minutes of Past Meetings
@@ -46,7 +56,7 @@ GOVERNANCE
     May-Lee (community manager) working on Discourse/OAuth with Sajith (core dev)
     Jitsi issue being worked on
 
-* We came to a difficult conclusion
+* DISCUSSION: Testing and Release Manager's performance since daily stand-ups started
 
 Friday, May 7
 _______________________________________________________________________

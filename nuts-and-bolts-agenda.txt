@@ -4,42 +4,76 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Friday, May 14 16:30 UTC +2/CEST 
+Next meeting:  Tuesday, May 18 19:00 UTC +2/CEST 
+
+Next Lightning Talk on May 21 17:00 UTC +2/CEST: Jason Snell (primaryassembly.com)
 
 AGENDA
 _______________________________________________________________________
-SHOUT OUT TO ITAMAR (AGAIN):
-all integration tests now pass on python 3 too
-(at this point you should just assume all code has to be python 3 compatible)
+THANK YOU, SAJITH (core dev), for running the meeting and scribing!
 
-REMINDER: Need a volunteer to run Tuesday, May 18's meeting
-  Since May-Lee (Community Manager) won't be there, this would be a good
-  opportunity to do a governance discusion RE: stuff on the tech side
-    Roadmap for the rest of 2021
-    Possibilities for 2022
-    Integrations: IPFS, Spideroak, etc.
+GOVERNANCE - suggested topics:
+    Roadmap/priorities for the rest of 2021
+    https://tahoe-lafs.org/trac/tahoe-lafs/roadmap (sorted by dates then ASCII)
+    Possibilities 2022 (ZKAPs, Chrome Extension, etc. etc.)
+    Integrations: IPFS, Spideroak, etc., https://rclone.org/
 
-UPDATE: BASICS/Internews has ended the contract with the Testing and Release
-Manager upon our request
-  TODO: Have a retrospective on the experience, prepare for new round of hiring
-  What worked? What didn't? Where could we be more specific?
-  (can also be moved to Tuesday governance)
-  
-INSPO AND ANTI-ANTI-PATTERNING 
-  NICE. A lot of good work got done this week, healthy PRs and good channel
-  convos :)
-  Also do we have a new/returning contributor?
+    Please review this document and approve/comment:
+    Web Dev Onboarding process
+    https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
 
-  Other things we can talk about: 
-  https://inqlab.net/projects/eris/
-  Conferences we want to participate with (PyCon, Fossdem, Haskell Love)
-  How badly do we want an IRL summit/do people want actual travel?
-  Types of presentations we'd like to see 
+    FYI:
+    Retrospective document - Testing and Release Manager
+    Good to think about as we enter our next round of hiring
+    https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
+
+LIGHTING TALK on Friday (Link TBD):
+  Jason Snell/EEG Music demo/Talk: privacy and security issues
+  of brain interface devices (collaborated with Michelle Leddon, Julia Scott-Stevenson as 
+  part of the Assembly of Privacy Doxographers and Liz/Least Authority)
+  https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
 _______________________________________________________________________
 
 Minutes of Past Meetings
 
 MAY 
+
+Friday, May 14
+_______________________________________________________________________
+SHOUT OUT TO ITAMAR (AGAIN):
+all integration tests now pass on python 3 too
+(at this point you should just assume all code has to be python 3 compatible)
+
+Sajith (core dev) has volunteered to run the meeting Tuesday
+
+Testing and Release Manager contract ended by BASICS/Internews
+  
+INSPO AND ANTI-ANTI-PATTERNING 
+  NICE. A lot of good work got done this week, healthy PRs and good channel
+  convos :)
+
+  LoneTech is a new contributor!
+
+  Rants and discussions:
+    Current newfangled fad of meddling kids trying to get Typing into Python
+    All of our complex testing needs (Windows, user testing, coverage complete?)
+    Implementing a Tahoe-LAFS browser extension and what that would entail
+
+  Conferences:
+    May-Lee (community manager) wants to start sending our folks to Conferences
+    M-L suggested Sajith represent us/present at FOSSdem 2022,
+    suggested Jean-Paul (core dev) represent us/present at Haskell Love 2021
+    Also believes we should find someone(s) for EuroPython/PyConDE 2021
+  
+  Tahoe-LAFS Summit 2021:
+   Suggested to add a day or so on either end of the LA Summit in Berlin
+   Would be an efficient use of resources for Core Team 
+   Would not replace a larger, more general Summit, either online or IRL
+    Discussion: gather.town, theonline.town as virtual summit tools
+
+  Professional development:
+    May-Lee wants to know if people want PD/what would they want?
+    No promises, but can present the idea to the Board 
 
 Tuesday, May 11
 _______________________________________________________________________

@@ -13,19 +13,23 @@ _______________________________________________________________________
 THANK YOU, SAJITH (core dev), for running the meeting and scribing!
 
 GOVERNANCE - suggested topics:
-    Roadmap/priorities for the rest of 2021
-    https://tahoe-lafs.org/trac/tahoe-lafs/roadmap (sorted by dates then ASCII)
-    Possibilities 2022 (ZKAPs, Chrome Extension, etc. etc.)
-    Integrations: IPFS, Spideroak, etc., https://rclone.org/
+  Roadmap/priorities for the rest of 2021
+  https://tahoe-lafs.org/trac/tahoe-lafs/roadmap (sorted by dates then ASCII)
+  Possibilities 2022 (ZKAPs, Chrome Extension, etc. etc.)
+  Integrations: IPFS, Libre Office, https://rclone.org/, etc. etc.
+  Maintaining netifaces, as described by Itamar in IRC
 
-    Please review this document and approve/comment:
-    Web Dev Onboarding process
-    https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
+  Please review this document and approve/comment:
+  Web Dev Onboarding process
+  https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
 
-    FYI:
-    Retrospective document - Testing and Release Manager
-    Good to think about as we enter our next round of hiring
-    https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
+  Any "ticket noise" so far?
+  https://tahoe-lafs.org/trac/tahoe-lafs/timeline
+
+  FYI:
+  Retrospective document - Testing and Release Manager
+  Good to think about as we enter our next round of hiring
+  https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
 
 LIGHTING TALK on Friday (Link TBD):
   Jason Snell/EEG Music demo/Talk: privacy and security issues

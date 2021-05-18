@@ -37,7 +37,47 @@ LIGHTING TALK on Friday (Link TBD):
   part of the Assembly of Privacy Doxographers and Liz/Least Authority)
   https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
 
-TICKETS FROM LAST WEEK:
+_______________________________________________________________________
+
+Minutes of Past Meetings
+
+MAY
+
+Tuesday, May 18
+_______________________________________________________________________
+
+Jean-Paul and Sajith attended and discussed the below items:
+
+ROADMAP
+
+We need to discuss and document the roadmap somewhere.  Trac is not
+the preferred place to hash out the roadmap.  Perhaps we could use
+the community repository for this.
+
+Some wishes for the future (other than shipping Python 3 port):
+
+  1. Shipping Grid Manager
+  2. Non-foolscap storage servers and introducer
+  3. Re-engineering the API
+  4. The WUI should be separated from Tahoe-LAFS proper
+  5. Improving responsiveness
+
+We could aim for 1 and 2 in 2020.  We need to discuss 3 and 4.
+
+Regarding responsiveness: tahoe-lafs "feels" slow from a user
+perspective.  As in, `tahoe --help` takes a little bit of time just to
+print the help message.
+  
+Regarding ZKAP, Chrome extension, other integrations, etc: at the
+moment, we do not have enough information in order to discuss them.
+
+Regarding netifaces: maintenance might be taken up by a team within
+Red Hat.  That is good news.
+
+Did not discuss onboarding doc or retrospective doc, since they
+require May-Lee's presence.
+
+Regarding tickets: we looked at the tickets from the past week.
 
 - Python 3 porting: 6 new tickets, 4 closed (itamarst)
 - Others:
@@ -46,18 +86,21 @@ TICKETS FROM LAST WEEK:
    - #3713: README update (exarkun)
    - #3712: Nix packaging update (exarkun)
 
-OLD TIMEY TICKET:
+Not sure if #3710 ("tahoe get <dircap>" emits HTML), not sure if that
+behavior is a regression or not.  #3711, #3712, and #3713 are closed,
+with corresponding pull requests.
 
-- Replace google chart in wui with d3.js: it leaks information
+Old timey ticket: We looked at #1942 ("Replace google chart in wui
+with d3.js: it leaks information")
+
   https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1942
 
-  (Interesting because there ever was a chart in WUI is news to me.)
+This was interesting because there ever was a chart in the web UI was
+news to me.  Ticket #1942 was closed today, with the resolution that
+we will not fix it.  Google Chart API usage has been long removed, the
+wui has not produced any charts in a long time, and the WUI should be
+a separate project anyway.
 
-_______________________________________________________________________
-
-Minutes of Past Meetings
-
-MAY 
 
 Friday, May 14
 _______________________________________________________________________

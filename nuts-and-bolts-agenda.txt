@@ -36,6 +36,23 @@ LIGHTING TALK on Friday (Link TBD):
   of brain interface devices (collaborated with Michelle Leddon, Julia Scott-Stevenson as 
   part of the Assembly of Privacy Doxographers and Liz/Least Authority)
   https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
+
+TICKETS FROM LAST WEEK:
+
+- Python 3 porting: 6 new tickets, 4 closed (itamarst)
+- Others:
+   - #3710: "tahoe get" emits HTML for dircaps (meejah)
+   - #3711: release checklist update (meejah)
+   - #3713: README update (exarkun)
+   - #3712: Nix packaging update (exarkun)
+
+OLD TIMEY TICKET:
+
+- Replace google chart in wui with d3.js: it leaks information
+  https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1942
+
+  (Interesting because there ever was a chart in WUI is news to me.)
+
 _______________________________________________________________________
 
 Minutes of Past Meetings

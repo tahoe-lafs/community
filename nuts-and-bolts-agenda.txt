@@ -19,8 +19,10 @@ LIGHTNING TALK TODAY:
 
 INSPO/Revolution vibes:
 Freenode kerfuffle? Actions taken:
-    #tahoe-lafs on Libera.chat
-    need to do a little governance on this one, likely Tuesday
+  - #tahoe-lafs on Libera.chat
+  - need to do a little governance on this one, likely Tuesday
+  - There's also https://tahoe-lafs.zulipchat.com, if not as an IRC
+    alternative, as a Slack alternative.
 
 Anti-anti-patterning:
 Web Dev Onboarding process - please take a look before Tuesday, May 25

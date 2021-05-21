@@ -4,39 +4,30 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, May 18 19:00 UTC +2/CEST 
+Next meeting:  Friday, May 21 16:30 UTC +2/CEST 
 
 Next Lightning Talk on May 21 17:00 UTC +2/CEST: Jason Snell (primaryassembly.com)
 
 AGENDA
 _______________________________________________________________________
-THANK YOU, SAJITH (core dev), for running the meeting and scribing!
+LIGHTNING TALK TODAY:
+    Next Lightning Talk May 21: Jason Snell/EEG Music demo/Talk: privacy and security issues
+    of brain interface devices (collaborated with Michelle Leddon, Julia Scott-Stevenson as 
+    part of the Assembly of Privacy Doxographers and Liz/Least Authority)
+    https://us04web.zoom.us/j/79167477259?pwd=TWkvcjlBZCtBK0hsMlczT2NTanRoZz09
+    (Meeting ID: 791 6747 7259, Passcode: jycTu1)
 
-GOVERNANCE - suggested topics:
-  Roadmap/priorities for the rest of 2021
-  https://tahoe-lafs.org/trac/tahoe-lafs/roadmap (sorted by dates then ASCII)
-  Possibilities 2022 (ZKAPs, Chrome Extension, etc. etc.)
-  Integrations: IPFS, Libre Office, https://rclone.org/, etc. etc.
-  Maintaining netifaces, as described by Itamar in IRC
+INSPO/Revolution vibes:
+Freenode kerfuffle? Actions taken:
+    #tahoe-lafs on Libera.chat
+    need to do a little governance on this one, likely Tuesday
 
-  Please review this document and approve/comment:
-  Web Dev Onboarding process
+Anti-anti-patterning:
+Web Dev Onboarding process - please take a look before Tuesday, May 25
   https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
 
-  Any "ticket noise" so far?
-  https://tahoe-lafs.org/trac/tahoe-lafs/timeline
-
-  FYI:
-  Retrospective document - Testing and Release Manager
-  Good to think about as we enter our next round of hiring
+Testing and Release Manager retrospective - please take a look before Tuesday
   https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
-
-LIGHTING TALK on Friday (Link TBD):
-  Jason Snell/EEG Music demo/Talk: privacy and security issues
-  of brain interface devices (collaborated with Michelle Leddon, Julia Scott-Stevenson as 
-  part of the Assembly of Privacy Doxographers and Liz/Least Authority)
-  https://leastauthority.com/blog/privy-to-will-be-featured-at-copenhagen-international-documentary-film-festival/
-
 _______________________________________________________________________
 
 Minutes of Past Meetings

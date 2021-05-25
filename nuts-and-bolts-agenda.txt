@@ -8,6 +8,7 @@ Next meeting:  Tuesday, May 25 19:00 UTC +2/CEST
 
 AGENDA
 _______________________________________________________________________
+*Anxhelo (new Web Dev from BASICS) will be stopping by*
 GOVERNANCE
     Community channel - ideas and when to vote?
         meejah (core dev) made a ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3721

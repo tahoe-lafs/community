@@ -4,16 +4,52 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Friday, May 21 16:30 UTC +2/CEST 
-
-Next Lightning Talk on May 21 17:00 UTC +2/CEST: Jason Snell (primaryassembly.com)
+Next meeting:  Tuesday, May 25 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
-LIGHTNING TALK TODAY:
-    Next Lightning Talk May 21: Jason Snell/EEG Music demo/Talk: privacy and security issues
-    of brain interface devices (collaborated with Michelle Leddon, Julia Scott-Stevenson as 
-    part of the Assembly of Privacy Doxographers and Liz/Least Authority)
+GOVERNANCE
+    Community channel - ideas and when to vote?
+        meejah (core dev) made a ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3721
+        What to do about freenode.net?
+        Facerig for MS Teams
+        #tahoe-lafs on Libera.chat
+        OFTC (#tahoe-lafs controlled by I2P)
+        Zulip as Slack alternative
+        Note: IRC's lightness might suit the volume of communications we have
+    GBS RfP https://cryptpad.fr/pad/#/3/pad/edit/39b52aeb24c546044f22c6e111252220/
+        Introduction section ready
+        Please take a look at the scope
+        Please take a look at the  vendor selection criteria
+        Current strategy: reach out with scope and break it into several projects
+    Monthly Report for May Items?
+    FOSDem possible if people will be able to run a room (i.e., Fund can sponsor
+    but we have to make it worth it)
+    Possible Lighting Talk: https://radicle.xyz/ 
+        FOSS P2P code collaboration built with Git and decentralized with opt-in
+        Ethereum 
+    Tahoe Summit - we should try to do an in-person event in the fall
+        We could use it for visioning and stakeholder sign-off on a mission statement
+        Other possibilities: one afternoon at same time as LA Summit
+        Multiple virtual events
+
+OTHER DOCS TO REVIEW (no urgency):
+Can respond with "no input/no objections"
+Web Dev Onboarding process
+  https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
+
+Testing and Release Manager retrospective
+  https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
+_______________________________________________________________________
+
+Minutes of Past Meetings
+
+MAY
+
+Friday, May 21
+_______________________________________________________________________
+LIGHTNING TALK w/ Jason Snell rescheduled; possible collaboration with Michelle
+Ledddon and Julia-Scott Stevenson
 
 INSPO/Revolution vibes:
 Freenode kerfuffle? Actions taken:
@@ -21,18 +57,7 @@ Freenode kerfuffle? Actions taken:
   - need to do a little governance on this one, likely Tuesday
   - There's also https://tahoe-lafs.zulipchat.com, if not as an IRC
     alternative, as a Slack alternative.
-
-Anti-anti-patterning:
-Web Dev Onboarding process - please take a look before Tuesday, May 25
-  https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
-
-Testing and Release Manager retrospective - please take a look before Tuesday
-  https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
-_______________________________________________________________________
-
-Minutes of Past Meetings
-
-MAY
+  - OFTC might be a good choice, but I2P has control of #tahoe-lafs
 
 Tuesday, May 18
 _______________________________________________________________________

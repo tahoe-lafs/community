@@ -4,26 +4,18 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, May 25 19:00 UTC +2/CEST 
+Next meeting:  Friday, May 28 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
-*Anxhelo (new Web Dev from BASICS) will be stopping by*
-GOVERNANCE
-    Community channel - ideas and when to vote?
-        meejah (core dev) made a ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3721
-        What to do about freenode.net?
-        Facerig for MS Teams
-        #tahoe-lafs on Libera.chat
-        OFTC (#tahoe-lafs controlled by I2P)
-        Zulip as Slack alternative
-        Note: IRC's lightness might suit the volume of communications we have
-    GBS RfP https://cryptpad.fr/pad/#/3/pad/edit/39b52aeb24c546044f22c6e111252220/
-        Introduction section ready
-        Please take a look at the scope
-        Please take a look at the  vendor selection criteria
-        Current strategy: reach out with scope and break it into several projects
-    Monthly Report for May Items?
+INSPO and UPDATES:
+    I think onboarding worked. This is the doc I used:
+        https://cryptpad.fr/pad/#/3/pad/edit/f130ce6cd2dee0a329f847f5982e8951/
+    Radicle VCS might come speak at a Lightning Talk
+    Other non-governance topics?
+        Moon Math podcast - 2.5 hours, not done, v. v. good
+
+GOVERNANCE for Tuesday, June 1
     FOSDem possible if people will be able to run a room (i.e., Fund can sponsor
     but we have to make it worth it)
     Possible Lighting Talk: https://radicle.xyz/ 
@@ -33,19 +25,39 @@ GOVERNANCE
         We could use it for visioning and stakeholder sign-off on a mission statement
         Other possibilities: one afternoon at same time as LA Summit
         Multiple virtual events
-
-OTHER DOCS TO REVIEW (no urgency):
-Can respond with "no input/no objections"
-Web Dev Onboarding process
-  https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
-
-Testing and Release Manager retrospective
-  https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
+    GitLab Migration efforts after the Python 3 port finishes
+    New possible Docu team member
+    "He who pulls, never merges"
 _______________________________________________________________________
 
 Minutes of Past Meetings
 
 MAY
+
+Tuesday, May 25
+_______________________________________________________________________
+PRESENT: May-Lee, Sajith, meejah, Jean-Paul, teratorn, Anxhelo
+
+Today we all got to meet Anxhelo (new Web Dev from BASICS)
+*New Contributor* teratorn from the IRC also joined
+
+GOVERNANCE
+    Community channel - ideas and when to vote?
+        meejah (core dev) made a ticket: https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3721
+        We have moved off freenode.net and onto Libera.chat
+        The Slack bridge is broken and may never come back
+
+    GBS RfP https://cryptpad.fr/pad/#/3/pad/edit/39b52aeb24c546044f22c6e111252220/
+        Everyone has been asked to look at the scope and try group items in a 
+        manner that would be digestible for a security firm 
+     
+OTHER DOCS TO REVIEW (no urgency):
+Web Dev Onboarding doc was commented on and put into use on Wednesday, May 26
+Web Dev Onboarding process
+  https://cryptpad.fr/pad/#/3/pad/edit/441aaca21dad3f0a75cf6ef0b482af6f/
+
+Testing and Release Manager retrospective - still being processed
+  https://cryptpad.fr/pad/#/3/pad/edit/e4ba29febafd61c15f1e1de9d461a258/
 
 Friday, May 21
 _______________________________________________________________________

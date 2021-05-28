@@ -12,22 +12,24 @@ INSPO and UPDATES:
     I think onboarding worked. This is the doc I used:
         https://cryptpad.fr/pad/#/3/pad/edit/f130ce6cd2dee0a329f847f5982e8951/
     Radicle VCS might come speak at a Lightning Talk
-    Other non-governance topics?
-        Moon Math podcast - 2.5 hours, not done, v. v. good
-
-GOVERNANCE for Tuesday, June 1
-    FOSDem possible if people will be able to run a room (i.e., Fund can sponsor
-    but we have to make it worth it)
-    Possible Lighting Talk: https://radicle.xyz/ 
+        https://radicle.xyz/ 
         FOSS P2P code collaboration built with Git and decentralized with opt-in
         Ethereum 
+    Other non-governance topics?
+        https://www.youtube.com/watch?v=ycK3AUTdl1w
+        Moon Math podcast - 2.5 hours, not done, v. v. good
+        SWAG
+
+GOVERNANCE for Tuesday, June 1
+    GitLab Migration efforts after the Python 3 port finishes
+    New possible Docu team member
+    "He who pulls, never merges"
+    FOSDem possible if people will be able to run a room (i.e., Fund can sponsor
+    but we have to make it worth it)
     Tahoe Summit - we should try to do an in-person event in the fall
         We could use it for visioning and stakeholder sign-off on a mission statement
         Other possibilities: one afternoon at same time as LA Summit
         Multiple virtual events
-    GitLab Migration efforts after the Python 3 port finishes
-    New possible Docu team member
-    "He who pulls, never merges"
 _______________________________________________________________________
 
 Minutes of Past Meetings

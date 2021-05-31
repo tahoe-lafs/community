@@ -82,8 +82,6 @@ TBD but must be scheduled at GOVERNANCE eventually:
         We currently have three domain names pointing towards us 
         Pro-tip: once your organization gets a domain name that is visited by your 
         users, you MUST NEVER LET IT FALL INTO ENEMY HANDS or they will defile it mightily
-
-PS once you claim a name, you are never allowed to give it up, otherwise 1/2 of your engagement will think it's you
   
 Tuesday, May 25
 _______________________________________________________________________

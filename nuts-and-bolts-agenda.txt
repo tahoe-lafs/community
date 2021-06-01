@@ -33,6 +33,17 @@ All items listed under "GOVERNANCE" should have a decided outcome
         Do we think their proposal would help us make progress towards these goals,
         and if not, what could we change in their proposal?
         IRREGARDLESS, May-Lee (community manager) would have to request contract 
+ 
+   Libera.Chat IRC cloaks
+        - Should we adopt IRC cloaks?
+        - We could adopt cloaks like "tahoe-lafs/team/<nick>" and
+          "tahoe-lafs/bot/<nick>" that show project affilation.
+        - exarkun, maylee, meejah, or sajith should be able to ask for
+          cloaks in #libera-communities.
+
+   Mailing list status
+       Still waiting on Warner.  What do we do next?
+
 
 TICKETS
 

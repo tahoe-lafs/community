@@ -12,6 +12,8 @@ GOVERNANCE
 All items listed under "GOVERNANCE" should have a decided outcome
     GBS RfP
         Look at security RfP and add and group items in order to present to Auditing vendor
+        Also: vendor selection criteria and Introduction section should be read to fact-check
+        https://cryptpad.fr/pad/#/3/pad/edit/39b52aeb24c546044f22c6e111252220/
     Summit
         Create a list of 3 - 5 outcomes from our summit in the fall
             Example: Create a mission statement for stakeholder sign-off

@@ -33,6 +33,49 @@ All items listed under "GOVERNANCE" should have a decided outcome
         Do we think their proposal would help us make progress towards these goals,
         and if not, what could we change in their proposal?
         IRREGARDLESS, May-Lee (community manager) would have to request contract 
+
+TICKETS
+
+Last week's tickets:
+
+  * #3727: Add Fosshost link to README (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3727
+
+  * #3725: Brand trademarking for Tahoe-LAFS (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3725
+    (Relevant: https://www.uspto.gov/trademarks)
+
+  * #3624: Tahoe-LAFS logo and branding assets (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3724
+
+  * #3721: Move official IRC presence to libera (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3721
+
+  * #3677: Tahoe logo looks bad on dark background (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3677
+    https://github.com/tahoe-lafs/tahoe-lafs/pull/1070
+
+Python 3 porting tickets:
+
+  * #3722: Enable integration tests for Python 3 on Windows (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3722
+
+  * #3723: pefile should work correctly on Python 2 and 3 now (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3723
+
+  * #3700: On Windows, some tests are still failing on Python 3 (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3700
+    
+    #3701: Enable Python 3 Windows test runners (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3701
+
+    Both closed in https://github.com/tahoe-lafs/tahoe-lafs/pull/1067
+
+Ticket of historical interest:
+
+  * #1353: make the FUSE interface be a supported, first-class feature
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1353
+
 _______________________________________________________________________
 
 Minutes of Past Meetings

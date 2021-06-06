@@ -12,6 +12,8 @@ GOVERNANCE
 All items listed under "GOVERNANCE" should have a decided outcome
     GBS RfP
         Look at security RfP and add and group items in order to present to Auditing vendor
+        Also: vendor selection criteria and Introduction section should be read to fact-check
+        https://cryptpad.fr/pad/#/2/pad/edit/QA8IUiGuCNEZc0zVBPpLZoKy/
     Summit
         Create a list of 3 - 5 outcomes from our summit in the fall
             Example: Create a mission statement for stakeholder sign-off
@@ -31,6 +33,60 @@ All items listed under "GOVERNANCE" should have a decided outcome
         Do we think their proposal would help us make progress towards these goals,
         and if not, what could we change in their proposal?
         IRREGARDLESS, May-Lee (community manager) would have to request contract 
+ 
+   Libera.Chat IRC cloaks
+        - Should we adopt IRC cloaks?
+        - We could adopt cloaks like "tahoe-lafs/team/<nick>" and
+          "tahoe-lafs/bot/<nick>" that show project affilation.
+        - exarkun, maylee, meejah, or sajith should be able to ask for
+          cloaks in #libera-communities.
+
+   Mailing list status
+       Still waiting on Warner.  What do we do next?
+
+
+TICKETS
+
+Last week's tickets:
+
+  * #3727: Add Fosshost link to README (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3727
+
+  * #3725: Brand trademarking for Tahoe-LAFS (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3725
+    (Relevant: https://www.uspto.gov/trademarks)
+
+  * #3624: Tahoe-LAFS logo and branding assets (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3724
+
+  * #3721: Move official IRC presence to libera (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3721
+
+  * #3677: Tahoe logo looks bad on dark background (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3677
+    https://github.com/tahoe-lafs/tahoe-lafs/pull/1070
+
+Python 3 porting tickets:
+
+  * #3722: Enable integration tests for Python 3 on Windows (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3722
+
+  * #3723: pefile should work correctly on Python 2 and 3 now (open)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3723
+
+  * #3700: On Windows, some tests are still failing on Python 3 (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3700
+    
+    #3701: Enable Python 3 Windows test runners (closed)
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3701
+
+    Both closed in https://github.com/tahoe-lafs/tahoe-lafs/pull/1067
+
+Ticket of historical interest:
+
+  * #1353: make the FUSE interface be a supported, first-class feature
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1353
+
 _______________________________________________________________________
 
 Minutes of Past Meetings

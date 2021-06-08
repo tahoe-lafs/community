@@ -12,7 +12,6 @@ GOVERNANCE
 Two issues this week:
 RESCHEDULED: Presentation of Assets Guideline Draft by Anxhelo (Web Dev)
     https://github.com/tahoe-lafs/community/issues/4
-    Also he's got some wireframes to show us
 
 Create Technical Assessment for BASICS Testing and Release Manager
     https://github.com/tahoe-lafs/community/issues/9

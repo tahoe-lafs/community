@@ -18,6 +18,7 @@ Create Technical Assessment for BASICS Testing and Release Manager
 
 UPDATES
     Yash has joined our documentation team!
+    A domain name (tahoe-lafs.net) has been bought. Need to figure out devops.
     
 TICKETS
 

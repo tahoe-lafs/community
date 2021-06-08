@@ -21,7 +21,7 @@ UPDATES
     Yash has joined our documentation team!
     
 TICKETS
-    Do we have any tickets that are WORTH DISCUSSING?
+    Do we have any tickets that we want to/need to talk about?
 _______________________________________________________________________
 
 Minutes of Past Meetings
@@ -31,6 +31,8 @@ JUNE
 Friday, June 4
 _______________________________________________________________________
 Present: Jean-Paul, May-Lee, Sajith
+
+INCOMPLETE MINUTES - DRAFT
 
 ANTI-ANTI-PATTERNING
     Jean-Paul (core dev) - "Let's bottom out on items at meetings until they are
@@ -43,8 +45,6 @@ ANTI-ANTI-PATTERNING
 UPDATES/FOLLOW-UP 
     Anxhelo (web dev) will present asset management guideline on Tuesday for feedback
     Will begin working on wireframes for new website
-
-INCOMPLETE MINUTES - DRAFT
 
 Tuesday, June 1
 _______________________________________________________________________

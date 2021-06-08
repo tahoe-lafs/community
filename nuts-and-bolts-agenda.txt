@@ -4,35 +4,56 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, June 1 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, June 8 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 GOVERNANCE
-All items listed under "GOVERNANCE" should have a decided outcome
-    GBS RfP
-        Look at security RfP and add and group items in order to present to Auditing vendor
-        Also: vendor selection criteria and Introduction section should be read to fact-check
-        https://cryptpad.fr/pad/#/2/pad/edit/QA8IUiGuCNEZc0zVBPpLZoKy/
-    Summit
-        Create a list of 3 - 5 outcomes from our summit in the fall
-            Example: Create a mission statement for stakeholder sign-off
-        Not today, but "later": Decide dates, virtual, IRL, hybrid
-    GitLab migration
-        Jean-Paul (core dev) suggests if we can't find a contractor, we should devote some
-        time to taking this on ourselves
-    Tahoe Developer workflow
-        Do we know what it is? 
-        How do we expect core contributors to interact?
-        Does our current guide fulfill that?
-            https://github.com/tahoe-lafs/tahoe-lafs/blob/master/CONTRIBUTORS.rst
-    Possible new docu team member
-        Email/work proposal has been sent to Core Devs; please read  
-        Do we feel that the proposed time structure (1 hr/wkday, more on wknds)
-        will be able to fulfill our documentation goals?
-        Do we think their proposal would help us make progress towards these goals,
-        and if not, what could we change in their proposal?
-        IRREGARDLESS, May-Lee (community manager) would have to request contract 
+Two issues this week:
+Presentation of Assets Guideline Draft by Anxhelo (Web Dev)
+    https://github.com/tahoe-lafs/community/issues/4
+    Also he's got some wireframes to show us
+
+Create Technical Assessment for BASICS Testing and Release Manager
+    https://github.com/tahoe-lafs/community/issues/9
+
+UPDATES
+    Yash has joined our documentation team!
+    
+TICKETS
+    Do we have any tickets that are WORTH DISCUSSING?
+_______________________________________________________________________
+
+Minutes of Past Meetings
+
+JUNE
+
+Friday, June 4
+_______________________________________________________________________
+Present: Jean-Paul, May-Lee, Sajith
+
+ANTI-ANTI-PATTERNING
+    Jean-Paul (core dev) - "Let's bottom out on items at meetings until they are
+    actually done"
+    All governance items are now Issues on the Community 
+    JP will look at ReadtheDocs webhook situation
+
+    Sajith (core dev)
+
+UPDATES/FOLLOW-UP 
+    Anxhelo (web dev) will present asset management guideline on Tuesday for feedback
+    Will begin working on wireframes for new website
+
+INCOMPLETE MINUTES - DRAFT
+
+Tuesday, June 1
+_______________________________________________________________________
+Present: May-Lee, meejah, Sajith, teratorn, Anxhelo
+
+INCOMPLETE MINUTES - DRAFT
+
+Deferred items:
+
  
    Libera.Chat IRC cloaks
         - Should we adopt IRC cloaks?
@@ -86,10 +107,6 @@ Ticket of historical interest:
 
   * #1353: make the FUSE interface be a supported, first-class feature
     https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1353
-
-_______________________________________________________________________
-
-Minutes of Past Meetings
 
 MAY
 

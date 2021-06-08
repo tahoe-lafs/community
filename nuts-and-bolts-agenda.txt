@@ -10,7 +10,7 @@ AGENDA
 _______________________________________________________________________
 GOVERNANCE
 Two issues this week:
-Presentation of Assets Guideline Draft by Anxhelo (Web Dev)
+RESCHEDULED: Presentation of Assets Guideline Draft by Anxhelo (Web Dev)
     https://github.com/tahoe-lafs/community/issues/4
     Also he's got some wireframes to show us
 

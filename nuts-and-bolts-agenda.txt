@@ -20,7 +20,20 @@ UPDATES
     Yash has joined our documentation team!
     
 TICKETS
-    Do we have any tickets that we want to/need to talk about?
+
+Last week's tickets:
+
+  * #3727: Add Fosshost link to README (fixed)
+  * #3716, #3718, #3728, #3729: Port allmydata.scripts to Python 3 (fixed)
+  * #3730: Update towncrier (fixed)
+  * #3731, #3732: Tox tinkering (open)
+
+Old timey ticket:
+
+  * #1353: make the FUSE interface be a supported, first-class feature
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1353
+    (We did not get to talk about this last week.)
+
 _______________________________________________________________________
 
 Minutes of Past Meetings

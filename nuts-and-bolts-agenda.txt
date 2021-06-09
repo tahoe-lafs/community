@@ -4,21 +4,47 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, June 8 19:00 UTC +2/CEST 
+Next meeting:  Friday, June 11 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
+ANTI-ANTI-PATTERNING
+    Possible discussion topics:
+
+    How do we view "technical debt"? 
+        Is it a positive sign that a project is productive?
+        Does it mean more attention needs to be paid to design?
+        Is it an unavoidable existential condition?
+
+    Getting in the mood - seeding the Manifesto . . .er "Mission Statement": 
+        https://github.com/tahoe-lafs/community/issues/11
+        https://hintjens.gitbooks.io/social-architecture/content/chapter4.html
+        (this isn't governance, this is just conversational)
+       
+UPDATES
+_______________________________________________________________________
+
+Minutes of Past Meetings
+
+JUNE
+
+Tuesday, June 8
+_______________________________________________________________________
+PRESENT: meejah, Yash, teratorn, May-Lee, Jean-Paul
+
 GOVERNANCE
-Two issues this week:
-RESCHEDULED: Presentation of Assets Guideline Draft by Anxhelo (Web Dev)
+    Presentation of Assets Guideline Draft by Anxhelo (Web Dev) rescheduled
     https://github.com/tahoe-lafs/community/issues/4
 
-Create Technical Assessment for BASICS Testing and Release Manager
+    RESOLVED: Create Technical Assessment for BASICS Testing and Release Manager
     https://github.com/tahoe-lafs/community/issues/9
+    Assessment sent to BASICS; will be secret until after candidate is chosen
 
 UPDATES
     Yash has joined our documentation team!
-    A domain name (tahoe-lafs.net) has been bought. Need to figure out devops.
+    teratorn will write proposals or open PRs against codebase to begin contributing
+    Sajith (core dev) bought tahoe-lafs.net. Need to figure out devops.
+        "Create a repo" - Jean-Paul (core dev)
     
 TICKETS
 
@@ -34,12 +60,6 @@ Old timey ticket:
   * #1353: make the FUSE interface be a supported, first-class feature
     https://tahoe-lafs.org/trac/tahoe-lafs/ticket/1353
     (We did not get to talk about this last week.)
-
-_______________________________________________________________________
-
-Minutes of Past Meetings
-
-JUNE
 
 Friday, June 4
 _______________________________________________________________________

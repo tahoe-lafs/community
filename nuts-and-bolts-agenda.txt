@@ -8,6 +8,10 @@ Next meeting:  Friday, June 11 16:30 UTC +2/CEST
 
 AGENDA
 _______________________________________________________________________
+PRESENTATION
+    Assets Guideline Draft by Anxhelo (Web Dev)
+    https://github.com/tahoe-lafs/community/issues/4
+    
 ANTI-ANTI-PATTERNING
     Possible discussion topics:
 

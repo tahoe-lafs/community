@@ -4,30 +4,48 @@ URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
 
-Next meeting:  Tuesday, June 15 19:00 UTC +2/CEST 
+Next meeting:  Friday, June 18 16:30 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
-    Brian Warner has handed over mailing list/DN to Sajith and meejah (core devs) - yay!
-    Yash has begun documentation for new users - also yay!
-        Thanks everyone for being helpful with his Q's in the IRC
-    I need a nap - oh wait, that's not an *update*
-        
-GOVERNANCE
-    Your choice:
-    A speculative one:
-        https://github.com/tahoe-lafs/community/issues/7
-    A practical one:
-        https://github.com/tahoe-lafs/community/issues/6
-    
-CTAs
-    Everyone make one post to the Discourse either during this meeting or shortly after
+    GBS strategy: approach multiple vendors and ask for proposals/determine market
+    Ask for help with scoping
+
+    We'll still be working with Aspiration for the foreseeable future
+
+    Python 3 Porting Sync meeting was on Wednesday; we'll talk about it 
+    Tuesday when everyone is here
+        Notes: https://cryptpad.fr/pad/#/2/pad/edit/g3+IW5wiOIKgjgRHQWHWtETh/
+
+
+HOUSEKEEPING
+    Things are in a bit of disarray over the last month
+    For "reasons"; trying to schedule in a "ship day" to take care of loose ends
+    before we're too deep into Q3
 _______________________________________________________________________
 
 Minutes of Past Meetings
 
 JUNE
+
+Tuesday, June 15
+_______________________________________________________________________
+PRESENT: meejah, Sajith, may-Lee, Jean-Paul
+
+UPDATES
+    Brian Warner has handed over mailing list/DN to Sajith and meejah
+    Thanks to Sajith's persistence
+    Sajith and Jean-Paul will work on it
+    https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3742#ticket
+        
+GOVERNANCE
+    https://github.com/tahoe-lafs/community/issues/6
+    Now has some TODOs
+    GitHub Issues will be for governance; Trac tickets for code/work units
+    
+CTAs
+    Everyone make one post to the Discourse either during this meeting or shortly after
 
 Friday, June 11
 _______________________________________________________________________

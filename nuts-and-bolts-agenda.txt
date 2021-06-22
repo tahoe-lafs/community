@@ -3,30 +3,52 @@ Agenda and minutes of meetings
 URL TBD via IRC
 Tuesdays we focus on Governance/decisions
 Fridays we do inspo, anti-anti-patterning and presentations
+SUMMER SCHEDULE (till end of September)
+First 20 minutes of the meeting will be Governance, then fun stuff/discussion
 
-Next meeting:  Tuesday, June 22 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, June 29 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
-    Cure53 and NCCGroup contacted; Cure53 meeting on Thursday
-    BASICS technical assessments scheduled - might need help rehearsing
-    Jean-Paul (core dev) and Sajith (core dev) working on mailing list
-    Thanks Jean-Paul and meejah (core dev) for answering Yash (documentation) questions via email!
 
-GOVERNANCE
-    Python 3 Porting Sync meeting to be discussed
-        Notes: https://cryptpad.fr/pad/#/2/pad/edit/g3+IW5wiOIKgjgRHQWHWtETh/ 
-        
-    Summer is here; lockdown is over!
-        Could we take turns on the Friday meeting until end of September? 
-        Meeting keeps running but same person not always "obligated" to be there/scribe.
-        
-_______________________________________________________________________
+GOVERNANCE 
+______________________________________________________________________
 
 Minutes of Past Meetings
 
 JUNE
+
+Tuesday, June 29
+_______________________________________________________________________
+DISCUSSION
+    Jean-Paul's (core dev) NixOS system configuration for his laptop controlling 
+    bluetooth and audio
+    https://gist.github.com/exarkun/c78a8b912aa7ef8fae3cfe89e6e59c72
+
+DECISIONS
+    Cure53 and NCCGroup contacted; need more vendors and a public RfP
+        Scopes: GBS, codebase, crypto
+        Outreach: 
+        Sajith (core dev) suggests: https://www.metzdowd.com/mailman/listinfo/cryptography
+        meejah (core dev) suggesets: Erights IRC channel
+    BASICS technical assessments scheduled
+
+GOVERNANCE
+    Python 3 porting sync:
+        Itamar going to do some more teting/then possibly GBS implementation in 
+        August
+        We won't change the versioning
+        meejah is the best candidate for a release candidate
+            One day, we WILL have a build automation pereson
+        Test grid talk - next step is finding someone who doesn't use: Puppet/Chef,
+            Docker Compose, Fabric or Kubernetes. 
+            Prefer: NixOS + Terraform, Saltstack and maybe maybe if they're really nice,
+            Ansible
+            Also not meant to overlap with the GitLab situation
+
+    New summer (till end September) meeting schedule: 
+    No Friday meetings, only Tuesdays. 20 minutes of governance, then "fun stuff"
 
 Friday, June 18
 _______________________________________________________________________

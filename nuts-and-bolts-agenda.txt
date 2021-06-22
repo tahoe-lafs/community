@@ -9,10 +9,19 @@ Next meeting:  Tuesday, June 22 19:00 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 UPDATES
+    Cure53 and NCCGroup contacted; Cure53 meeting on Thursday
+    BASICS technical assessments scheduled - might need help rehearsing
+    Jean-Paul (core dev) and Sajith (core dev) working on mailing list
+    Thanks Jean-Paul and meejah (core dev) for answering Yash (documentation) questions via email!
 
 GOVERNANCE
     Python 3 Porting Sync meeting to be discussed
-        Notes: https://cryptpad.fr/pad/#/2/pad/edit/g3+IW5wiOIKgjgRHQWHWtETh/       
+        Notes: https://cryptpad.fr/pad/#/2/pad/edit/g3+IW5wiOIKgjgRHQWHWtETh/ 
+        
+    Summer is here; lockdown is over!
+        Could we take turns on the Friday meeting until end of September? 
+        Meeting keeps running but same person not always "obligated" to be there/scribe.
+        
 _______________________________________________________________________
 
 Minutes of Past Meetings

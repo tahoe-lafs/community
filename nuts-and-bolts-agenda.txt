@@ -36,19 +36,19 @@ DECISIONS
 
 GOVERNANCE
     Python 3 porting sync:
-        Itamar going to do some more teting/then possibly GBS implementation in 
-        August
+        Itamar going to do some more testing/then possibly GBS implementation in 
+        August; also I2P stuff
         We won't change the versioning
         meejah is the best candidate for a release candidate
-            One day, we WILL have a build automation pereson
+            One day, we WILL have a build automation person
         Test grid talk - next step is finding someone who doesn't use: Puppet/Chef,
             Docker Compose, Fabric or Kubernetes. 
             Prefer: NixOS + Terraform, Saltstack and maybe maybe if they're really nice,
             Ansible
             Also not meant to overlap with the GitLab situation
-
+            
     New summer (till end September) meeting schedule: 
-    No Friday meetings, only Tuesdays. 20 minutes of governance, then "fun stuff"
+        No Friday meetings, only Tuesdays. 20 minutes of Governance, then "fun stuff"
 
 Friday, June 18
 _______________________________________________________________________

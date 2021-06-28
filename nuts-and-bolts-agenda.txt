@@ -12,8 +12,20 @@ Next meeting:  Tuesday, June 29 19:00 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 UPDATES
+    NCCGroup call/RfP is progressing
+    Test Grid / Community outreach
+    Contractors weekly meeting
+    Sajith's (core dev) AMAZING I2P presentation
+    Reminder: No Friday meetings till Sept
+    CTA: Monthly agenda (June) Items
 
 GOVERNANCE 
+    https://github.com/tahoe-lafs/community/issues/7
+    
+"FUN"
+    Jean-Paul (core dev) has a rant and/or I can read you the war story my friend 
+    textstormed me where they broke their company's site for 5 - 8 hours
+    etc.
 ______________________________________________________________________
 
 Minutes of Past Meetings

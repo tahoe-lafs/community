@@ -7,26 +7,15 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, June 29 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, July 6 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
-    NCCGroup call/RfP is progressing
-    Test Grid / Community outreach
-    Contractors weekly meeting
-    Sajith's (core dev) AMAZING I2P presentation
-    Reminder: No Friday meetings till Sept
-    CTA: Monthly agenda (June) Items
 
-GOVERNANCE 
-    https://github.com/tahoe-lafs/community/issues/7
-    
-"FUN"
-    Sajith can talk about I2P again/more Q & A
-    Jean-Paul (core dev) has a rant and/or I can read you the war story my friend 
-    textstormed me where they broke their company's site for 5 - 8 hours
-    etc.
+GOVERNANCE
+
+DISCUSSION/FUN
 ______________________________________________________________________
 
 Minutes of Past Meetings
@@ -34,7 +23,32 @@ Minutes of Past Meetings
 JUNE
 
 Tuesday, June 29
+______________________________________________________________________
+Present: May-Lee, Jean-Paul, Sajith
+
+UPDATES
+    RfP Progressing; more vendors need to be contacted
+    We have a candidate to work on the NixOS test grid
+    Contractors weekly meeting
+        New thing for contractors to touch base regularly
+        Pursuing a trademark on the Tahoe logo needs to be governance issue
+    Sajith's (core dev) AMAZING I2P presentation
+        He put a lot of work into that and I appreciate it
+
+GOVERNANCE 
+    We decided to use 
+    https://engineering.memrise.com/memrises-engineering-growth-framework-f3ba767dde1c
+    to provide inspiration as we advance contributors through the organization
+    "good enough guideline" for now
+
+"FUN"
+    No fun today, only sadness.
+    j/k love ya'll :)
+
+Tuesday, June 22
 _______________________________________________________________________
+Present: Jean-Paul, meejah, Sajith, May-Lee
+
 DISCUSSION
     Jean-Paul's (core dev) NixOS system configuration for his laptop controlling 
     bluetooth and audio

@@ -23,6 +23,7 @@ GOVERNANCE
     https://github.com/tahoe-lafs/community/issues/7
     
 "FUN"
+    Sajith can talk about I2P again/more Q & A
     Jean-Paul (core dev) has a rant and/or I can read you the war story my friend 
     textstormed me where they broke their company's site for 5 - 8 hours
     etc.

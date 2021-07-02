@@ -12,8 +12,13 @@ Next meeting:  Tuesday, July 6 19:00 UTC +2/CEST
 AGENDA
 _______________________________________________________________________
 UPDATES
+    NGI/NLNet meeting
+        next steps?
+    Security Audit progress
+    Testing and Release Manager interviews done
 
 GOVERNANCE
+    We need to choose our next Testing and Release Manager
 
 DISCUSSION/FUN
 ______________________________________________________________________

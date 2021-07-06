@@ -15,6 +15,7 @@ UPDATES
     NGI/NLNet meeting - in development
     Security Audit progress
     Testing and Release Manager interviews done
+    Development
 
 GOVERNANCE
     We need to choose our next Testing and Release Manager

@@ -7,23 +7,48 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, July 6 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, 13 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
-    NGI/NLNet meeting - in development
-    Security Audit progress
-    Testing and Release Manager interviews done
-    Development
-
+  Survey results from Anxhelo
+  RfP published
+  
 GOVERNANCE
-    We need to choose our next Testing and Release Manager
 
 DISCUSSION/FUN
 ______________________________________________________________________
 
 Minutes of Past Meetings
+
+JULY
+
+Tuesday, July 6
+_______________________________________________________________________
+PRESENT: meejah, Sajith, Jean-Paul, May-Lee
+
+UPDATES
+    Security Audit progress - we will prefer a vendor that has given us a
+    concrete timeline
+    Development:
+        Loose ends being tied up, and also I2P integration testing being added, 
+        as well as a release of foolscap
+        CI being kept running, including `tox` configuration clean up and 
+        fixing of integration tests for macOS and py27
+
+GOVERNANCE
+    We need to choose our next Testing and Release Manager
+        The Technical Assessment was the minimum of what we should expect
+        Because only one person was able to complete all tasks, they will be
+        the one invited back      
+
+DISCUSSION/FUN
+    Software:
+    We should have both CPython and PyPy3 (most of the people using are server operators) 
+    we should have a Linux unit test and integration test CI job and not worry about 
+    other stuff unless someone wants to show up and do it (do don't worry about MacOS or Windows)
+    DNS management discussed; no next steps yet
 
 JUNE
 

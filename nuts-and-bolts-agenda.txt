@@ -11,13 +11,21 @@ Next meeting:  Tuesday, 13 19:00 UTC +2/CEST
 
 AGENDA
 _______________________________________________________________________
+Intro new person: Aaron Janse
+
 UPDATES
-  Survey results from Anxhelo
-  RfP published
+  Documentation getting updated - Thanks Yash!
+  Mailing list progress - Thanks Sajith (core dev)!
+  New Testing and Release Manager (Fon) from BASICS interviewed
+  Did I mention we got at least one SOW?
   
 GOVERNANCE
-
+  Pick something and let's hack it out
+  Suggestion: I sent an email that could be a good candidate for 
+  soliciting a design review
+  
 DISCUSSION/FUN
+  Aaron Janse (NixOS) said he'd be stopping by to say hi :)
 ______________________________________________________________________
 
 Minutes of Past Meetings

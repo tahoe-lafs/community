@@ -7,30 +7,41 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, 13 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, July 20 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 Intro new person: Aaron Janse
 
 UPDATES
-  Documentation getting updated - Thanks Yash!
-  Mailing list progress - Thanks Sajith (core dev)!
-  New Testing and Release Manager (Fon) from BASICS interviewed
-  Did I mention we got at least one SOW?
-  
+
 GOVERNANCE
-  Pick something and let's hack it out
-  Suggestion: I sent an email that could be a good candidate for 
-  soliciting a design review
-  
-DISCUSSION/FUN
-  Aaron Janse (NixOS) said he'd be stopping by to say hi :)
+
+DISCUSSION/INSPO 
 ______________________________________________________________________
 
 Minutes of Past Meetings
 
 JULY
+
+Tuesday, July 13
+______________________________________________________________________
+PRESENT: meejah, Sajith, May-Lee
+
+UPDATES
+  Documentation getting updated - Thanks Yash!
+  Mailing list progress - Thanks Sajith (core dev)!
+    Only mailing list we're keeping alive is Tahoe-Devs
+    All core team are now admins
+    Tarballs have been sent; contain passwords (admin passwords are encrpyted;
+    subs' are not)
+  New Testing and Release Manager (Fon) from BASICS interviewed
+  
+GOVERNANCE
+  When people approach us with interesting use cases, or projects they want to
+  build, how can we handle that?
+  Try to break it into pieces as feature requests, bug reports or asking on the  IRC
+  We don't offer consulting as part of our sustainability model at this time.
 
 Tuesday, July 6
 _______________________________________________________________________

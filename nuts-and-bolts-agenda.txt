@@ -11,10 +11,16 @@ Next meeting:  Tuesday, July 20 19:00 UTC +2/CEST
 
 AGENDA
 _______________________________________________________________________
-UPDATES
-
 GOVERNANCE
-  Meeting with respondent to RfP
+  Private meeting with core team and security auditing firm
+  Public community meetings resume next week
+
+UPDATES
+  Documentation merged; thanks all for PR review! 
+    Congrats to Yash (documentation) for getting into the codebase!
+  New Nix packages courtesy of Aaron Janse (volunteer contributor)
+    Thanks Aaron! 
+    CTA: check Nix testing since it runs in chroot w/no internet access
 
 DISCUSSION/INSPO 
 ______________________________________________________________________

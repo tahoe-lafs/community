@@ -7,12 +7,36 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, July 20 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, July 27 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 GOVERNANCE
+  Clean Insights - do we think Tahoe could use this?
+    Magic Folder uses it
+    Could provide data/analytics
+  Admin permissions for servers given to all core 
+
+UPDATES
+  New Gentoo overlay - thanks jpds! (contributor)
+    https://github.com/jpds/tahoe-lafs-overlay
+  Contractor updates
+    New Testing and Release Manager Fenn
+  
+DISCUSSION/INSPO
+  
+______________________________________________________________________
+
+Minutes of Past Meetings
+
+JULY
+
+Tuesday, July 20
+______________________________________________________________________
+PRESENT: meejah, Sajith, May-Lee
+GOVERNANCE
   Private meeting with core team and security auditing firm
+    Now we wait for a SOW
   Public community meetings resume next week
 
 UPDATES
@@ -20,14 +44,6 @@ UPDATES
     Congrats to Yash (documentation) for getting into the codebase!
   New Nix packages courtesy of Aaron Janse (volunteer contributor)
     Thanks Aaron! 
-    CTA: check Nix testing since it runs in chroot w/no internet access
-
-DISCUSSION/INSPO 
-______________________________________________________________________
-
-Minutes of Past Meetings
-
-JULY
 
 Tuesday, July 13
 ______________________________________________________________________

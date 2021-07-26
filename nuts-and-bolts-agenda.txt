@@ -15,6 +15,7 @@ GOVERNANCE
   Clean Insights - do we think Tahoe could use this?
     Magic Folder uses it
     Could provide data/analytics
+    https://cleaninsights.gitlab.io/clean-insights-python-sdk/
   Admin permissions for servers given to all core 
 
 UPDATES

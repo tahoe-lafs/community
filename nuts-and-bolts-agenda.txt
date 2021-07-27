@@ -25,6 +25,7 @@ UPDATES
     New Testing and Release Manager Fenn
   Technical Assessment published
     https://github.com/tahoe-lafs/community/issues/9#issuecomment-886648737
+  Security Audit SOW can only be held till CW32  
   
 DISCUSSION/INSPO
   CTA: Survey for branding and mockups published

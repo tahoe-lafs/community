@@ -7,37 +7,53 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, July 27 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, August 3 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
+INTRODUCTION
+    Welcome Fenn (Testing and Release Manager)!
+
 GOVERNANCE
-  Clean Insights - do we think Tahoe could use this?
-    Magic Folder uses it
-    Could provide data/analytics
-    https://cleaninsights.gitlab.io/clean-insights-python-sdk/
-  Admin permissions for servers given to all core 
-  Security Audit
 
 UPDATES
-  New Gentoo overlay - thanks jpds! (contributor)
-    https://github.com/jpds/tahoe-lafs-overlay
-  Contractor updates
-    New Testing and Release Manager Fenn
-  Technical Assessment published
-    https://github.com/tahoe-lafs/community/issues/9#issuecomment-886648737
-  Security Audit SOW can only be held till CW32  
   
 DISCUSSION/INSPO
-  CTA: Survey for branding and mockups published
-  It is anonymous and takes 15 - 20 minutes
-  https://cloud.ura.design/apps/forms/Qet3iaZKmrcCLSdY
-  
 ______________________________________________________________________
 
 Minutes of Past Meetings
 
 JULY
+
+Tuesday, July 27
+______________________________________________________________________
+Present: Jean-Paul, meejah, May-Lee
+GOVERNANCE
+  Clean Insights - do we think Tahoe could use this?
+    Tahoe should not do analytics of any kind to its users
+  Admin permissions for servers given to all core
+    Core will make sure to take no action, so that no extra work will be 
+    created
+  Security Audit
+    Try to get proposals but then YOLO
+    Worst case scenario we have an audit done! 
+  Continuing contractor contracts and don't contractors have the right to choose
+  with whom they will contract?
+
+UPDATES
+  New Gentoo overlay - thanks jpds! (contributor)
+    https://github.com/jpds/tahoe-lafs-overlay
+  Contractor updates
+    New Testing and Release Manager Fenn will be introduced next week
+  Technical Assessment published
+    https://github.com/tahoe-lafs/community/issues/9#issuecomment-886648737
+
+DISCUSSION/INSPO
+  CTA: Survey for branding and mockups published by Anxhelo (Web Dev)
+    It is anonymous and takes 15 - 20 minutes
+    https://cloud.ura.design/apps/forms/Qet3iaZKmrcCLSdY
+  The regal look of graying hair and our impending collective mortality
+  Is it okay to use the term "douche chills"?
 
 Tuesday, July 20
 ______________________________________________________________________

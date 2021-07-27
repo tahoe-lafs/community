@@ -23,8 +23,13 @@ UPDATES
     https://github.com/jpds/tahoe-lafs-overlay
   Contractor updates
     New Testing and Release Manager Fenn
+  Technical Assessment published
+    https://github.com/tahoe-lafs/community/issues/9#issuecomment-886648737
   
 DISCUSSION/INSPO
+  CTA: Survey for branding and mockups published
+  It is anonymous and takes 15 - 20 minutes
+  https://cloud.ura.design/apps/forms/Qet3iaZKmrcCLSdY
   
 ______________________________________________________________________
 

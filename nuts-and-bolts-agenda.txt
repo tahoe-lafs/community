@@ -17,6 +17,7 @@ GOVERNANCE
     Could provide data/analytics
     https://cleaninsights.gitlab.io/clean-insights-python-sdk/
   Admin permissions for servers given to all core 
+  Security Audit
 
 UPDATES
   New Gentoo overlay - thanks jpds! (contributor)

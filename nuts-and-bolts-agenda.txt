@@ -15,8 +15,12 @@ INTRODUCTION
     Welcome Fenn (Testing and Release Manager)!
 
 GOVERNANCE
+    Setting a monthly IRL meet-up - suggested for the first Wednesday of
+    the month (So this would be August 4th)
+    Another meeting added, a standing meeting for "onboarding" new contributors
 
 UPDATES
+    Contractors
   
 DISCUSSION/INSPO
 ______________________________________________________________________

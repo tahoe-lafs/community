@@ -13,11 +13,12 @@ AGENDA
 _______________________________________________________________________
 INTRODUCTION
     Welcome Fenn (Testing and Release Manager)!
+    https://github.com/fenn-cs
 
 GOVERNANCE
     Setting a monthly IRL meet-up - suggested for the first Wednesday of
     the month (So this would be August 4th)
-    Another meeting added, a standing meeting for "onboarding" new contributors
+    Another standing meeting added, a standing meeting for "onboarding" new contributors
 
 UPDATES
     Contractors

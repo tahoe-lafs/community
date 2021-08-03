@@ -16,12 +16,13 @@ INTRODUCTION
     https://github.com/fenn-cs
 
 GOVERNANCE
-    Setting a monthly IRL meet-up - suggested for the first Wednesday of
-    the month (So this would be August 4th)
+    Setting a monthly IRL meet-up
     Another standing meeting added, a standing meeting for "onboarding" new contributors
 
 UPDATES
     Contractors
+    Monthly Report
+        https://github.com/tahoe-lafs/community/blob/main/Monthly%20Reports/july-2021.md
   
 DISCUSSION/INSPO
 ______________________________________________________________________

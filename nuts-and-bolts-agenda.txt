@@ -7,27 +7,43 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, August 3 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, August 10 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
-INTRODUCTION
-    Welcome Fenn (Testing and Release Manager)!
-    https://github.com/fenn-cs
-
-GOVERNANCE
-    Setting a monthly IRL meet-up
-    Another standing meeting added, a standing meeting for "onboarding" new contributors
-
 UPDATES
     Contractors
-    Monthly Report
-        https://github.com/tahoe-lafs/community/blob/main/Monthly%20Reports/july-2021.md
-  
+
+GOVERNANCE
+    
 DISCUSSION/INSPO
 ______________________________________________________________________
 
 Minutes of Past Meetings
+
+AUGUST
+______________________________________________________________________
+Present: Jean-Paul, meejah, Sajith, Fenn, May-Lee
+
+GOVERNANCE
+    Setting a monthly IRL meet-up
+        Will be in Berlin and probably an "Open Source" theme vs. strictly
+        Tahoe 
+    Standing meeting for "onboarding" new contributors.
+        Thursday evenings in the EU
+    Summit planning: Agenda needed to clarify project 
+        https://github.com/tahoe-lafs/community/issues/12
+     
+UPDATES
+    Contractors
+        Fenn (Testing and Release Manager) introduction and assignments
+    Monthly Report
+        https://github.com/tahoe-lafs/community/blob/main/Monthly%20Reports/july-2021.md
+  
+DISCUSSION/INSPO
+    Getting multiple servers for our test grid/pub grid
+        Sajith (core dev)/May-Lee (community manager) working on it
+    GitLab migration - Jean-Paul (core dev) might take it on 
 
 JULY
 

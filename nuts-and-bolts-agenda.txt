@@ -15,6 +15,7 @@ UPDATES
     Contractors
 
 GOVERNANCE
+    RfP has closed; we choose a vendor for our Security Audit
     
 DISCUSSION/INSPO
 ______________________________________________________________________

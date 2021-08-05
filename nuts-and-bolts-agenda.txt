@@ -13,6 +13,7 @@ AGENDA
 _______________________________________________________________________
 UPDATES
     Contractors
+    Pete Fein (SnakeDevs) will begin attending governance meetings
 
 GOVERNANCE
     RfP has closed; we choose a vendor for our Security Audit

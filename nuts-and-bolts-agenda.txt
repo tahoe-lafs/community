@@ -16,6 +16,7 @@ UPDATES
     Pete Fein (SnakeDevs) will begin attending governance meetings
 
 GOVERNANCE
+    Force pushes to tahoe-lafs/tahoe-lafs - project-wide policy allowing or forbidding?
     RfP has closed; we choose a vendor for our Security Audit
     
 DISCUSSION/INSPO

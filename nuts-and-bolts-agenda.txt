@@ -7,17 +7,20 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, August 10 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, August 17 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
     Contractors
-    Pete Fein (SnakeDevs) will begin attending governance meetings
+    Tahoe-LAFS PR bot has returned :)
+    Cure53 chosen to do audit
 
 GOVERNANCE
-    Force pushes to tahoe-lafs/tahoe-lafs - project-wide policy allowing or forbidding?
-    RfP has closed; we choose a vendor for our Security Audit
+    Anxhelo (Web Development) to present wireframes and mockups
+    Discussion: Preparing for the audit
+        https://leastauthority.com/blog/audit-preparation-checklist-5-important-steps-to-prepare-for-a-security-audit/
+        What to expect?
     
 DISCUSSION/INSPO
 ______________________________________________________________________
@@ -25,6 +28,24 @@ ______________________________________________________________________
 Minutes of Past Meetings
 
 AUGUST
+
+Tuesday, August 10
+_____________________________________________________________________
+Present: Jean-Paul, Fenn, May-Lee
+
+UPDATES
+    Contractors
+
+GOVERNANCE
+    No force pushing, except when working alone, and never when reworking PRs
+    Confidential internal discussion: Evaluating SOWs, by vendor (meejah gave input via email)
+        Sent questions to Radically Open Security and Cure53
+        Updated all core Tahoe members with discussion notes and voting process
+    
+DISCUSSION/INSPO
+    What to do with unmerged PRs?
+
+Tuesday, August 3
 ______________________________________________________________________
 Present: Jean-Paul, meejah, Sajith, Fenn, May-Lee
 

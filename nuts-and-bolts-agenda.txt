@@ -7,27 +7,46 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, August 17 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, August 24 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
     Contractors
-    Tahoe-LAFS PR bot has returned :)
-    Cure53 chosen to do audit
+    Website
 
 GOVERNANCE
-    Anxhelo (Web Development) to present wireframes and mockups
-    Discussion: Preparing for the audit
-        https://leastauthority.com/blog/audit-preparation-checklist-5-important-steps-to-prepare-for-a-security-audit/
-        What to expect?
-    
+    Audit prep if needed
+    Other issues
+
 DISCUSSION/INSPO
 ______________________________________________________________________
 
 Minutes of Past Meetings
 
 AUGUST
+
+Tuesday, August 10
+_____________________________________________________________________
+Present: Jean-Paul, Fenn, May-Lee, meejah, Anxhelo
+
+UPDATES
+    Tahoe-LAFS PR bot has returned :)
+    Cure53 chosen to do audit
+
+GOVERNANCE
+    Presenting landing pages - Anxhelo (Web Developer)
+        Suggesting a static site generator
+        Anxhelo will choose tooling and begin creating the website
+    Preparing for our security audit
+        https://leastauthority.com/blog/audit-preparation-checklist-5-important-steps-to-prepare-for-a-security-audit/
+        What's the experience of being audited going to be like?
+            A bunch of people ask questions about your codebase in the IRC for three weeks, so have answers
+        New development over the next 2-3 weeks should keep in mind the auditing process
+        Organize project/get to know project
+            Look at unknown lines of code - 40k off in some dusty corner
+            Reformatting of code using Black by Fenn (Testing and Release Manager) - more research needed
+        Freeze codebase Sept 6
 
 Tuesday, August 10
 _____________________________________________________________________

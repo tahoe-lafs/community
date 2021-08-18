@@ -46,6 +46,7 @@ GOVERNANCE
         Organize project/get to know project
             Look at unknown lines of code - 40k off in some dusty corner
             Reformatting of code using Black by Fenn (Testing and Release Manager) - more research needed
+            Recommended: a python2+3 release before we refactor/start GBS stuff
         Freeze codebase Sept 6
 
 Tuesday, August 10

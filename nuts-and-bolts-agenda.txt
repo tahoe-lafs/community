@@ -16,7 +16,7 @@ UPDATES
     Website
 
 GOVERNANCE
-    Audit talk if needed
+    Audit talk if needed - a python2+3 release before we refactor/start GBS stuff
     Housekeeping: what's falling by the wayside?
 
 DISCUSSION/INSPO

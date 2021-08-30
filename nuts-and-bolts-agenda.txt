@@ -7,27 +7,58 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, August 24 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, August 31 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
     Contractors
     Website
+    Mailing list
+    Yay Python 2 + 3 release candidate
+    Monthly report
 
 GOVERNANCE
-    Audit talk if needed - a python2+3 release before we refactor/start GBS stuff
+    Audit talk if needed
     Housekeeping: what's falling by the wayside?
 
 DISCUSSION/INSPO
-    Accepting grant proposals - what types of projects are we looking
-    for?
-    https://en.wikipedia.org/wiki/IP_over_Avian_Carriers
 ______________________________________________________________________
 
 Minutes of Past Meetings
 
 AUGUST
+
+Tuesday, August 24
+_____________________________________________________________________
+Present: Fenn, May-Lee, Meejah
+
+UPDATES
+    Contractors
+        try to max out Anxhelo's (Web dev) BASICS contract before requesting Tahoe
+        Fenn (testing and release) 2 PRs; need another merged
+    Website (Anxhelo) - focus is on accessiblity; using dark theme; created blog page
+
+GOVERNANCE
+    RC for Python 2 + 3
+        Only Warner (core) and meejah (core dev) have the Tahoe signing key
+        Jean-Paul (core dev) also can sign via Warner/meejah
+        We have enough documentation for a release although needs to be revamped
+        meejah and Fenn will go through it together
+        Fenn will take notes to help update the documentation
+        The Python 3 port was intended to have a Python 2 + 3 release
+
+    Reformatting codebase with Black/YAPF
+        https://tahoe-lafs.org/trac/tahoe-lafs/ticket/3775#ticket
+        Fenn will choose Black over YAPF and try to land the following branch:
+        https://github.com/meejah/tahoe-lafs/tree/2916.grid-manager-proposal.5
+        could be lots of conflicts/other effects
+
+DISCUSSION/INSPO
+    https://en.wikipedia.org/wiki/IP_over_Avian_Carriers and other RFCs
+    The IETF has an impending one that will result to a move to end-to-end
+    encrypted protocol
+    Monthly report call for items
 
 Tuesday, August 10
 _____________________________________________________________________

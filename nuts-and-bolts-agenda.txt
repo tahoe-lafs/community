@@ -7,20 +7,25 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, August 31 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, September 7 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
 UPDATES
     Contractors
+    Audit 
+    GitLab Migration
     Website
-    Mailing list
-    Yay Python 2 + 3 release candidate
-    Monthly report
+    Test Grid
+    Documentation
+    Summit/Events
 
 GOVERNANCE
-    Audit talk if needed
-    Housekeeping: what's falling by the wayside?
+    Theoretically the code should have been turned in to Cure53
+    I would like to keep the one meeting per week format
+        Ppl have been good about scheduling ad hoc meetings when needed
+        IRC/other channels keep us up-to-date
+        Thanks core team, for making yourselves available to new contributors
 
 DISCUSSION/INSPO
 ______________________________________________________________________
@@ -28,6 +33,41 @@ ______________________________________________________________________
 Minutes of Past Meetings
 
 AUGUST
+
+Tuesday, August 31
+_____________________________________________________________________
+Present: Fenn, May-Lee, meejah, Jean-Paul, Sajith
+
+UPDATES
+    BIG UPDATE: RC 1.16.0 - Thanks meejah (core dev) and Fenn (Testing and Release)
+        https://tahoe-lafs.discourse.group/t/1-16-0-release-candidate-a-message-from-meejah/34/2
+    Contractors
+        Fenn (Testing and Release Manager) did an RC w/meejah
+            Also tried to land a branch with Black but there were tons of merge
+            conflicts; still in process
+            Talked about time-outs in the testing suite 
+        Yash (documentation): mapped out the three major articles of the documentation
+        Yash and Fenn will update the release documentation together
+    Mailing list is back: https://lists.tahoe-lafs.org/mailman/listinfo 
+        Need admin gpg keys
+        Thanks Sajith (core dev)!
+    Discourse via Github to avoid forcing people to open new accounts
+        Discourse and all Tahoe-LAFS Discourse admins will have access to the GitHub Oauth secret;
+        this is non-optimal but we might still be okay with it
+        We discussed the actual consequences of this situation 
+    Audit
+        Have the commit we want audited by September 6th
+            Can keep developing; avoid major architectural overhauls
+        Lots of tickets that Jean-Paul (core dev) has to turn in; will help with the audit and make the audit more useful
+        Yash could help by answering documentation questions
+        Itamar has been looking at new interfaces that will help the GBS integration
+            Have one in place that would do still have Foolscap and also GBS;
+            Foolscap would work the same way and be behind a slightly different API 
+    Monthly report will be late
+
+GOVERNANCE
+    Have a list that gets cut and pasted from one meeting to the next so we
+    know what we're focused on - Jean-Paul 
 
 Tuesday, August 24
 _____________________________________________________________________

@@ -7,7 +7,8 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-Next meeting:  Tuesday, September 7 19:00 UTC +2/CEST 
+***NO MEETING TUESDAY, SEPTEMBER 7***
+Next meeting:  Tuesday, September 14 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
@@ -21,7 +22,6 @@ UPDATES
     Summit/Events
 
 GOVERNANCE
-    Theoretically the code should have been turned in to Cure53
     I would like to keep the one meeting per week format
         Ppl have been good about scheduling ad hoc meetings when needed
         IRC/other channels keep us up-to-date

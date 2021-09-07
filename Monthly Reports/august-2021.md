@@ -13,7 +13,7 @@ presented for discussion and ultimately published
 ### Summary
 
 With the Python 3 port completed, August focused on getting our Security Audit for 
-the Great Black Swamp (GBS protocol). We published an RfP, vetted proposals, 
+the Great Black Swamp (GBS) protocol. We published an RfP, vetted proposals, 
 scheduled a vendor and the Core Team got to work. Currently, they are preparing the
 codebase, design document and themselves to discuss GBS/Tahoe-LAFS to ensure it 
 is as secure as possible, as its founders intended. The codebase, the GBS protocol 

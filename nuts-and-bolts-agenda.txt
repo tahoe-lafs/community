@@ -21,6 +21,8 @@ UPDATES
     Summit/Events
 
 GOVERNANCE
+    Let's talk about this new invoicing process
+        https://github.com/tahoe-lafs/community/issues/15
     Begin Q4 planning
         What do we need to let ride?
         What do we need to taper down and wrap up?

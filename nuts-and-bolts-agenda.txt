@@ -7,8 +7,7 @@ SUMMER SCHEDULE (till end of September)
 No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
 then fun stuff/discussion
 
-***NO MEETING TUESDAY, SEPTEMBER 7***
-Next meeting:  Tuesday, September 14 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, September 21 19:00 UTC +2/CEST 
 
 AGENDA
 _______________________________________________________________________
@@ -22,17 +21,63 @@ UPDATES
     Summit/Events
 
 GOVERNANCE
-    I would like to keep the one meeting per week format
-        Ppl have been good about scheduling ad hoc meetings when needed
-        IRC/other channels keep us up-to-date
-        Thanks core team, for making yourselves available to new contributors
+    Begin Q4 planning
+        What do we need to let ride?
+        What do we need to taper down and wrap up?
+            Lighten everyone's mandatory workload from mid-November on
+            Have optional objectives for us workaholics 
+        What needs to be absolutely resolved before we end 2021?
+        How do we get infinite time and more devs? 
 
+CTAs 
+    
 DISCUSSION/INSPO
 ______________________________________________________________________
 
 Minutes of Past Meetings
 
-AUGUST
+SEPTEMBER
+
+Tuesday, September 14
+_____________________________________________________________________
+Present: May-Lee, meejah, Jean-Paul
+
+UPDATES
+    Contractors
+        BASICS/Internews: Anxhelo (web) on vacation, Yash (documentation) is working through 
+        documentation goals (consuming/providing storage) and Style Guide
+    Audit 
+        Contentful discussions happening
+        Start a private area to work on any critical issues
+    GitLab Migration
+        We would like another dev for this, still
+    Website
+    Test Grid
+        Possibly ask hacklschorsch (contributor)
+    Documentation
+        See above
+    Summit/Events
+        None
+
+GOVERNANCE
+    PR bottleneck 
+        Balance of work has shifted from long-time Tahoe contributors to new
+        Tahoe contributors 
+        Itamar (core dev) is very productive (working on 4 PRs), he could also be 
+        requested to more review to smooth out our coordination
+        Jean-Paul and meejah (core devs) review and renew ping strategy.
+    Meeting schedule 
+        One standing meeting per week (Tuesday's Nuts and Bolts at UTC +1/+2)
+        Meetings with outside organizations should also try to be scheduled during
+        this time 
+        If a meeting for a specific purpose needs to happen outside of this time,
+        then it will be the ONLY meeting that week, and the Tuesday meeting gets
+        cancelled
+
+ACTIONS 
+    meejah and Fenn (Testing and Release) to put out the Release
+
+***NO MEETING TUESDAY, SEPTEMBER 7***
 
 Tuesday, August 31
 _____________________________________________________________________

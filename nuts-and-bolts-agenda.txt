@@ -1,13 +1,10 @@
-Agenda and minutes of meetings
+Agenda and minutes of Governance meetings
 
 URL TBD via IRC
-Tuesdays we focus on Governance/decisions
-Fridays we do inspo, anti-anti-patterning and presentations
-SUMMER SCHEDULE (till end of September)
-No Friday meeting, Tuesday only: First 20 minutes of the meeting will be Governance, 
-then fun stuff/discussion
+Nearly Every Tuesdy
 
-Next meeting:  Tuesday, September 21 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, October 5 19:00 UTC +2/CEST 
+After November begins, we meet at 19:00 UTC +1/CET 
 
 AGENDA
 _______________________________________________________________________
@@ -15,21 +12,19 @@ UPDATES
     Contractors
     Audit 
     GitLab Migration
+        Update needed (development started)
     Website
     Test Grid
+        Update needed (deployed, other movements?)
     Documentation
     Summit/Events
+    Community, Mailing List, Discourse etc.
+        I would like to deprecate the Slack
 
 GOVERNANCE
-    Let's talk about this new invoicing process
-        https://github.com/tahoe-lafs/community/issues/15
-    Begin Q4 planning
-        What do we need to let ride?
-        What do we need to taper down and wrap up?
-            Lighten everyone's mandatory workload from mid-November on
-            Have optional objectives for us workaholics 
-        What needs to be absolutely resolved before we end 2021?
-        How do we get infinite time and more devs? 
+    Q4 planning
+    NEXT: Audit should be getting delivered on the 11th; so we should all be 
+    at the meeting of the 12th in a closed session
 
 CTAs 
     
@@ -39,6 +34,32 @@ ______________________________________________________________________
 Minutes of Past Meetings
 
 SEPTEMBER
+
+***NO MEETING TUESDAY, SEPTEMBER 28***
+
+Tuesday, September 21
+_____________________________________________________________________
+Present: May-Lee, Fenn, Jean-Paul
+
+UPDATES
+    Contractors
+        Fenn (Internews/BASICS) did release for 1.16.0; tracked documentation
+        issues
+    Audit 
+        Closed discussion about strategy for audit fixes
+        (summarized and sent via email)
+    GitLab Migration
+    Website
+    Test Grid
+    Documentation
+    Summit/Events
+
+GOVERNANCE
+    How will we address the audit fixes?
+
+CTAs 
+    
+DISCUSSION/INSPO
 
 Tuesday, September 14
 _____________________________________________________________________

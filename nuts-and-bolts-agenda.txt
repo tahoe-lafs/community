@@ -15,14 +15,14 @@ UPDATES
         Update needed (development started)
     Website
     Test Grid
-        Update needed (deployed, other movements?)
+        Deployed, more info: https://tahoe-lafs.discourse.group/t/help-deploy-a-tahoe-lafs-test-grid/28/7
     Documentation
     Summit/Events
     Community, Mailing List, Discourse etc.
         I would like to deprecate the Slack
 
 GOVERNANCE
-    Q4 planning
+    Finalize Cure53 list of headlines
     NEXT: Audit should be getting delivered on the 11th; so we should all be 
     at the meeting of the 12th in a closed session
 

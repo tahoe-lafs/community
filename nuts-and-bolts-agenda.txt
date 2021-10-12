@@ -3,7 +3,7 @@ Agenda and minutes of Governance meetings
 URL TBD via IRC
 Nearly Every Tuesdy
 
-Next meeting:  Tuesday, October 5 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, October 12 19:00 UTC +2/CEST 
 After November begins, we meet at 19:00 UTC +1/CET 
 
 AGENDA
@@ -22,9 +22,8 @@ UPDATES
         I would like to deprecate the Slack
 
 GOVERNANCE
-    Finalize Cure53 list of headlines
-    NEXT: Audit should be getting delivered on the 11th; so we should all be 
-    at the meeting of the 12th in a closed session
+    Discuss end-of-year coordination
+    We might unfortunately end up with two meeting this week
 
 CTAs 
     
@@ -32,6 +31,10 @@ DISCUSSION/INSPO
 ______________________________________________________________________
 
 Minutes of Past Meetings
+
+OCTOBER
+
+***NO MEETING TUESDAY, OCTOBER 5***
 
 SEPTEMBER
 

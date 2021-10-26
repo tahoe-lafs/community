@@ -3,7 +3,7 @@ Agenda and minutes of Governance meetings
 URL TBD via IRC
 Nearly Every Tuesdy
 
-Next meeting:  Tuesday, October 12 19:00 UTC +2/CEST 
+Next meeting:  Tuesday, October 26 19:00 UTC +2/CEST 
 After November begins, we meet at 19:00 UTC +1/CET 
 
 AGENDA
@@ -11,21 +11,21 @@ _______________________________________________________________________
 UPDATES
     Contractors
     Audit 
+        Money situation
     GitLab Migration
         Update needed (development started)
     Website
+        Update needed
     Test Grid
-        Deployed, more info: https://tahoe-lafs.discourse.group/t/help-deploy-a-tahoe-lafs-test-grid/28/7
     Documentation
     Summit/Events
     Community, Mailing List, Discourse etc.
-        I would like to deprecate the Slack
-        Change release procedure: no more "rc0" etc
 
 GOVERNANCE
-    Discuss end-of-year coordination
-    We might unfortunately end up with two meeting this week
-
+    Project security fix timeline/milestones
+        What's our cutoffpoint for the first round of fixes?
+    Improving the project/reboarding
+    
 CTAs 
     
 DISCUSSION/INSPO
@@ -34,6 +34,64 @@ ______________________________________________________________________
 Minutes of Past Meetings
 
 OCTOBER
+
+Tuesday, October 19
+_____________________________________________________________________
+Present: May-Lee, Jean-Paul, Sajith
+
+UPDATES
+    Contractors
+    Audit 
+        Money situation
+    GitLab Migration
+        Update needed (development started)
+    Website
+        Update needed
+    Test Grid
+    Documentation
+    Summit/Events
+    Community, Mailing List, Discourse etc.
+
+GOVERNANCE
+    "Re-boarding"/state of the project
+    
+CTAs 
+    
+DISCUSSION/INSPO
+
+Tuesday, October 12
+_____________________________________________________________________
+Present: May-Lee, Jean-Paul, meejah
+
+UPDATES
+    Contractors
+        Fenn (testing and release manager)
+            Updates on the week's work and his goals for the year:
+                Learning about set-up tools and production vs. development
+                Wants to do 4 Hacktober PRs
+    Releases
+        We don't do reproducible builds, but we needed to reproduce one to
+        track down a size discrepancy between 1.16.0 rc1 and rc2
+    Audit 
+    GitLab Migration
+        New conversion tool started by Jean-Paul (core dev)
+    Website
+    Test Grid
+        Deployed and is working
+    Documentation
+    Summit/Events
+    Community, Mailing List, Discourse etc.
+
+GOVERNANCE
+    We talked about documentation and how it is the first point of contact
+    for contributors entering the project. 
+    Agreed: we need to write down rules for documentation so that documentation
+    is cohesive and united in purpose.
+        Other considerations:
+
+CTAs 
+    
+DISCUSSION/INSPO
 
 ***NO MEETING TUESDAY, OCTOBER 5***
 
@@ -172,7 +230,7 @@ DISCUSSION/INSPO
     encrypted protocol
     Monthly report call for items
 
-Tuesday, August 10
+Tuesday, August 17
 _____________________________________________________________________
 Present: Jean-Paul, Fenn, May-Lee, meejah, Anxhelo
 

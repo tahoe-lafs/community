@@ -41,19 +41,42 @@ Present: May-Lee, Jean-Paul, Sajith
 
 UPDATES
     Contractors
+        Fenn (testing and release manager)
+            More thoughts on documentation
+            Getting rid of some documents
+            Opening PRs/tickets to deal with specific actions relating to 
+            documentation
+            Suggestions about moving up the PR ladder in terms of asking for and
+            giving reviews
+        Yash (documentation) - Met with Fenn to share knowledge from meejah (core
+        dev) and Jean-Paul (core dev)
+            Possible three groups of users to design documentation around:
+            People who are new to Tahoe and trying to use the software
+            Other group is the builders interested in the building of the project
+            Third group is a mix of first group; users who want to know the nitty gritty
     Audit 
-        Money situation
+        We are focusing on fixing issues until they are done 
     GitLab Migration
         Update needed (development started)
     Website
         Update needed
     Test Grid
     Documentation
+        Sajith (core dev) will merge the PR that has the ToC so Yash can build 
+        off of it.
     Summit/Events
     Community, Mailing List, Discourse etc.
 
 GOVERNANCE
-    "Re-boarding"/state of the project
+    All meeting times will be pegged to Tuesdays at 19:00 in Berlin, because 
+    that is where May-Lee (Community Manager) is located
+    CCX will be joining the remediation team according to a vote
+        He is interested in reliability and working on mutables
+    We discussed and voted to share the audit report only with 1) Community
+    members (according to a vote by the core devs) and 2) also they will be 
+    joining or are interested in joining the remediation team. 
+    After the fixes are pushed, we will share the report publicly
+    We edited typos in the audit report together
     
 CTAs 
     

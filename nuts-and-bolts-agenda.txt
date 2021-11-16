@@ -3,7 +3,7 @@ Agenda and minutes of Governance meetings
 URL TBD via IRC
 Nearly Every Tuesday
 
-Next meeting:  Tuesday, November 2 19:00 UTC +1/CET  
+Next meeting:  Tuesday, November 16 19:00 UTC +1/CET  
 
 AGENDA
 _______________________________________________________________________
@@ -12,14 +12,13 @@ UPDATES
     Audit 
     GitLab Migration
     Website
-        Update needed
     Test Grid
     Documentation
     Summit/Events
     Community, Mailing List, Discourse etc.
 
 GOVERNANCE
-    RC discussion
+    Hauskeeping
     
 CTAs 
     
@@ -28,12 +27,18 @@ ______________________________________________________________________
 
 Minutes of Past Meetings
 
-OCTOBER
+NOVEMBER 
 
-Tuesday, October 26
+**NO MEETING TUESDAY NOVEMBER 9**
+
+Tuesday, November 2
 _____________________________________________________________________
 UPDATES
     Contractors
+        Encourage contractors to file tickets that describe a desired 
+        outcome and submit small PRs that resolve them
+        Fenn - continuing to take steps to automate the release process
+        
     Audit 
         Money situation
     GitLab Migration
@@ -47,8 +52,32 @@ UPDATES
 
 GOVERNANCE
     Project security fix timeline/milestones
-        What's our cutoffpoint for the first round of fixes?
-    Improving the project/reboarding
+        *Closed discussion*
+
+OCTOBER
+
+Tuesday, October 26
+_____________________________________________________________________
+UPDATES
+    Contractors
+        Encourage contractors to file tickets that describe a desired 
+        outcome and submit small PRs that resolve them
+        Fenn - continuing to take steps to automate the release process
+        
+    Audit 
+        Money situation
+    GitLab Migration
+        Update needed (development started)
+    Website
+        Update needed
+    Test Grid
+    Documentation
+    Summit/Events
+    Community, Mailing List, Discourse etc.
+
+GOVERNANCE
+    Project security fix timeline/milestones
+        *Closed discussion*
     
 CTAs 
 

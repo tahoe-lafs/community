@@ -18,7 +18,7 @@ UPDATES
     Community, Mailing List, Discourse etc.
 
 GOVERNANCE
-    Hauskeeping
+    TBD/suggestions welcome
     
 CTAs 
     
@@ -28,6 +28,39 @@ ______________________________________________________________________
 Minutes of Past Meetings
 
 NOVEMBER 
+
+Tuesday, November 16
+_____________________________________________________________________
+UPDATES
+    Contractors
+        Anxhelo's (Web Dev) contract with BASICS had completed; we did the 
+        closing report together and gathered learnings from the experience   
+        General discussion of how the organization could support contributors
+    Audit 
+        Remediation has stalled over the last week as we were down one reviewer
+        Discussion of merging strategy to avoid conflicts as branches grow/age
+        Discussion of Cure53's verification of fixes and the possible timeline
+        Insights on upcoming fixes from meejah (core dev)
+    GitLab Migration
+    Website
+        Supposed to be pushed soon; m-L (Community Manager) will follow up
+    Test Grid
+        Grid is full
+        The NixOS config for Tahoe does not support GC - Jean-Paul (core dev)
+        Lease configuration and lease design 
+        ZKAP faucet to manage access
+        Cronjob that deletes everything every week
+        PS would benefit from lease duration being a client setable constraint
+    Documentation
+    Summit/Events
+    Community, Mailing List, Discourse etc.
+
+GOVERNANCE
+    Tahoe needs more technical and resource availabilty
+    It's probably going to be 30 hours/wk for each core member, easily
+    With all of the work that can be done on Tahoe, the processes would direct 
+    themselves, thereby needing nominal process or organizational resources
+    We need to work on our onboarding, management and retention
 
 **NO MEETING TUESDAY NOVEMBER 9**
 

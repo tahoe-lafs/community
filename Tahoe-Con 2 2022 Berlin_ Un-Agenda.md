@@ -198,17 +198,17 @@ A small group of core Tahoe folks got to meet up in Berlin, mostly due to being 
 
 We give thanks to the following, and many more, without whom this project would not exist:
 
-Zooko Wilcox
-Amber O'Hearn
-Liz Steininger
-Brian Warner
-Peter Secor
-The Team at Least Authority
-And everyone else :) 
+Zooko Wilcox  
+Amber O'Hearn  
+Liz Steininger  
+Brian Warner  
+Peter Secor  
+The Team at Least Authority  
+And everyone else :)   
 
 Community members who expressed interest in, but could not attend this year:
 
-CCX
-Fenn
+CCX  
+Fenn  
 
 Till next time!

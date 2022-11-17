@@ -1,6 +1,6 @@
 # Tahoe-Con 2 2022 Berlin: Un-Agenda
 
-![](https://i.imgur.com/0wBahYy.jpg)
+![Photo of an "HR Jar", stuffed with cash and transgressions](https://i.imgur.com/0wBahYy.jpg)
 
 *It was a marvel of just-in-time engineering*
 
@@ -35,7 +35,7 @@ A small group of core Tahoe folks got to meet up in Berlin, mostly due to being 
     - Bonus Round!
     - Talk to Pete
 
-![](https://i.imgur.com/FQzRMnV.jpg)
+![JP walks the code walk](https://i.imgur.com/FQzRMnV.jpg)
 
 *Code walk and some live coding together*
 

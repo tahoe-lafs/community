@@ -95,7 +95,7 @@ A small group of core Tahoe folks got to meet up in Berlin, mostly due to being 
 
     - 15:00 or so: Break/Shae leaves for the airport
 
-![](https://i.imgur.com/VCe6wvL.jpg)
+![Multi-colored Post-Its cover the wall with Roadmap items](https://i.imgur.com/VCe6wvL.jpg)
 
 *2023 Roadmap (DRAFT)*
 
